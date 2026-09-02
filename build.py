@@ -280,7 +280,7 @@ def build_work_index():
     <h1 class="display"><span>Work</span></h1>
   </div>
   <div class="hero-rail rail">
-    <section><h2>Note</h2><p>Projects produced by ChiLab Studio and its founders, including work developed at West Supply and with the studio's glass practice.</p></section>
+    <section><h2>Note</h2><p>Projects produced by ChiLab Studio and its founders, including earlier work from the studio's glass practice.</p></section>
   </div>
 </section>
 
