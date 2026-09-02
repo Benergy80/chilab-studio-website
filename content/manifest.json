@@ -690,88 +690,98 @@
    "h": 1024
   }
  ],
- "aura-sconce": [
+ "architizer-a-award": [
   {
-   "src": "assets/img/aura-sconce/01.jpg",
+   "src": "assets/img/architizer-a-award/01.jpg",
+   "w": 836,
+   "h": 608
+  },
+  {
+   "src": "assets/img/architizer-a-award/02.jpg",
+   "w": 1730,
+   "h": 1153
+  },
+  {
+   "src": "assets/img/architizer-a-award/03.jpg",
+   "w": 1400,
+   "h": 1400
+  },
+  {
+   "src": "assets/img/architizer-a-award/04.jpg",
+   "w": 1144,
+   "h": 679
+  },
+  {
+   "src": "assets/img/architizer-a-award/05.jpg",
+   "w": 640,
+   "h": 427
+  },
+  {
+   "src": "assets/img/architizer-a-award/06.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/architizer-a-award/07.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/architizer-a-award/08.jpg",
    "w": 1800,
    "h": 2400
   },
   {
-   "src": "assets/img/aura-sconce/02.jpg",
-   "w": 1800,
-   "h": 2400
-  },
-  {
-   "src": "assets/img/aura-sconce/03.jpg",
+   "src": "assets/img/architizer-a-award/09.jpg",
    "w": 1800,
    "h": 1800
   },
   {
-   "src": "assets/img/aura-sconce/04.jpg",
-   "w": 1800,
-   "h": 1800
-  },
-  {
-   "src": "assets/img/aura-sconce/05.jpg",
-   "w": 1800,
-   "h": 2250
-  },
-  {
-   "src": "assets/img/aura-sconce/06.jpg",
-   "w": 1800,
-   "h": 2250
-  },
-  {
-   "src": "assets/img/aura-sconce/07.jpg",
-   "w": 1800,
-   "h": 1800
-  },
-  {
-   "src": "assets/img/aura-sconce/08.jpg",
+   "src": "assets/img/architizer-a-award/10.jpg",
    "w": 1800,
    "h": 1800
   }
  ],
- "glass-marble-table": [
+ "tessellation-wall": [
   {
-   "src": "assets/img/glass-marble-table/01.jpg",
-   "w": 1800,
-   "h": 1221
+   "src": "assets/img/tessellation-wall/01.jpg",
+   "w": 1151,
+   "h": 620
   },
   {
-   "src": "assets/img/glass-marble-table/02.jpg",
-   "w": 1800,
-   "h": 1221
+   "src": "assets/img/tessellation-wall/02.jpg",
+   "w": 1128,
+   "h": 752
   },
   {
-   "src": "assets/img/glass-marble-table/03.jpg",
+   "src": "assets/img/tessellation-wall/03.jpg",
+   "w": 1026,
+   "h": 685
+  },
+  {
+   "src": "assets/img/tessellation-wall/04.jpg",
+   "w": 1012,
+   "h": 740
+  },
+  {
+   "src": "assets/img/tessellation-wall/05.jpg",
+   "w": 640,
+   "h": 640
+  },
+  {
+   "src": "assets/img/tessellation-wall/06.jpg",
    "w": 1800,
    "h": 1350
   },
   {
-   "src": "assets/img/glass-marble-table/04.jpg",
-   "w": 1800,
-   "h": 1350
+   "src": "assets/img/tessellation-wall/07.jpg",
+   "w": 929,
+   "h": 693
   },
   {
-   "src": "assets/img/glass-marble-table/05.jpg",
-   "w": 1800,
-   "h": 1350
-  },
-  {
-   "src": "assets/img/glass-marble-table/06.jpg",
-   "w": 1800,
-   "h": 1350
-  },
-  {
-   "src": "assets/img/glass-marble-table/07.jpg",
-   "w": 1800,
-   "h": 1800
-  },
-  {
-   "src": "assets/img/glass-marble-table/08.jpg",
-   "w": 1800,
-   "h": 1800
+   "src": "assets/img/tessellation-wall/08.jpg",
+   "w": 962,
+   "h": 735
   }
  ],
  "kumas-west-loop": [

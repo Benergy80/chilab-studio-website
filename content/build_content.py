@@ -226,23 +226,7 @@ P.append(dict(
     body=["A lamp and pendant family developed in house, taking its geometry from the boolean intersection of two primitive volumes. Produced in hand blown glass and later scaled into the Kuma's West Loop interior."],
     imgs=bs("the-boolean-lamp-and-pendant.html")))
 
-P.append(dict(
-    slug="aura-sconce", title="Aura Sconce", sub="Architizer A+ Award",
-    year="2016", place="Chicago, IL", cat="Lighting",
-    lead="A UL certified sconce developed with Gary Lee Partners.",
-    credits=["Design: Gary Lee Partners", "Developed by Ben Stagl and Kuan Wen Chiu"],
-    materials="Cast glass, metal, LED",
-    body=["Designed in collaboration with Gary Lee Partners and developed by Ben Stagl and Kuan Wen Chiu. The Aura Sconce is a UL certified fixture and an Architizer A+ Award winner."],
-    imgs=bs("aura-sconce.html", 8)))
 
-P.append(dict(
-    slug="glass-marble-table", title="Solid Cast Glass and Marble Table", sub="Studio Gang",
-    year="2016", place="Chicago, IL", cat="Furniture",
-    lead="A solid cast glass top on marble, developed for Studio Gang.",
-    credits=["Studio Gang", "With Kuan Wen Chiu and Ally Reza"],
-    materials="Solid cast glass, marble",
-    body=["Developed for Studio Gang in collaboration with Kuan Wen Chiu and Ally Reza."],
-    imgs=bs("solid-cast-glass-and-marble-table.html", 8)))
 
 P.append(dict(
     slug="kumas-west-loop", title="Kuma's Corner West Loop", sub="Lighting, metalwork, furnishings",
