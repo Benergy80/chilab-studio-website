@@ -97,20 +97,6 @@
   "Perron-Roettinger Studio",
   "CNL Projects"
  ],
- "recognition": [
-  [
-   "2016",
-   "Architizer A+ Award"
-  ],
-  [
-   "2019",
-   "Newcity Design 50"
-  ],
-  [
-   "2013",
-   "WANTED DESIGN New York, Chicagoland"
-  ]
- ],
  "news": [
   {
    "date": "May 2025",
@@ -148,5 +134,19 @@
    "text": "ChiLab Studio recognized in Newcity's annual survey of the people shaping design in Chicago.",
    "link": null
   }
+ ],
+ "press": [
+  [
+   "2019",
+   "Newcity, Designed Objects issue cover"
+  ],
+  [
+   "2019",
+   "Interior Design, Knoll Chicago flagship"
+  ],
+  [
+   "2013",
+   "The New York Times, Home section cover"
+  ]
  ]
 }

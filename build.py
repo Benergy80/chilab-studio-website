@@ -112,8 +112,8 @@ def home_rail(depth):
             f'<li><a href="{rel(depth, "work/index.html")}#{slugify(c)}">{e(c)}</a> '
             f'<span style="color:var(--muted)">{n}</span></li>'
             for c, n in sorted(cats.items())) + "</ul>"),
-        rail_block("Recognition", "<ul>" + "".join(
-            f'<li>{e(y)} &nbsp; {e(t)}</li>' for y, t in site["recognition"]) + "</ul>"),
+        rail_block("Press", "<ul>" + "".join(
+            f'<li>{e(y)} &nbsp; {e(t)}</li>' for y, t in site["press"]) + "</ul>"),
     ]
     return "".join(parts)
 
@@ -381,7 +381,7 @@ def build_studio():
   <div class="hero-rail rail">
     {rail_block("Founded", f"<p>{e(site['founded'])}, {e(site['city'])}</p>")}
     {rail_block("Contact", f'<p><a href="mailto:{e(site["email"])}">{e(site["email"])}</a></p>')}
-    {rail_block("Recognition", "<ul>" + "".join(f"<li>{e(y)} &nbsp; {e(t)}</li>" for y, t in site["recognition"]) + "</ul>")}
+    {rail_block("Press", "<ul>" + "".join(f"<li>{e(y)} &nbsp; {e(t)}</li>" for y, t in site["press"]) + "</ul>")}
   </div>
 </section>
 
