@@ -24,7 +24,7 @@ for p in projects:
 BY_SLUG = {p["slug"]: p for p in projects}
 FEATURED = ["ohare-terminal-5", "uber-spiral-stair", "st-nicholas-crosses",
             "skims", "illinois-state-capitol", "knoll-marquee",
-            "magnificent-mile-tulips", "aura-sconce"]
+            "magnificent-mile-tulips", "flight-of-butterflies"]
 HOME_FEATURE = "ohare-terminal-5"
 
 NAV = [("work/index.html", "Work"), ("studio.html", "Studio"),
