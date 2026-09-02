@@ -126,9 +126,15 @@ img { display: block; width: 100%; height: auto; }
   border: 0;
   padding: 0;
   background: none;
-  color: inherit;
   font: inherit;
   cursor: pointer;
+  display: block;
+  margin: 0 0 6px auto;
+  font-size: clamp(12px, 0.8vw, 15px);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  color: var(--muted);
 }
 .theme-toggle:hover { color: var(--oxide); text-decoration: underline; text-underline-offset: 3px; }
 .theme-toggle:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }

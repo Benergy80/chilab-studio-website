@@ -47,6 +47,13 @@ def social_links():
     return " &nbsp; ".join(links)
 
 
+def theme_toggle():
+    return ('<button class="theme-toggle" type="button" data-theme-toggle'
+            ' aria-label="Switch colour theme">'
+            '<span data-when="dark">Dark mode</span>'
+            '<span data-when="light">Light mode</span></button>')
+
+
 def slugify(value):
     return e(value.lower().replace(" ", "-"))
 
@@ -74,7 +81,7 @@ def head(title, desc, depth, page):
 <body>
 <header class="shell grid masthead">
   <a class="wordmark" href="{rel(depth, 'index.html')}">ChiLab Studio</a>
-  <nav>{nav}<button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span data-when="dark">Dark</span><span data-when="light">Light</span></button></nav>
+  <nav>{nav}</nav>
 </header>
 <main>
 """
@@ -183,7 +190,7 @@ def build_home():
     <h1 class="display">{h1}</h1>
     <div class="deck">{deck}</div>
   </div>
-  <div class="hero-rail rail">{home_rail(depth)}</div>
+  <div class="hero-rail rail">{theme_toggle()}{home_rail(depth)}</div>
 </section>
 
 <section class="shell grid picture-ledger">
@@ -282,7 +289,7 @@ def build_work_index():
     <p class="kicker">Index &nbsp;/&nbsp; {len(projects)} projects</p>
     <h1 class="display"><span>Work</span></h1>
   </div>
-  <div class="hero-rail rail">
+  <div class="hero-rail rail">{theme_toggle()}
     <section><h2>Note</h2><p>Projects produced by ChiLab Studio and its directors, including earlier work from the studio's glass practice.</p></section>
   </div>
 </section>
@@ -351,7 +358,7 @@ def build_project(p, prev, nxt):
     <p class="project-lede">{e(p['lead'])}</p>
     {body}
   </div>
-  <div class="project-rail rail">{rail}</div>
+  <div class="project-rail rail">{theme_toggle()}{rail}</div>
 </section>
 
 <section class="shell grid plates">{''.join(plates)}</section>
@@ -378,7 +385,7 @@ def build_studio():
     <p class="kicker">About</p>
     <h1 class="display"><span>Studio</span></h1>
   </div>
-  <div class="hero-rail rail">
+  <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Founded", f"<p>{e(site['founded'])}, {e(site['city'])}</p>")}
     {rail_block("Contact", f'<p><a href="mailto:{e(site["email"])}">{e(site["email"])}</a></p>')}
     {rail_block("Press", "<ul>" + "".join(f"<li>{e(y)} &nbsp; {e(t)}</li>" for y, t in site["press"]) + "</ul>")}
@@ -408,7 +415,7 @@ def build_capabilities():
     <h1 class="display"><span>Capabilities</span></h1>
     <p class="section-lede" style="margin-top:var(--row)">{e(site['sections']['capabilities']['lede'])}</p>
   </div>
-  <div class="hero-rail rail">
+  <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Work", '<p><a href="work/index.html">See the index</a></p>')}
     {rail_block("Enquiries", f'<p><a href="mailto:{e(site["email"])}">{e(site["email"])}</a></p>')}
   </div>
@@ -438,7 +445,7 @@ def build_news():
     <p class="kicker">Press and announcements</p>
     <h1 class="display"><span>News</span></h1>
   </div>
-  <div class="hero-rail rail">
+  <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Follow", f'<p>{social_links()}</p>')}
   </div>
 </section>
@@ -461,7 +468,7 @@ def build_contact():
     <h1 class="display"><span>Contact</span></h1>
     <p class="section-lede" style="margin-top:var(--row)">{e(site['sections']['contact']['lede'])}</p>
   </div>
-  <div class="hero-rail rail">
+  <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Studio", f"<p>{e(site['city'])}</p>")}
     {rail_block("Social", f'<p>{social_links()}</p>')}
   </div>
