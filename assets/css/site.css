@@ -21,6 +21,37 @@
   --sans: "Inter Tight", "Arial Narrow", Arial, Helvetica, sans-serif;
 }
 
+/* ---------- theme ---------- */
+
+:root { color-scheme: light; }
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #161614;
+  --ink: #ece9e1;
+  --muted: #8b8779;
+  --rule: #7a7568;
+  --soft-rule: #343129;
+  --panel: #201f1c;
+  --oxide: #d4674a;
+  --oxide-soft: #3a231a;
+}
+
+/* respects the system setting before the theme script runs, and without JS */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --page: #161614;
+    --ink: #ece9e1;
+    --muted: #8b8779;
+    --rule: #7a7568;
+    --soft-rule: #343129;
+    --panel: #201f1c;
+    --oxide: #d4674a;
+    --oxide-soft: #3a231a;
+  }
+}
+
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
@@ -89,6 +120,25 @@ img { display: block; width: 100%; height: auto; }
 }
 .masthead nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 3px; }
 .masthead nav a:hover { color: var(--oxide); text-decoration: underline; text-underline-offset: 3px; }
+
+.theme-toggle {
+  appearance: none;
+  border: 0;
+  padding: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.theme-toggle:hover { color: var(--oxide); text-decoration: underline; text-underline-offset: 3px; }
+.theme-toggle:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+.theme-toggle [data-when="light"] { display: none; }
+:root[data-theme="dark"] .theme-toggle [data-when="dark"] { display: none; }
+:root[data-theme="dark"] .theme-toggle [data-when="light"] { display: inline; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) .theme-toggle [data-when="dark"] { display: none; }
+  :root:not([data-theme]) .theme-toggle [data-when="light"] { display: inline; }
+}
 
 /* ---------- hero ---------- */
 

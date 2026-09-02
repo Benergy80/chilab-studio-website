@@ -66,12 +66,15 @@ def head(title, desc, depth, page):
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:,">
+<meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161614" media="(prefers-color-scheme: dark)">
 <link rel="stylesheet" href="{rel(depth, 'assets/css/site.css')}">
+<script>(function(){{var t;try{{t=localStorage.getItem("chilab-theme")}}catch(e){{}}if(t!=="dark"&&t!=="light"){{t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}}document.documentElement.setAttribute("data-theme",t)}})();</script>
 </head>
 <body>
 <header class="shell grid masthead">
   <a class="wordmark" href="{rel(depth, 'index.html')}">ChiLab Studio</a>
-  <nav>{nav}</nav>
+  <nav>{nav}<button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span data-when="dark">Dark</span><span data-when="light">Light</span></button></nav>
 </header>
 <main>
 """
@@ -280,7 +283,7 @@ def build_work_index():
     <h1 class="display"><span>Work</span></h1>
   </div>
   <div class="hero-rail rail">
-    <section><h2>Note</h2><p>Projects produced by ChiLab Studio and its founders, including earlier work from the studio's glass practice.</p></section>
+    <section><h2>Note</h2><p>Projects produced by ChiLab Studio and its directors, including earlier work from the studio's glass practice.</p></section>
   </div>
 </section>
 

@@ -1,4 +1,13 @@
 (function () {
+  var toggle = document.querySelector("[data-theme-toggle]");
+  if (toggle) {
+    toggle.addEventListener("click", function () {
+      var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", next);
+      try { localStorage.setItem("chilab-theme", next); } catch (e) {}
+    });
+  }
+
   var filters = document.getElementById("filters");
   if (filters) {
     filters.addEventListener("click", function (event) {
