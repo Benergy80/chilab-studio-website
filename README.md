@@ -30,3 +30,11 @@ Design contract files live in `design/`:
 python3 -m http.server 3112 --bind 127.0.0.1
 ```
 
+## Domain
+
+Leave GitHub Pages on the default GitHub URL until the DNS cutover is approved.
+When `chilabstudio.com` is ready to move, add a `CNAME` file containing:
+
+```text
+chilabstudio.com
+```
