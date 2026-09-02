@@ -20,6 +20,10 @@ manifest = json.load(open(os.path.join(C, "manifest.json")))
 for p in projects:
     p["plates"] = manifest.get(p["slug"], [])
     p["cover"] = p.get("cover") or (p["plates"][0]["src"] if p["plates"] else None)
+    # Grid/index thumbnail. Defaults to the second plate so a project never shows
+    # the same frame as its hero and its card on the same page.
+    p["card"] = p.get("card") or (p["plates"][1]["src"] if len(p["plates"]) > 1
+                                  else p["cover"])
 
 BY_SLUG = {p["slug"]: p for p in projects}
 FEATURED = ["ohare-terminal-5", "uber-spiral-stair", "st-nicholas-crosses",
@@ -157,9 +161,9 @@ def feature_block(p, depth):
 def work_card(p, depth):
     if not p["cover"]:
         return ""
-    return f"""<a class="work-card" href="{rel(depth, 'work/' + p['slug'] + '.html')}" data-cat="{e(p['cat'])}" data-preview="{rel(depth, p['cover'])}">
+    return f"""<a class="work-card" href="{rel(depth, 'work/' + p['slug'] + '.html')}" data-cat="{e(p['cat'])}" data-preview="{rel(depth, p['card'])}">
   <figure>
-    <div class="frame"><img src="{rel(depth, p['cover'])}" alt="{e(p['title'])}" loading="lazy" width="1200" height="900"></div>
+    <div class="frame"><img src="{rel(depth, p['card'])}" alt="{e(p['title'])}" loading="lazy" width="1200" height="900"></div>
     <figcaption><span class="name">{e(p['title'])}</span><span class="meta">{e(p['year'])}</span></figcaption>
     <div class="sub">{e(p['sub'])}</div>
   </figure>
@@ -273,7 +277,7 @@ def build_work_index():
     filters = '<button aria-pressed="true" data-cat="all">All</button>' + "".join(
         f'<button id="{slugify(c)}" aria-pressed="false" data-cat="{e(c)}">{e(c)}</button>' for c in cats)
     rows = "".join(
-        f'<a class="index-row" href="{e(p["slug"])}.html" data-cat="{e(p["cat"])}" data-preview="{rel(depth, p["cover"])}">'
+        f'<a class="index-row" href="{e(p["slug"])}.html" data-cat="{e(p["cat"])}" data-preview="{rel(depth, p["card"])}">'
         f'<span class="no">{i:02d}</span>'
         f'<span class="t">{e(p["title"])}</span>'
         f'<span class="c">{e(p["cat"])}</span>'
@@ -299,7 +303,7 @@ def build_work_index():
   <div class="index-preview-layout">
     <div class="index-list" id="rows">{rows}</div>
     <figure class="index-preview" aria-hidden="true">
-      <img id="index-preview-img" src="{rel(depth, projects[0]['cover'])}" alt="">
+      <img id="index-preview-img" src="{rel(depth, projects[0]['card'])}" alt="">
     </figure>
   </div>
   <div class="works" id="cards" style="margin-top:var(--row)">{cards}</div>

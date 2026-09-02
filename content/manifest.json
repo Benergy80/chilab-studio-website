@@ -3,17 +3,17 @@
   {
    "src": "assets/img/ohare-terminal-5/01.jpg",
    "w": 1800,
-   "h": 1149
+   "h": 1013
   },
   {
    "src": "assets/img/ohare-terminal-5/02.jpg",
    "w": 1800,
-   "h": 1350
+   "h": 1013
   },
   {
    "src": "assets/img/ohare-terminal-5/03.jpg",
    "w": 1800,
-   "h": 1013
+   "h": 1149
   },
   {
    "src": "assets/img/ohare-terminal-5/04.jpg",
@@ -28,10 +28,20 @@
   {
    "src": "assets/img/ohare-terminal-5/06.jpg",
    "w": 1800,
-   "h": 1013
+   "h": 1350
   },
   {
    "src": "assets/img/ohare-terminal-5/07.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/08.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/09.jpg",
    "w": 1800,
    "h": 1350
   }

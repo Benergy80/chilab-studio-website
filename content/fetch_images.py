@@ -14,6 +14,9 @@ def url_for(u):
 
 def grab(args):
     slug, i, u = args
+    if not u.startswith("http"):
+        # Already repointed to a local file (Squarespace is gone). Nothing to fetch.
+        return slug, i, os.path.exists(os.path.join(ROOT, u))
     d = os.path.join(IMG, slug)
     os.makedirs(d, exist_ok=True)
     dst = os.path.join(d, f"{i:02d}.jpg")
