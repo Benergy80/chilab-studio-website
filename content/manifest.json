@@ -1,0 +1,999 @@
+{
+ "ohare-terminal-5": [
+  {
+   "src": "assets/img/ohare-terminal-5/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/02.jpg",
+   "w": 1800,
+   "h": 1013
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/05.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/06.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/07.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/08.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/09.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/10.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/11.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/ohare-terminal-5/12.jpg",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "uber-spiral-stair": [
+  {
+   "src": "assets/img/uber-spiral-stair/01.jpg",
+   "w": 750,
+   "h": 1125
+  },
+  {
+   "src": "assets/img/uber-spiral-stair/02.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-spiral-stair/03.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-spiral-stair/04.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-spiral-stair/05.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-spiral-stair/06.jpg",
+   "w": 1500,
+   "h": 1000
+  }
+ ],
+ "uber-feature-wall": [
+  {
+   "src": "assets/img/uber-feature-wall/01.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-feature-wall/02.jpg",
+   "w": 1000,
+   "h": 749
+  },
+  {
+   "src": "assets/img/uber-feature-wall/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/uber-feature-wall/04.jpg",
+   "w": 1800,
+   "h": 1202
+  },
+  {
+   "src": "assets/img/uber-feature-wall/05.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/uber-feature-wall/06.jpg",
+   "w": 1500,
+   "h": 1000
+  }
+ ],
+ "knoll-marquee": [
+  {
+   "src": "assets/img/knoll-marquee/01.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/knoll-marquee/02.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/knoll-marquee/03.jpg",
+   "w": 1500,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/knoll-marquee/04.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/knoll-marquee/05.jpg",
+   "w": 750,
+   "h": 1000
+  },
+  {
+   "src": "assets/img/knoll-marquee/06.jpg",
+   "w": 1500,
+   "h": 1000
+  }
+ ],
+ "st-nicholas-crosses": [
+  {
+   "src": "assets/img/st-nicholas-crosses/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/02.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/05.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/06.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/07.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/08.jpg",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "st-nicholas-icon-stands": [
+  {
+   "src": "assets/img/st-nicholas-icon-stands/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/02.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/05.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/06.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/st-nicholas-icon-stands/08.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "illinois-state-capitol": [
+  {
+   "src": "assets/img/illinois-state-capitol/01.jpg",
+   "w": 1800,
+   "h": 1013
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/02.jpg",
+   "w": 1800,
+   "h": 970
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/06.jpg",
+   "w": 1800,
+   "h": 1013
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/07.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/illinois-state-capitol/08.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "flight-of-butterflies": [
+  {
+   "src": "assets/img/flight-of-butterflies/01.jpg",
+   "w": 1800,
+   "h": 1440
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/02.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/04.jpg",
+   "w": 1800,
+   "h": 1440
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/05.jpg",
+   "w": 1008,
+   "h": 756
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/06.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/08.jpg",
+   "w": 1800,
+   "h": 1012
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/09.jpg",
+   "w": 1338,
+   "h": 1078
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/10.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/11.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/flight-of-butterflies/12.jpg",
+   "w": 1800,
+   "h": 1012
+  }
+ ],
+ "magnificent-mile-tulips": [
+  {
+   "src": "assets/img/magnificent-mile-tulips/01.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/02.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/06.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/08.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/magnificent-mile-tulips/09.jpg",
+   "w": 1800,
+   "h": 2400
+  }
+ ],
+ "skims": [
+  {
+   "src": "assets/img/skims/01.jpg",
+   "w": 1440,
+   "h": 961
+  },
+  {
+   "src": "assets/img/skims/02.jpg",
+   "w": 1440,
+   "h": 961
+  },
+  {
+   "src": "assets/img/skims/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/skims/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/skims/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/skims/06.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "jardin-de-gargolas": [
+  {
+   "src": "assets/img/jardin-de-gargolas/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/02.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/04.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/06.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/08.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/09.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jardin-de-gargolas/10.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "homebound": [
+  {
+   "src": "assets/img/homebound/01.jpg",
+   "w": 1080,
+   "h": 814
+  },
+  {
+   "src": "assets/img/homebound/02.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/homebound/03.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/homebound/04.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/homebound/05.jpg",
+   "w": 1080,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/homebound/06.jpg",
+   "w": 1080,
+   "h": 1350
+  }
+ ],
+ "st-alfred": [
+  {
+   "src": "assets/img/st-alfred/01.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/st-alfred/02.jpg",
+   "w": 1360,
+   "h": 918
+  },
+  {
+   "src": "assets/img/st-alfred/03.jpg",
+   "w": 1360,
+   "h": 885
+  },
+  {
+   "src": "assets/img/st-alfred/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/st-alfred/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/st-alfred/06.jpg",
+   "w": 1360,
+   "h": 916
+  }
+ ],
+ "methodology-table": [
+  {
+   "src": "assets/img/methodology-table/01.jpg",
+   "w": 1800,
+   "h": 1199
+  },
+  {
+   "src": "assets/img/methodology-table/02.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/methodology-table/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/methodology-table/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/methodology-table/05.jpg",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "assets/img/methodology-table/06.jpg",
+   "w": 1800,
+   "h": 2400
+  }
+ ],
+ "360-n-green": [
+  {
+   "src": "assets/img/360-n-green/01.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/02.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/05.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/360-n-green/06.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/07.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/08.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/360-n-green/09.jpg",
+   "w": 1800,
+   "h": 2400
+  }
+ ],
+ "pritzker-reception-desk": [
+  {
+   "src": "assets/img/pritzker-reception-desk/01.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/02.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/03.jpg",
+   "w": 1800,
+   "h": 1295
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/04.jpg",
+   "w": 1800,
+   "h": 1296
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/05.jpg",
+   "w": 1800,
+   "h": 1339
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/06.jpg",
+   "w": 1800,
+   "h": 1339
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/07.jpg",
+   "w": 1800,
+   "h": 2700
+  },
+  {
+   "src": "assets/img/pritzker-reception-desk/08.jpg",
+   "w": 1800,
+   "h": 2700
+  }
+ ],
+ "unfolding-chair": [
+  {
+   "src": "assets/img/unfolding-chair/01.jpg",
+   "w": 602,
+   "h": 568
+  },
+  {
+   "src": "assets/img/unfolding-chair/02.jpg",
+   "w": 640,
+   "h": 800
+  },
+  {
+   "src": "assets/img/unfolding-chair/03.jpg",
+   "w": 640,
+   "h": 800
+  },
+  {
+   "src": "assets/img/unfolding-chair/04.jpg",
+   "w": 658,
+   "h": 800
+  },
+  {
+   "src": "assets/img/unfolding-chair/05.jpg",
+   "w": 800,
+   "h": 533
+  },
+  {
+   "src": "assets/img/unfolding-chair/06.jpg",
+   "w": 800,
+   "h": 533
+  },
+  {
+   "src": "assets/img/unfolding-chair/08.jpg",
+   "w": 733,
+   "h": 800
+  }
+ ],
+ "boolean-lamp": [
+  {
+   "src": "assets/img/boolean-lamp/01.jpg",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "assets/img/boolean-lamp/02.jpg",
+   "w": 1200,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/boolean-lamp/04.jpg",
+   "w": 768,
+   "h": 1024
+  }
+ ],
+ "aura-sconce": [
+  {
+   "src": "assets/img/aura-sconce/01.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/aura-sconce/02.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/aura-sconce/03.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/aura-sconce/04.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/aura-sconce/05.jpg",
+   "w": 1800,
+   "h": 2250
+  },
+  {
+   "src": "assets/img/aura-sconce/06.jpg",
+   "w": 1800,
+   "h": 2250
+  },
+  {
+   "src": "assets/img/aura-sconce/07.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/aura-sconce/08.jpg",
+   "w": 1800,
+   "h": 1800
+  }
+ ],
+ "glass-marble-table": [
+  {
+   "src": "assets/img/glass-marble-table/01.jpg",
+   "w": 1800,
+   "h": 1221
+  },
+  {
+   "src": "assets/img/glass-marble-table/02.jpg",
+   "w": 1800,
+   "h": 1221
+  },
+  {
+   "src": "assets/img/glass-marble-table/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/glass-marble-table/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/glass-marble-table/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/glass-marble-table/06.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/glass-marble-table/07.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/glass-marble-table/08.jpg",
+   "w": 1800,
+   "h": 1800
+  }
+ ],
+ "kumas-west-loop": [
+  {
+   "src": "assets/img/kumas-west-loop/01.jpg",
+   "w": 1146,
+   "h": 467
+  },
+  {
+   "src": "assets/img/kumas-west-loop/02.jpg",
+   "w": 1200,
+   "h": 938
+  },
+  {
+   "src": "assets/img/kumas-west-loop/03.jpg",
+   "w": 990,
+   "h": 1138
+  }
+ ],
+ "jail-debris": [
+  {
+   "src": "assets/img/jail-debris/01.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/jail-debris/02.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/03.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/04.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/05.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/06.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/jail-debris/08.jpg",
+   "w": 1516,
+   "h": 1404
+  }
+ ],
+ "palimpsest-apple": [
+  {
+   "src": "assets/img/palimpsest-apple/01.jpg",
+   "w": 1800,
+   "h": 1349
+  },
+  {
+   "src": "assets/img/palimpsest-apple/02.jpg",
+   "w": 1800,
+   "h": 1858
+  },
+  {
+   "src": "assets/img/palimpsest-apple/03.jpg",
+   "w": 806,
+   "h": 820
+  },
+  {
+   "src": "assets/img/palimpsest-apple/04.jpg",
+   "w": 1579,
+   "h": 1579
+  }
+ ],
+ "star-award": [
+  {
+   "src": "assets/img/star-award/01.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/star-award/02.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/star-award/03.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/star-award/04.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/star-award/05.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/star-award/06.jpg",
+   "w": 1800,
+   "h": 2400
+  }
+ ],
+ "woven-vessels": [
+  {
+   "src": "assets/img/woven-vessels/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/02.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/05.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/06.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/07.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/08.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/09.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/10.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/woven-vessels/11.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "annular-sconce": [
+  {
+   "src": "assets/img/annular-sconce/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/annular-sconce/02.jpg",
+   "w": 1575,
+   "h": 2100
+  },
+  {
+   "src": "assets/img/annular-sconce/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/annular-sconce/04.jpg",
+   "w": 1800,
+   "h": 2700
+  },
+  {
+   "src": "assets/img/annular-sconce/05.jpg",
+   "w": 1800,
+   "h": 1200
+  }
+ ]
+}
