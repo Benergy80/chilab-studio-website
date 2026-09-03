@@ -510,6 +510,38 @@ img { display: block; width: 100%; height: auto; }
 .cap-list strong { font-weight: 700; }
 .cap-list span { color: var(--muted); font-size: clamp(14px, 0.9vw, 17px); }
 
+/* ---------- process plates ---------- */
+
+.process-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--gap);
+  margin-top: var(--row);
+}
+
+.process-plate { margin: 0; }
+.hero-main > .process-plate { margin-top: var(--row); }
+.process-plate .frame {
+  background: var(--panel);
+  overflow: hidden;
+}
+.process-plate img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  filter: saturate(0.92) contrast(1.04);
+}
+.process-plate-wide img {
+  aspect-ratio: 16 / 9;
+}
+.process-plate figcaption {
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: clamp(13px, 0.85vw, 16px);
+  line-height: 1.15;
+}
+
 /* ---------- stacked list (narrow rail) ---------- */
 
 .stack-list { list-style: none; margin: 0; padding: 0; }
@@ -553,6 +585,7 @@ img { display: block; width: 100%; height: auto; }
   .section-no, .section-body, .section-rail, .section-wide,
   .project-title, .project-sub, .project-lede, .project-body, .project-rail,
   .prose, .contact-big,
+  .process-plate,
   .plate-wide, .plate-main, .plate-half,
   .site-foot .c1, .site-foot .c2, .site-foot .c3 { grid-column: 1 / -1; }
   .hero-rail { margin-top: var(--row); }
@@ -560,6 +593,7 @@ img { display: block; width: 100%; height: auto; }
   .section-no { font-size: clamp(56px, 12vw, 120px); margin-bottom: var(--tight); }
   .section-rail { margin-top: var(--row); }
   .works { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .process-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .deck { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: var(--tight); }
   .home-feature { grid-template-columns: minmax(0, 1fr); }
   .feature-image img { min-height: 420px; }
@@ -577,6 +611,7 @@ img { display: block; width: 100%; height: auto; }
   .display { font-size: clamp(40px, 12.5vw, 88px); }
   .deck { grid-template-columns: minmax(0, 1fr); }
   .works { grid-template-columns: minmax(0, 1fr); }
+  .process-grid { grid-template-columns: minmax(0, 1fr); }
   .feature-image img { min-height: 300px; }
   .client-band ul { columns: 1; }
   .index-row { grid-template-columns: 2rem minmax(0, 1fr) 3.5rem; }

@@ -73,6 +73,45 @@
       "Budgeting, prototyping, mockups and samples, shop drawings, permitting support, sequencing, and site installation."
     ]
   ],
+  "process_images": {
+    "studio": {
+      "src": "assets/img/process/studio-shop-rail.jpg",
+      "w": 1800,
+      "h": 1350,
+      "alt": "ChiLab Studio shop process",
+      "caption": "Shop process, Chicago studio."
+    },
+    "capabilities": [
+      {
+        "src": "assets/img/process/butterflies-cnc-pattern.jpg",
+        "w": 1800,
+        "h": 1012,
+        "alt": "CNC routing a butterfly pattern",
+        "caption": "CNC routing and pattern development for Flight of Butterflies."
+      },
+      {
+        "src": "assets/img/process/butterflies-casting.jpg",
+        "w": 1338,
+        "h": 1078,
+        "alt": "Casting process for a butterfly sculpture",
+        "caption": "Mold and casting work for the butterfly forms."
+      },
+      {
+        "src": "assets/img/process/feature-wall-development.jpg",
+        "w": 1500,
+        "h": 1000,
+        "alt": "Parametric cast aluminum feature wall detail",
+        "caption": "Material and module logic for the Uber Freight feature wall."
+      },
+      {
+        "src": "assets/img/process/st-nicholas-glass-process.jpg",
+        "w": 1350,
+        "h": 1800,
+        "alt": "Hand working a glass cross",
+        "caption": "Cast glass finishing for the St. Nicholas crosses."
+      }
+    ]
+  },
   "studio_body": [
     "ChiLab Studio is a Chicago-based project development and fabrication studio working across art, design, architecture, and public space.",
     "Founded in 2013, the studio grew out of a collaboration between friends from different disciplines and a shared belief that ambitious ideas benefit from being developed closely with the people who make them. Today, ChiLab works with artists, designers, architects, institutions, and cultural organizations to realize projects that require an unusual combination of design thinking, technical development, material knowledge, and skilled fabrication.",

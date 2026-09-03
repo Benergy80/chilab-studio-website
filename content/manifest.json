@@ -143,43 +143,53 @@
   }
  ],
  "st-nicholas-crosses": [
-  {
-   "src": "assets/img/st-nicholas-crosses/01.jpg",
-   "w": 1800,
-   "h": 1200
-  },
-  {
-   "src": "assets/img/st-nicholas-crosses/02.jpg",
-   "w": 1800,
-   "h": 2400
-  },
-  {
-   "src": "assets/img/st-nicholas-crosses/03.jpg",
-   "w": 1800,
-   "h": 1200
-  },
-  {
-   "src": "assets/img/st-nicholas-crosses/04.jpg",
-   "w": 1800,
-   "h": 1200
-  },
-  {
-   "src": "assets/img/st-nicholas-crosses/05.jpg",
-   "w": 1800,
-   "h": 1200
-  },
-  {
-   "src": "assets/img/st-nicholas-crosses/06.jpg",
-   "w": 1800,
-   "h": 1200
+ {
+  "src": "assets/img/st-nicholas-crosses/01.jpg",
+  "w": 1800,
+   "h": 1350
+ },
+ {
+  "src": "assets/img/st-nicholas-crosses/02.jpg",
+   "w": 1024,
+   "h": 768
+ },
+ {
+  "src": "assets/img/st-nicholas-crosses/03.jpg",
+   "w": 1350,
+   "h": 1800
+ },
+ {
+  "src": "assets/img/st-nicholas-crosses/04.jpg",
+  "w": 1800,
+   "h": 1350
+ },
+ {
+  "src": "assets/img/st-nicholas-crosses/05.jpg",
+  "w": 1800,
+   "h": 1504
+ },
+ {
+  "src": "assets/img/st-nicholas-crosses/06.jpg",
+  "w": 1800,
+  "h": 1200
   },
   {
    "src": "assets/img/st-nicholas-crosses/07.jpg",
    "w": 1800,
    "h": 1200
   },
+ {
+  "src": "assets/img/st-nicholas-crosses/08.jpg",
+  "w": 1800,
+  "h": 1200
+  },
   {
-   "src": "assets/img/st-nicholas-crosses/08.jpg",
+   "src": "assets/img/st-nicholas-crosses/09.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/st-nicholas-crosses/10.jpg",
    "w": 1800,
    "h": 1200
   }

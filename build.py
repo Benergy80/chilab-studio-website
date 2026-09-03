@@ -170,6 +170,19 @@ def feature_block(p, depth):
 </div>"""
 
 
+def process_figure(img, depth, wide=False):
+    klass = "process-plate process-plate-wide" if wide else "process-plate"
+    return f"""<figure class="{klass}">
+  <div class="frame"><img src="{rel(depth, img['src'])}" alt="{e(img['alt'])}" loading="lazy" width="{img['w']}" height="{img['h']}"></div>
+  <figcaption>{e(img['caption'])}</figcaption>
+</figure>"""
+
+
+def process_grid(items, depth):
+    return '<div class="process-grid">' + "".join(
+        process_figure(img, depth) for img in items) + "</div>"
+
+
 def work_card(p, depth):
     if not p["cover"]:
         return ""
@@ -245,6 +258,7 @@ def build_home():
   <div class="section-rail rail">
     <section><h2>More</h2><p><a href="capabilities.html">Capabilities in detail</a></p></section>
   </div>
+  <div class="section-wide">{process_grid(site['process_images']['capabilities'], depth)}</div>
 </section>
 
 <section class="shell grid section">
@@ -258,6 +272,7 @@ def build_home():
   <div class="section-rail rail">
     <section><h2>Recent</h2><ul class="stack-list">{news}</ul></section>
   </div>
+  <div class="section-wide">{process_figure(site['process_images']['studio'], depth, wide=True)}</div>
   <div class="section-wide client-band">
     <div class="label">Selected clients and collaborators</div>
     <ul>{clients}</ul>
@@ -400,6 +415,7 @@ def build_studio():
   <div class="hero-main">
     <p class="kicker">About</p>
     <h1 class="display"><span>Studio</span></h1>
+    {process_figure(site['process_images']['studio'], depth, wide=True)}
   </div>
   <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Founded", f"<p>{e(site['founded'])}, {e(site['city'])}</p>")}
@@ -440,6 +456,7 @@ def build_capabilities():
 <section class="shell grid section">
   <p class="section-no">01</p>
   <div class="section-body"><ul class="cap-list">{caps}</ul></div>
+  <div class="section-wide">{process_grid(site['process_images']['capabilities'], depth)}</div>
 </section>
 """
     out += foot(depth)
