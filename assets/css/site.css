@@ -37,20 +37,7 @@
   --oxide-soft: #3a231a;
 }
 
-/* respects the system setting before the theme script runs, and without JS */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    color-scheme: dark;
-    --page: #161614;
-    --ink: #ece9e1;
-    --muted: #8b8779;
-    --rule: #7a7568;
-    --soft-rule: #343129;
-    --panel: #201f1c;
-    --oxide: #d4674a;
-    --oxide-soft: #3a231a;
-  }
-}
+/* light is the default. dark is opt in, through the rail toggle. */
 
 *, *::before, *::after { box-sizing: border-box; }
 
@@ -141,10 +128,29 @@ img { display: block; width: 100%; height: auto; }
 .theme-toggle [data-when="light"] { display: none; }
 :root[data-theme="dark"] .theme-toggle [data-when="dark"] { display: none; }
 :root[data-theme="dark"] .theme-toggle [data-when="light"] { display: inline; }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) .theme-toggle [data-when="dark"] { display: none; }
-  :root:not([data-theme]) .theme-toggle [data-when="light"] { display: inline; }
+
+/* ---------- news lede ---------- */
+
+.news-lede { margin: var(--row) 0 0; }
+.news-lede > a { display: block; }
+.news-lede img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
 }
+.news-lede figcaption {
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  justify-content: space-between;
+  gap: var(--tight);
+  align-items: baseline;
+}
+.news-lede .name { font-weight: 700; font-size: clamp(16px, 1.05vw, 21px); line-height: 1.05; }
+.news-lede .meta { color: var(--muted); font-size: clamp(13px, 0.85vw, 16px); white-space: nowrap; }
 
 /* ---------- hero ---------- */
 

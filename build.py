@@ -80,7 +80,7 @@ def head(title, desc, depth, page):
 <meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#161614" media="(prefers-color-scheme: dark)">
 <link rel="stylesheet" href="{rel(depth, 'assets/css/site.css')}">
-<script>(function(){{var t;try{{t=localStorage.getItem("chilab-theme")}}catch(e){{}}if(t!=="dark"&&t!=="light"){{t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}}document.documentElement.setAttribute("data-theme",t)}})();</script>
+<script>(function(){{var t;try{{t=localStorage.getItem("chilab-theme")}}catch(e){{}}if(t!=="dark"&&t!=="light"){{t="light"}}document.documentElement.setAttribute("data-theme",t)}})();</script>
 </head>
 <body>
 <header class="shell grid masthead">
@@ -446,6 +446,25 @@ def build_capabilities():
     open(os.path.join(ROOT, "capabilities.html"), "w").write(out)
 
 
+def news_lede(depth):
+    """The newest news item that has a project, shown beside the press rail."""
+    item = next((n for n in site["news"]
+                 if n.get("link") and n["link"] in BY_SLUG), None)
+    if not item:
+        return ""
+    p = BY_SLUG[item["link"]]
+    if not p["cover"]:
+        return ""
+    href = rel(depth, "work/" + p["slug"] + ".html")
+    return f"""<figure class="news-lede">
+  <a href="{href}"><img src="{rel(depth, p['cover'])}" alt="{e(p['title'])}" loading="eager" width="1600" height="1100"></a>
+  <figcaption>
+    <span class="name"><a href="{href}">{e(p['title'])}</a></span>
+    <span class="meta">{e(item['date'])}</span>
+  </figcaption>
+</figure>"""
+
+
 def build_news():
     depth = 0
     items = ""
@@ -466,6 +485,7 @@ def build_news():
   <div class="hero-main">
     <p class="kicker">Press and announcements</p>
     <h1 class="display"><span>News</span></h1>
+    {news_lede(depth)}
   </div>
   <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Follow", f'<p>{social_links()}</p>')}
