@@ -1,302 +1,304 @@
 {
- "name": "ChiLab Studio",
- "tagline": "Specialty material projects for architecture, interior design, public art, and the fine arts.",
- "founded": "2013",
- "city": "Chicago, Illinois",
- "email": "info@chilabstudio.com",
- "instagram": "https://www.instagram.com/chilabstudio",
- "twitter": "",
- "hero": [
-  "ChiLab Studio",
-  "Material",
-  "Problem Solving"
- ],
- "deck": [
-  {
-   "label": "What we do",
-   "text": "Artists, architects, and designers bring us a drawing, a model, or a hunch. We turn it into a buildable object, finish, assembly, or installation."
+  "name": "ChiLab Studio",
+  "tagline": "Specialty material projects for architecture, interior design, public art, and the fine arts.",
+  "founded": "2013",
+  "city": "Chicago, Illinois",
+  "email": "info@chilabstudio.com",
+  "instagram": "https://www.instagram.com/chilabstudio",
+  "twitter": "",
+  "hero": [
+    "ChiLab Studio",
+    "Material",
+    "Problem Solving"
+  ],
+  "deck": [
+    {
+      "label": "What we do",
+      "text": "Artists, architects, and designers bring us a drawing, a model, or a hunch. We turn it into a buildable object, finish, assembly, or installation."
+    },
+    {
+      "label": "The studio",
+      "text": "ChiLab Studio is an atelier for project development and artisanal fabrication. The work moves between studio thinking, shop discipline, and industrial coordination."
+    },
+    {
+      "label": "Disciplines",
+      "text": "Metal casting and finishing. Cast, slumped, and fused glass. Patina. Digital modeling. CNC, 3D printing, fabrication, installation, and project management."
+    }
+  ],
+  "sections": {
+    "works": {
+      "title": "Selected Works",
+      "lede": "Public art, architectural elements, restoration, glass, furniture, and lighting. Work produced with artists, architects, museums, developers, and private clients."
+    },
+    "capabilities": {
+      "title": "Capabilities",
+      "lede": "One studio holds the chain from concept development through engineering, mold making, casting, finishing, coordination, and installation."
+    },
+    "studio": {
+      "title": "Studio",
+      "lede": "ChiLab Studio is a Chicago-based project development and fabrication studio working across art, design, architecture, and public space."
+    },
+    "contact": {
+      "title": "Contact",
+      "lede": "We take on commissions on a per project basis. Tell us what you are trying to make."
+    }
   },
-  {
-   "label": "The studio",
-   "text": "ChiLab Studio is an atelier for project development and artisanal fabrication. The work moves between studio thinking, shop discipline, and industrial coordination."
-  },
-  {
-   "label": "Disciplines",
-   "text": "Metal casting and finishing. Cast, slumped, and fused glass. Patina. Digital modeling. CNC, 3D printing, fabrication, installation, and project management."
-  }
- ],
- "sections": {
-  "works": {
-   "title": "Selected Works",
-   "lede": "Public art, architectural elements, restoration, glass, furniture, and lighting. Work produced with artists, architects, museums, developers, and private clients."
-  },
-  "capabilities": {
-   "title": "Capabilities",
-   "lede": "One studio holds the chain from concept development through engineering, mold making, casting, finishing, coordination, and installation."
-  },
-  "studio": {
-   "title": "Studio",
-   "lede": "ChiLab Studio began as a collaboration between friends from different disciplines, driven by a shared interest in making ambitious material ideas possible."
-  },
-  "contact": {
-   "title": "Contact",
-   "lede": "We take on commissions on a per project basis. Tell us what you are trying to make."
-  }
- },
- "capabilities": [
-  [
-   "Metal casting",
-   "Sand casting, lost wax, lost PLA, resin bonded sand, match plate patterns. Bronze, aluminum, iron."
+  "capabilities": [
+    [
+      "Metal casting",
+      "Sand casting, lost wax, lost PLA, resin bonded sand, match plate patterns. Bronze, aluminum, iron."
+    ],
+    [
+      "Glass",
+      "Kiln cast glass, lead crystal, slumped and fused glass, cold working and polishing, architectural lamination with partners."
+    ],
+    [
+      "Finishes",
+      "Hot and cold patina, plating and anodizing coordination, custom color development, outdoor rated coatings."
+    ],
+    [
+      "Digital fabrication",
+      "Parametric modeling in Grasshopper, 3D scanning and reverse engineering, CNC routing and machining, in house 3D printing."
+    ],
+    [
+      "Metal fabrication",
+      "Welded and machined assemblies, architectural stairs and screens, structural coordination with engineers of record."
+    ],
+    [
+      "Restoration",
+      "Documentation of historic profiles, reproduction of missing ornament, code and ADA upgrades that keep period character."
+    ],
+    [
+      "Project management",
+      "Budgeting, prototyping, mockups and samples, shop drawings, permitting support, sequencing, and site installation."
+    ]
   ],
-  [
-   "Glass",
-   "Kiln cast glass, lead crystal, slumped and fused glass, cold working and polishing, architectural lamination with partners."
+  "studio_body": [
+    "ChiLab Studio is a Chicago-based project development and fabrication studio working across art, design, architecture, and public space.",
+    "Founded in 2013, the studio grew out of a collaboration between friends from different disciplines and a shared belief that ambitious ideas benefit from being developed closely with the people who make them. Today, ChiLab works with artists, designers, architects, institutions, and cultural organizations to realize projects that require an unusual combination of design thinking, technical development, material knowledge, and skilled fabrication.",
+    "Our work ranges from fine art and public commissions to custom furniture, architectural elements, cast glass, metalwork, specialty finishes, prototypes, and one-of-a-kind objects. Some projects arrive as drawings ready to build. Others begin as an idea, a material question, or a problem that still needs to be worked through. In either case, we become part of the project team, helping develop the work from concept through engineering, prototyping, fabrication, finishing, and installation.",
+    "ChiLab maintains an active fabrication studio in Chicago and works with a broader network of craftspeople, engineers, foundries, manufacturers, and specialty fabricators. This allows us to move comfortably between the handmade and the industrial, selecting the right process and expertise for each project while maintaining close control over quality and intent.",
+    "Collaboration remains central to the studio. We take on commissions individually and build teams around the particular needs of the work rather than asking projects to fit a predetermined production model.",
+    "ChiLab Studio is owned and directed by Ben Stagl and Ally Reza. Ben founded the studio and leads its design development, fabrication, and project direction. He holds an MFA in Sculpture from the School of the Art Institute of Chicago and a BFA in Sculpture from Oregon State University, and teaches in SAIC's Architecture, Interior Architecture, and Designed Objects program. Ally is partner, co-owner, and co-director of ChiLab, and leads the studio's mold making and glass practices. Her expertise spans complex mold development and casting processes, from lead crystal and kiln-formed glass to large-format architectural applications."
   ],
-  [
-   "Finishes",
-   "Hot and cold patina, plating and anodizing coordination, custom color development, outdoor rated coatings."
+  "clients": [
+    "Gensler",
+    "Studio Gang",
+    "KNOLL",
+    "Sterling Bay",
+    "Uber Freight",
+    "SKIMS",
+    "Santiago Calatrava",
+    "DCASE",
+    "Chicago Department of Aviation",
+    "Peggy Notebaert Nature Museum",
+    "The Magnificent Mile Association",
+    "Office of the Architect of the Capitol",
+    "Driehaus Museum",
+    "The Renaissance Society",
+    "Perron-Roettinger Studio",
+    "CNL Projects"
   ],
-  [
-   "Digital fabrication",
-   "Parametric modeling in Grasshopper, 3D scanning and reverse engineering, CNC routing and machining, in house 3D printing."
+  "news": [
+    {
+      "date": "May 2025",
+      "title": "Tulips on The Magnificent Mile",
+      "text": "Five tulip sculptures installed along Michigan Avenue with The Magnificent Mile Association and CNL Projects, timed to the city's annual spring bloom.",
+      "link": "magnificent-mile-tulips",
+      "coverage": [
+        {
+          "pub": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
+        },
+        {
+          "pub": "The Magnificent Mile",
+          "url": "https://www.themagnificentmile.com/magnificent-mile-tulip"
+        },
+        {
+          "pub": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
+        }
+      ]
+    },
+    {
+      "date": "May 2024",
+      "title": "Flight of Butterflies opens at Peggy Notebaert Nature Museum",
+      "text": "Twenty nine monumental butterfly sculptures placed across Chicago, from the Magnificent Mile to neighborhood parks, each finished by a local artist with fabrication support and studio space from ChiLab.",
+      "link": "flight-of-butterflies",
+      "coverage": [
+        {
+          "pub": "Chicago Sun-Times",
+          "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
+        },
+        {
+          "pub": "Peggy Notebaert Nature Museum",
+          "url": "https://naturemuseum.org/exhibits/flight-of-butterflies"
+        },
+        {
+          "pub": "Choose Chicago",
+          "url": "https://www.choosechicago.com/event/flight-of-butterflies/2024-05-01/"
+        }
+      ]
+    },
+    {
+      "date": "June 2023",
+      "title": "Chicago communities use art to highlight climate issues",
+      "text": "E(art)h Chicago installed twelve works across city neighborhoods. ChiLab fabricated Leonard Suryajaya's Homebound for the Grant Park waterfront.",
+      "link": "homebound",
+      "coverage": [
+        {
+          "pub": "FOX 32 Chicago",
+          "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
+        }
+      ]
+    },
+    {
+      "date": "March 2023",
+      "title": "O'Hare Terminal 5 expansion unveils a murmuration",
+      "text": "The Chicago Department of Cultural Affairs and Special Events and the Chicago Department of Aviation unveiled Jina Valentine's 450 foot installation, fabricated and installed by ChiLab.",
+      "link": "ohare-terminal-5",
+      "coverage": [
+        {
+          "pub": "City of Chicago, DCASE",
+          "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
+        }
+      ]
+    },
+    {
+      "date": "October 2021",
+      "title": "Uber Freight opens its global headquarters at the Old Post Office",
+      "text": "ChiLab produced the grand spiral stair and the parametric cast aluminum feature wall for the reception floor.",
+      "link": "uber-spiral-stair",
+      "coverage": [
+        {
+          "pub": "Chicago Tribune",
+          "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
+        },
+        {
+          "pub": "Frame",
+          "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
+        },
+        {
+          "pub": "Built In Chicago",
+          "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
+        }
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Knoll unveils new Chicago showroom at Fulton Market",
+      "text": "The showroom opened at 811 W Fulton with a ChiLab marquee screen in chrome and dark bronze, and was named to Chicago's coolest offices lists that year.",
+      "link": "knoll-marquee",
+      "coverage": [
+        {
+          "pub": "Interior Design",
+          "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
+        },
+        {
+          "pub": "Crain's Chicago Business",
+          "url": "https://www.chicagobusiness.com/html-page/867211"
+        },
+        {
+          "pub": "Knoll",
+          "url": "https://www.knoll.com/knollnewsdetail/knoll-fulton-market-crains-coolest-office-2019"
+        }
+      ]
+    },
+    {
+      "date": "2019",
+      "title": "Newcity Design Issue",
+      "text": "ChiLab Studio recognized in Newcity's annual survey of the people shaping design in Chicago.",
+      "link": null,
+      "coverage": [
+        {
+          "pub": "Newcity",
+          "url": "https://newcityshop.com/products/december-2019-the-design-issue"
+        },
+        {
+          "pub": "Thirst",
+          "url": "https://3st.com/work/newcity-design-issue-2019"
+        }
+      ]
+    }
   ],
-  [
-   "Metal fabrication",
-   "Welded and machined assemblies, architectural stairs and screens, structural coordination with engineers of record."
-  ],
-  [
-   "Restoration",
-   "Documentation of historic profiles, reproduction of missing ornament, code and ADA upgrades that keep period character."
-  ],
-  [
-   "Project management",
-   "Budgeting, prototyping, mockups and samples, shop drawings, permitting support, sequencing, and site installation."
+  "press": [
+    {
+      "year": "2025",
+      "pub": "NBC Chicago",
+      "text": "The city's own special tulips take center stage on Mag Mile",
+      "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
+    },
+    {
+      "year": "2025",
+      "pub": "The Magnificent Mile",
+      "text": "Signature tulip returns for the 2025 bloom season",
+      "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
+    },
+    {
+      "year": "2024",
+      "pub": "Chicago Sun-Times",
+      "text": "Butterfly sculptures land across the city with the Peggy Notebaert Nature Museum",
+      "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
+    },
+    {
+      "year": "2023",
+      "pub": "FOX 32 Chicago",
+      "text": "Chicago communities use artistic expression to highlight climate change",
+      "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
+    },
+    {
+      "year": "2023",
+      "pub": "City of Chicago, DCASE",
+      "text": "O'Hare Terminal 5 expansion, the largest acquisition of work by Chicago artists in thirty years",
+      "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
+    },
+    {
+      "year": "2021",
+      "pub": "Chicago Tribune",
+      "text": "Uber Freight opens its global headquarters at the Old Post Office",
+      "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
+    },
+    {
+      "year": "2021",
+      "pub": "Frame",
+      "text": "Amenity spaces build comfort and productivity at Uber's Chicago office",
+      "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
+    },
+    {
+      "year": "2021",
+      "pub": "Built In Chicago",
+      "text": "Uber opens its new office in the Old Main Post Office",
+      "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
+    },
+    {
+      "year": "2019",
+      "pub": "Newcity",
+      "text": "Design Issue, the Unfolding Chair on the cover",
+      "url": "https://newcityshop.com/products/december-2019-the-design-issue"
+    },
+    {
+      "year": "2019",
+      "pub": "Crain's Chicago Business",
+      "text": "Coolest Offices, Knoll's Fulton Market showroom",
+      "url": "https://www.chicagobusiness.com/html-page/867211"
+    },
+    {
+      "year": "2019",
+      "pub": "Interior Design",
+      "text": "Gensler reinforces Knoll's design philosophy at the new Chicago flagship",
+      "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
+    },
+    {
+      "year": "2014",
+      "pub": "CHGO DSGN",
+      "text": "Recent object and graphic design, Chicago Cultural Center",
+      "url": "https://chgodsgn.com"
+    },
+    {
+      "year": "2013",
+      "pub": "The New York Times",
+      "text": "At the International Contemporary Furniture Fair, going for the remix",
+      "url": "https://www.nytimes.com/2013/05/23/garden/at-the-international-contemporary-furniture-fair-going-for-the-remix.html"
+    }
   ]
- ],
- "studio_body": [
-  "ChiLab Studio began as a collaboration between friends from different disciplines. Driven by a mutual interest in giving everyday objects and public experiences more care, the ChiLab think tank has grown into an award winning specialty project studio and a working part of the Chicago design and arts communities.",
-  "We bring artists' and designers' visions to life through bespoke project development and artisanal fabrication. Our team works closely with clients to understand what they are after, providing guidance and support through the whole process, and we partner with a network of specialists and industrial manufacturers so that every part of a project holds to the same standard.",
-  "True to the beginning, we welcome collaboration and take on commissions on a per project basis. Whether a client needs fine art fabrication, custom furniture and accessories, artisanal finishes and details, or project management support, we have the expertise and the shop to make it happen.",
-  "The studio was founded in 2013 by Ben Stagl. Ally Reza is partner, co-owner, and co-director of ChiLab, and leads the studio's glass practice, which runs from lead crystal casting to large format architectural glass. Ben holds an MFA in Sculpture from the School of the Art Institute of Chicago and a BFA in Sculpture from Oregon State University, and teaches in SAIC's Architecture, Interior Architecture, and Designed Objects program."
- ],
- "clients": [
-  "Gensler",
-  "Studio Gang",
-  "KNOLL",
-  "Sterling Bay",
-  "Uber Freight",
-  "SKIMS",
-  "Santiago Calatrava",
-  "DCASE",
-  "Chicago Department of Aviation",
-  "Peggy Notebaert Nature Museum",
-  "The Magnificent Mile Association",
-  "Office of the Architect of the Capitol",
-  "Driehaus Museum",
-  "The Renaissance Society",
-  "Perron-Roettinger Studio",
-  "CNL Projects"
- ],
- "news": [
-  {
-   "date": "May 2025",
-   "title": "Tulips on The Magnificent Mile",
-   "text": "Five tulip sculptures installed along Michigan Avenue with The Magnificent Mile Association and CNL Projects, timed to the city's annual spring bloom.",
-   "link": "magnificent-mile-tulips",
-   "coverage": [
-    {
-     "pub": "NBC Chicago",
-     "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
-    },
-    {
-     "pub": "The Magnificent Mile",
-     "url": "https://www.themagnificentmile.com/magnificent-mile-tulip"
-    },
-    {
-     "pub": "GlobeNewswire",
-     "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
-    }
-   ]
-  },
-  {
-   "date": "May 2024",
-   "title": "Flight of Butterflies opens at Peggy Notebaert Nature Museum",
-   "text": "Twenty nine monumental butterfly sculptures placed across Chicago, from the Magnificent Mile to neighborhood parks, each finished by a local artist with fabrication support and studio space from ChiLab.",
-   "link": "flight-of-butterflies",
-   "coverage": [
-    {
-     "pub": "Chicago Sun-Times",
-     "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
-    },
-    {
-     "pub": "Peggy Notebaert Nature Museum",
-     "url": "https://naturemuseum.org/exhibits/flight-of-butterflies"
-    },
-    {
-     "pub": "Choose Chicago",
-     "url": "https://www.choosechicago.com/event/flight-of-butterflies/2024-05-01/"
-    }
-   ]
-  },
-  {
-   "date": "June 2023",
-   "title": "Chicago communities use art to highlight climate issues",
-   "text": "E(art)h Chicago installed twelve works across city neighborhoods. ChiLab fabricated Leonard Suryajaya's Homebound for the Grant Park waterfront.",
-   "link": "homebound",
-   "coverage": [
-    {
-     "pub": "FOX 32 Chicago",
-     "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
-    }
-   ]
-  },
-  {
-   "date": "March 2023",
-   "title": "O'Hare Terminal 5 expansion unveils a murmuration",
-   "text": "The Chicago Department of Cultural Affairs and Special Events and the Chicago Department of Aviation unveiled Jina Valentine's 450 foot installation, fabricated and installed by ChiLab.",
-   "link": "ohare-terminal-5",
-   "coverage": [
-    {
-     "pub": "City of Chicago, DCASE",
-     "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
-    }
-   ]
-  },
-  {
-   "date": "October 2021",
-   "title": "Uber Freight opens its global headquarters at the Old Post Office",
-   "text": "ChiLab produced the grand spiral stair and the parametric cast aluminum feature wall for the reception floor.",
-   "link": "uber-spiral-stair",
-   "coverage": [
-    {
-     "pub": "Chicago Tribune",
-     "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
-    },
-    {
-     "pub": "Frame",
-     "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
-    },
-    {
-     "pub": "Built In Chicago",
-     "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
-    }
-   ]
-  },
-  {
-   "date": "2019",
-   "title": "Knoll unveils new Chicago showroom at Fulton Market",
-   "text": "The showroom opened at 811 W Fulton with a ChiLab marquee screen in chrome and dark bronze, and was named to Chicago's coolest offices lists that year.",
-   "link": "knoll-marquee",
-   "coverage": [
-    {
-     "pub": "Interior Design",
-     "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
-    },
-    {
-     "pub": "Crain's Chicago Business",
-     "url": "https://www.chicagobusiness.com/html-page/867211"
-    },
-    {
-     "pub": "Knoll",
-     "url": "https://www.knoll.com/knollnewsdetail/knoll-fulton-market-crains-coolest-office-2019"
-    }
-   ]
-  },
-  {
-   "date": "2019",
-   "title": "Newcity Design Issue",
-   "text": "ChiLab Studio recognized in Newcity's annual survey of the people shaping design in Chicago.",
-   "link": null,
-   "coverage": [
-    {
-     "pub": "Newcity",
-     "url": "https://newcityshop.com/products/december-2019-the-design-issue"
-    },
-    {
-     "pub": "Thirst",
-     "url": "https://3st.com/work/newcity-design-issue-2019"
-    }
-   ]
-  }
- ],
- "press": [
-  {
-   "year": "2025",
-   "pub": "NBC Chicago",
-   "text": "The city's own special tulips take center stage on Mag Mile",
-   "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
-  },
-  {
-   "year": "2025",
-   "pub": "The Magnificent Mile",
-   "text": "Signature tulip returns for the 2025 bloom season",
-   "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
-  },
-  {
-   "year": "2024",
-   "pub": "Chicago Sun-Times",
-   "text": "Butterfly sculptures land across the city with the Peggy Notebaert Nature Museum",
-   "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
-  },
-  {
-   "year": "2023",
-   "pub": "FOX 32 Chicago",
-   "text": "Chicago communities use artistic expression to highlight climate change",
-   "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
-  },
-  {
-   "year": "2023",
-   "pub": "City of Chicago, DCASE",
-   "text": "O'Hare Terminal 5 expansion, the largest acquisition of work by Chicago artists in thirty years",
-   "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
-  },
-  {
-   "year": "2021",
-   "pub": "Chicago Tribune",
-   "text": "Uber Freight opens its global headquarters at the Old Post Office",
-   "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
-  },
-  {
-   "year": "2021",
-   "pub": "Frame",
-   "text": "Amenity spaces build comfort and productivity at Uber's Chicago office",
-   "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
-  },
-  {
-   "year": "2021",
-   "pub": "Built In Chicago",
-   "text": "Uber opens its new office in the Old Main Post Office",
-   "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
-  },
-  {
-   "year": "2019",
-   "pub": "Newcity",
-   "text": "Design Issue, the Unfolding Chair on the cover",
-   "url": "https://newcityshop.com/products/december-2019-the-design-issue"
-  },
-  {
-   "year": "2019",
-   "pub": "Crain's Chicago Business",
-   "text": "Coolest Offices, Knoll's Fulton Market showroom",
-   "url": "https://www.chicagobusiness.com/html-page/867211"
-  },
-  {
-   "year": "2019",
-   "pub": "Interior Design",
-   "text": "Gensler reinforces Knoll's design philosophy at the new Chicago flagship",
-   "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
-  },
-  {
-   "year": "2014",
-   "pub": "CHGO DSGN",
-   "text": "Recent object and graphic design, Chicago Cultural Center",
-   "url": "https://chgodsgn.com"
-  },
-  {
-   "year": "2013",
-   "pub": "The New York Times",
-   "text": "At the International Contemporary Furniture Fair, going for the remix",
-   "url": "https://www.nytimes.com/2013/05/23/garden/at-the-international-contemporary-furniture-fair-going-for-the-remix.html"
-  }
- ]
 }
