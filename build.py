@@ -26,9 +26,9 @@ for p in projects:
                                   else p["cover"])
 
 BY_SLUG = {p["slug"]: p for p in projects}
-FEATURED = ["ohare-terminal-5", "uber-spiral-stair", "st-nicholas-crosses",
-            "skims", "illinois-state-capitol", "knoll-marquee",
-            "magnificent-mile-tulips", "flight-of-butterflies"]
+FEATURED = ["ohare-terminal-5", "uber-spiral-stair", "uber-feature-wall",
+            "st-nicholas-crosses", "skims", "illinois-state-capitol",
+            "knoll-marquee", "magnificent-mile-tulips", "flight-of-butterflies"]
 HOME_FEATURE = "ohare-terminal-5"
 
 NAV = [("work/index.html", "Work"), ("studio.html", "Studio"),
@@ -108,6 +108,19 @@ def rail_block(title, inner):
     return f'<section><h2>{e(title)}</h2>{inner}</section>'
 
 
+def press_list(limit=None):
+    """Press mentions. Publication links out when the piece is online."""
+    items = site["press"][:limit] if limit else site["press"]
+    rows = []
+    for it in items:
+        pub = e(it["pub"])
+        if it.get("url"):
+            pub = f'<a href="{e(it["url"])}" rel="noopener">{pub}</a>'
+        rows.append(f'<li>{e(it["year"])} &nbsp; {pub}'
+                    f'<br><span style="color:var(--muted)">{e(it["text"])}</span></li>')
+    return "<ul>" + "".join(rows) + "</ul>"
+
+
 def home_rail(depth):
     cats = {}
     for p in projects:
@@ -123,8 +136,7 @@ def home_rail(depth):
             f'<li><a href="{rel(depth, "work/index.html")}#{slugify(c)}">{e(c)}</a> '
             f'<span style="color:var(--muted)">{n}</span></li>'
             for c, n in sorted(cats.items())) + "</ul>"),
-        rail_block("Press", "<ul>" + "".join(
-            f'<li>{e(y)} &nbsp; {e(t)}</li>' for y, t in site["press"]) + "</ul>"),
+        rail_block("Press", press_list(limit=6)),
     ]
     return "".join(parts)
 
@@ -392,7 +404,7 @@ def build_studio():
   <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Founded", f"<p>{e(site['founded'])}, {e(site['city'])}</p>")}
     {rail_block("Contact", f'<p><a href="mailto:{e(site["email"])}">{e(site["email"])}</a></p>')}
-    {rail_block("Press", "<ul>" + "".join(f"<li>{e(y)} &nbsp; {e(t)}</li>" for y, t in site["press"]) + "</ul>")}
+    {rail_block("Press", press_list())}
   </div>
 </section>
 
@@ -441,6 +453,12 @@ def build_news():
         link = (f'<p style="margin-top:6px"><a href="work/{e(n["link"])}.html" '
                 f'style="text-decoration:underline;text-underline-offset:3px">View the project</a></p>'
                 if n["link"] else "")
+        cov = n.get("coverage") or []
+        if cov:
+            links = ", ".join(f'<a href="{e(c["url"])}" rel="noopener" '
+                              f'style="text-decoration:underline;text-underline-offset:3px">'
+                              f'{e(c["pub"])}</a>' for c in cov)
+            link += (f'<p style="margin-top:6px;color:var(--muted)">Coverage: {links}</p>')
         items += (f'<li><strong>{e(n["title"])}</strong>'
                   f'<span>{e(n["date"])}. {e(n["text"])}{link}</span></li>')
     out = head(f"News / {site['name']}", "Press and recent work from ChiLab Studio.", depth, "news.html")
@@ -451,6 +469,7 @@ def build_news():
   </div>
   <div class="hero-rail rail">{theme_toggle()}
     {rail_block("Follow", f'<p>{social_links()}</p>')}
+    {rail_block("Press", press_list())}
   </div>
 </section>
 

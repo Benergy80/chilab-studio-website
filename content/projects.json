@@ -113,7 +113,8 @@
     "assets/img/knoll-marquee/04.jpg",
     "assets/img/knoll-marquee/05.jpg",
     "assets/img/knoll-marquee/06.jpg"
-   ]
+   ],
+   "card": "assets/img/knoll-marquee/01.jpg"
   },
   {
    "slug": "st-nicholas-crosses",
@@ -233,7 +234,8 @@
     "assets/img/flight-of-butterflies/10.jpg",
     "assets/img/flight-of-butterflies/11.jpg",
     "assets/img/flight-of-butterflies/12.jpg"
-   ]
+   ],
+   "card": "assets/img/flight-of-butterflies/01.jpg"
   },
   {
    "slug": "magnificent-mile-tulips",
@@ -264,7 +266,8 @@
     "assets/img/magnificent-mile-tulips/07.jpg",
     "assets/img/magnificent-mile-tulips/08.jpg",
     "assets/img/magnificent-mile-tulips/09.jpg"
-   ]
+   ],
+   "card": "assets/img/magnificent-mile-tulips/01.jpg"
   },
   {
    "slug": "skims",

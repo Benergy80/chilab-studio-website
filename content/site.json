@@ -102,51 +102,201 @@
    "date": "May 2025",
    "title": "Tulips on The Magnificent Mile",
    "text": "Five tulip sculptures installed along Michigan Avenue with The Magnificent Mile Association and CNL Projects, timed to the city's annual spring bloom.",
-   "link": "magnificent-mile-tulips"
+   "link": "magnificent-mile-tulips",
+   "coverage": [
+    {
+     "pub": "NBC Chicago",
+     "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
+    },
+    {
+     "pub": "The Magnificent Mile",
+     "url": "https://www.themagnificentmile.com/magnificent-mile-tulip"
+    },
+    {
+     "pub": "GlobeNewswire",
+     "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
+    }
+   ]
   },
   {
    "date": "May 2024",
    "title": "Flight of Butterflies opens at Peggy Notebaert Nature Museum",
    "text": "Twenty nine monumental butterfly sculptures placed across Chicago, from the Magnificent Mile to neighborhood parks, each finished by a local artist with fabrication support and studio space from ChiLab.",
-   "link": "flight-of-butterflies"
+   "link": "flight-of-butterflies",
+   "coverage": [
+    {
+     "pub": "Chicago Sun-Times",
+     "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
+    },
+    {
+     "pub": "Peggy Notebaert Nature Museum",
+     "url": "https://naturemuseum.org/exhibits/flight-of-butterflies"
+    },
+    {
+     "pub": "Choose Chicago",
+     "url": "https://www.choosechicago.com/event/flight-of-butterflies/2024-05-01/"
+    }
+   ]
   },
   {
    "date": "June 2023",
    "title": "Chicago communities use art to highlight climate issues",
    "text": "E(art)h Chicago installed twelve works across city neighborhoods. ChiLab fabricated Leonard Suryajaya's Homebound for the Grant Park waterfront.",
-   "link": "homebound"
+   "link": "homebound",
+   "coverage": [
+    {
+     "pub": "FOX 32 Chicago",
+     "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
+    }
+   ]
   },
   {
    "date": "March 2023",
    "title": "O'Hare Terminal 5 expansion unveils a murmuration",
    "text": "The Chicago Department of Cultural Affairs and Special Events and the Chicago Department of Aviation unveiled Jina Valentine's 450 foot installation, fabricated and installed by ChiLab.",
-   "link": "ohare-terminal-5"
+   "link": "ohare-terminal-5",
+   "coverage": [
+    {
+     "pub": "City of Chicago, DCASE",
+     "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
+    }
+   ]
+  },
+  {
+   "date": "October 2021",
+   "title": "Uber Freight opens its global headquarters at the Old Post Office",
+   "text": "ChiLab produced the grand spiral stair and the parametric cast aluminum feature wall for the reception floor.",
+   "link": "uber-spiral-stair",
+   "coverage": [
+    {
+     "pub": "Chicago Tribune",
+     "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
+    },
+    {
+     "pub": "Frame",
+     "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
+    },
+    {
+     "pub": "Built In Chicago",
+     "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
+    }
+   ]
   },
   {
    "date": "2019",
    "title": "Knoll unveils new Chicago showroom at Fulton Market",
    "text": "The showroom opened at 811 W Fulton with a ChiLab marquee screen in chrome and dark bronze, and was named to Chicago's coolest offices lists that year.",
-   "link": "knoll-marquee"
+   "link": "knoll-marquee",
+   "coverage": [
+    {
+     "pub": "Interior Design",
+     "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
+    },
+    {
+     "pub": "Crain's Chicago Business",
+     "url": "https://www.chicagobusiness.com/html-page/867211"
+    },
+    {
+     "pub": "Knoll",
+     "url": "https://www.knoll.com/knollnewsdetail/knoll-fulton-market-crains-coolest-office-2019"
+    }
+   ]
   },
   {
    "date": "2019",
    "title": "Newcity Design Issue",
    "text": "ChiLab Studio recognized in Newcity's annual survey of the people shaping design in Chicago.",
-   "link": null
+   "link": null,
+   "coverage": [
+    {
+     "pub": "Newcity",
+     "url": "https://newcityshop.com/products/december-2019-the-design-issue"
+    },
+    {
+     "pub": "Thirst",
+     "url": "https://3st.com/work/newcity-design-issue-2019"
+    }
+   ]
   }
  ],
  "press": [
-  [
-   "2019",
-   "Newcity, Designed Objects issue cover"
-  ],
-  [
-   "2019",
-   "Interior Design, Knoll Chicago flagship"
-  ],
-  [
-   "2013",
-   "The New York Times, Home section cover"
-  ]
+  {
+   "year": "2025",
+   "pub": "NBC Chicago",
+   "text": "The city's own special tulips take center stage on Mag Mile",
+   "url": "https://www.nbcchicago.com/only-in-chicago-nbc-5/only-in-chicago-citys-own-special-tulips-take-center-stage-on-mag-mile/3729210/"
+  },
+  {
+   "year": "2025",
+   "pub": "The Magnificent Mile",
+   "text": "Signature tulip returns for the 2025 bloom season",
+   "url": "https://www.globenewswire.com/news-release/2025/04/22/3065837/0/en/The-Magnificent-Mile-celebrates-the-return-of-its-signature-tulip-for-the-2025-bloom-season.html"
+  },
+  {
+   "year": "2024",
+   "pub": "Chicago Sun-Times",
+   "text": "Butterfly sculptures land across the city with the Peggy Notebaert Nature Museum",
+   "url": "https://chicago.suntimes.com/entertainment-and-culture/2024/04/25/butterfly-sculptures-peggy-notebaert-nature-museum-chicago"
+  },
+  {
+   "year": "2023",
+   "pub": "FOX 32 Chicago",
+   "text": "Chicago communities use artistic expression to highlight climate change",
+   "url": "https://www.fox32chicago.com/news/chicago-communities-using-artistic-expression-highlight-climate-change-issues"
+  },
+  {
+   "year": "2023",
+   "pub": "City of Chicago, DCASE",
+   "text": "O'Hare Terminal 5 expansion, the largest acquisition of work by Chicago artists in thirty years",
+   "url": "https://www.chicago.gov/city/en/depts/dca/supp_info/t5.html"
+  },
+  {
+   "year": "2021",
+   "pub": "Chicago Tribune",
+   "text": "Uber Freight opens its global headquarters at the Old Post Office",
+   "url": "https://www.chicagotribune.com/business/ct-viz-biz-uber-freight-old-post-office-opening-20211019-pui5b67vofai3lpnp3grs5vaay-photogallery.html"
+  },
+  {
+   "year": "2021",
+   "pub": "Frame",
+   "text": "Amenity spaces build comfort and productivity at Uber's Chicago office",
+   "url": "https://frameweb.com/article/work/amenity-spaces-build-comfort-productivity-at-ubers-chicago-office"
+  },
+  {
+   "year": "2021",
+   "pub": "Built In Chicago",
+   "text": "Uber opens its new office in the Old Main Post Office",
+   "url": "https://www.builtinchicago.org/2021/10/20/uber-opens-new-chicago-office-old-main-post-office-hiring"
+  },
+  {
+   "year": "2019",
+   "pub": "Newcity",
+   "text": "Design Issue, the Unfolding Chair on the cover",
+   "url": "https://newcityshop.com/products/december-2019-the-design-issue"
+  },
+  {
+   "year": "2019",
+   "pub": "Crain's Chicago Business",
+   "text": "Coolest Offices, Knoll's Fulton Market showroom",
+   "url": "https://www.chicagobusiness.com/html-page/867211"
+  },
+  {
+   "year": "2019",
+   "pub": "Interior Design",
+   "text": "Gensler reinforces Knoll's design philosophy at the new Chicago flagship",
+   "url": "https://interiordesign.net/projects/gensler-reinforces-knoll-s-design-philosophy-at-new-chicago-flagship/"
+  },
+  {
+   "year": "2014",
+   "pub": "CHGO DSGN",
+   "text": "Recent object and graphic design, Chicago Cultural Center",
+   "url": "https://chgodsgn.com"
+  },
+  {
+   "year": "2013",
+   "pub": "The New York Times",
+   "text": "At the International Contemporary Furniture Fair, going for the remix",
+   "url": "https://www.nytimes.com/2013/05/23/garden/at-the-international-contemporary-furniture-fair-going-for-the-remix.html"
+  }
  ]
 }
