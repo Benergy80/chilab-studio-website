@@ -339,5 +339,12 @@
       "text": "At the International Contemporary Furniture Fair, going for the remix",
       "url": "https://www.nytimes.com/2013/05/23/garden/at-the-international-contemporary-furniture-fair-going-for-the-remix.html"
     }
-  ]
+  ],
+  "hero_image": {
+    "src": "assets/img/uber-feature-wall/05.jpg",
+    "w": 1500,
+    "h": 1000,
+    "alt": "Raking light across the parametric cast aluminum feature wall at Uber Freight headquarters",
+    "caption": "Parametric Feature Wall, Uber Freight HQ, Old Post Office, Chicago."
+  }
 }

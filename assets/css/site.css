@@ -533,6 +533,13 @@ img { display: block; width: 100%; height: auto; }
 .process-plate-wide img {
   aspect-ratio: 16 / 9;
 }
+/* Hero band. Capped in viewport height so the image and the deck below it both
+   land above the fold on a laptop. */
+.hero-plate { margin-top: var(--row); }
+.hero-plate img {
+  aspect-ratio: 21 / 9;
+  max-height: clamp(190px, 30vh, 360px);
+}
 .process-plate figcaption {
   margin-top: 8px;
   padding-top: 6px;

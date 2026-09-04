@@ -171,10 +171,13 @@ def feature_block(p, depth):
 </div>"""
 
 
-def process_figure(img, depth, wide=False):
-    klass = "process-plate process-plate-wide" if wide else "process-plate"
+def process_figure(img, depth, wide=False, klass=None, eager=False):
+    if klass is None:
+        klass = "process-plate process-plate-wide" if wide else "process-plate"
+    # the hero band is above the fold on every screen, so it never lazy loads
+    load = ' fetchpriority="high"' if eager else ' loading="lazy"'
     return f"""<figure class="{klass}">
-  <div class="frame"><img src="{rel(depth, img['src'])}" alt="{e(img['alt'])}" loading="lazy" width="{img['w']}" height="{img['h']}"></div>
+  <div class="frame"><img src="{rel(depth, img['src'])}" alt="{e(img['alt'])}"{load} width="{img['w']}" height="{img['h']}"></div>
   <figcaption>{e(img['caption'])}</figcaption>
 </figure>"""
 
@@ -218,6 +221,7 @@ def build_home():
   <div class="hero-main">
     <p class="kicker">{e(site['city'])} &nbsp;/&nbsp; Established {e(site['founded'])}</p>
     <h1 class="display">{h1}</h1>
+    {process_figure(site['hero_image'], depth, klass="process-plate hero-plate", eager=True)}
     <div class="deck">{deck}</div>
   </div>
   <div class="hero-rail rail">{theme_toggle()}{home_rail(depth)}</div>
