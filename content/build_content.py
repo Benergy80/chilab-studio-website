@@ -87,7 +87,7 @@ P.append(dict(
         "St. Nicholas Greek Orthodox Church sits within the National Shrine at Ground Zero. Taking part in the adornment of a monument with that weight went beyond Chicago or New York and into the national record.",
         "The crosses are cast from a high quality, optically clear leaded glass chosen to capture and refract light. Each one was cast, cold worked, and polished by hand, then set into CNC machined openings in the Pentelic marble doors.",
         "The work demanded technical precision and an understanding of what the crosses would mean once installed.",
-    ], imgs=local("st-nicholas-crosses", 10), card="assets/img/st-nicholas-crosses/06.jpg"))
+    ], imgs=local("st-nicholas-crosses", 18)))
 
 P.append(dict(
     slug="st-nicholas-icon-stands", title="Icon Stands", sub="St. Nicholas Greek Orthodox Church, National Shrine",

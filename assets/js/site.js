@@ -36,4 +36,24 @@
       });
     });
   }
+
+  // Contact / Index / Press sit in the hero rail on the wide layout. Once the
+  // grid stacks they read better after the featured project and Selected Works,
+  // so move them into the slot below that section and back again on resize.
+  var lateTarget = document.querySelector("[data-late-rail-target]");
+  if (lateTarget) {
+    var lateBlocks = Array.prototype.slice.call(document.querySelectorAll("[data-late-rail]"));
+    var heroRail = lateBlocks.length ? lateBlocks[0].parentNode : null;
+    var stacked = window.matchMedia("(max-width: 1099px)");
+    var placeLateRail = function () {
+      var host = stacked.matches ? lateTarget : heroRail;
+      if (!host) return;
+      lateBlocks.forEach(function (block) {
+        if (block.parentNode !== host) host.appendChild(block);
+      });
+    };
+    placeLateRail();
+    if (stacked.addEventListener) stacked.addEventListener("change", placeLateRail);
+    else stacked.addListener(placeLateRail);
+  }
 })();

@@ -575,6 +575,10 @@ img { display: block; width: 100%; height: auto; }
 .site-foot .c2 { grid-column: 3 / 5; }
 .site-foot .c3 { grid-column: 5 / 6; }
 
+/* Contact / Index / Press ride in the hero rail on wide screens and drop
+   below Selected Works once the grid stacks. site.js does the move. */
+.late-rail { display: none; }
+
 /* ---------- responsive ---------- */
 
 @media (max-width: 1099px) {
@@ -589,6 +593,9 @@ img { display: block; width: 100%; height: auto; }
   .plate-wide, .plate-main, .plate-half,
   .site-foot .c1, .site-foot .c2, .site-foot .c3 { grid-column: 1 / -1; }
   .hero-rail { margin-top: var(--row); }
+  .late-rail { display: grid; }
+  .late-rail [data-late-rail-target] { grid-column: 1 / -1; margin-top: var(--row); }
+  .late-rail:empty, .late-rail [data-late-rail-target]:empty { display: none; }
   .section { row-gap: var(--tight); }
   .section-no { font-size: clamp(56px, 12vw, 120px); margin-bottom: var(--tight); }
   .section-rail { margin-top: var(--row); }

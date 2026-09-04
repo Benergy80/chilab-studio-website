@@ -104,8 +104,8 @@ def foot(depth):
 """
 
 
-def rail_block(title, inner):
-    return f'<section><h2>{e(title)}</h2>{inner}</section>'
+def rail_block(title, inner, attrs=""):
+    return f'<section{attrs}><h2>{e(title)}</h2>{inner}</section>'
 
 
 def press_list(limit=None):
@@ -131,12 +131,13 @@ def home_rail(depth):
                              f'<p><a href="{rel(depth, "studio.html")}">About the studio</a></p>'),
         rail_block("Contact", f'<p>{e(site["city"])}</p>'
                               f'<p><a href="mailto:{e(site["email"])}">{e(site["email"])}</a></p>'
-                              f'<p><a href="{e(site["instagram"])}">Instagram</a></p>'),
+                              f'<p><a href="{e(site["instagram"])}">Instagram</a></p>',
+                   attrs=' data-late-rail'),
         rail_block("Index", "<ul>" + "".join(
             f'<li><a href="{rel(depth, "work/index.html")}#{slugify(c)}">{e(c)}</a> '
             f'<span style="color:var(--muted)">{n}</span></li>'
-            for c, n in sorted(cats.items())) + "</ul>"),
-        rail_block("Press", press_list(limit=6)),
+            for c, n in sorted(cats.items())) + "</ul>", attrs=' data-late-rail'),
+        rail_block("Press", press_list(limit=6), attrs=' data-late-rail'),
     ]
     return "".join(parts)
 
@@ -246,6 +247,10 @@ def build_home():
   <div class="section-wide"><div class="works">{cards}</div>
     <p style="margin-top:var(--row)"><a href="work/index.html" style="font-weight:700;text-decoration:underline;text-underline-offset:4px">See all work</a></p>
   </div>
+</section>
+
+<section class="shell grid late-rail" data-late-rail-slot>
+  <div class="rail" data-late-rail-target></div>
 </section>
 
 <section class="shell grid section">
