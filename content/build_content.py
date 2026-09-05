@@ -283,6 +283,139 @@ P.append(dict(
     body=["Fused glass and hammered bronze sconce, 30 inch diameter by 3 inch deep."],
     imgs=rz("annular-sconce-1")))
 
+P.append(dict(
+    slug="litowitz-family-office", title="Litowitz Family Office", sub="LFO Management, 1616 Orrington",
+    year="2024", place="Evanston, IL", cat="Architectural",
+    lead="A floor of blackened steel and glass demountable partitions, boardroom and elevator assemblies, library metalwork, and blackened thresholds.",
+    credits=["Client: LFO Management LLC", "General contractor: Clune Construction", "Union steel erection: Caputo Steel Erectors"],
+    materials="Blackened steel, glass, bronze toned finishes",
+    body=[
+        "ChiLab was awarded the interior demountables package for the Litowitz Family Office buildout at 1616 Orrington, a full sixth floor of steel and glass partition systems set inside an existing Evanston building.",
+        "The scope ran from boardroom and elevator entry assemblies through library and lounge metalwork, perforated panels, custom doors and hardware coordination, backbar and column shelving, and blackened threshold panels finished with a floor grip epoxy.",
+        "The work sat at the meeting point of contract construction and custom fabrication: shop drawings, submittals, finish samples and union installation on one side, and hand finished blackened metal detailing on the other. Field conditions in an older building drove late adjustments, including a boardroom door frame rebuilt to take the swing after a milled hinge approach was abandoned.",
+        "The metal language developed here became the reference for the studio's later lobby mailbox and credenza work in the same building.",
+    ], imgs=local("litowitz-family-office", 9)))
+
+P.append(dict(
+    slug="kumas-vernon-hills", title="Kuma's Corner Vernon Hills", sub="Hawthorn Mall, metalwork, signage and lighting",
+    year="2018", place="Vernon Hills, IL", cat="Retail",
+    lead="A suburban translation of the Kuma's language: perforated steel bar panels, illuminated boxes, rusted signage, and a patio fence with integrated lighting.",
+    credits=["Client: Kuma's Corner, Ron Cain", "Architecture and interiors: DXU Architects", "Laser cutting: Millenia Metals"],
+    materials="Rust patinated steel, acrylic, integrated lighting",
+    body=[
+        "The Hawthorn Mall location opened in November 2018 and needed the Kuma's identity to survive the move from a Chicago storefront to a suburban mall shell.",
+        "ChiLab designed, engineered and fabricated the metal package: twenty perforated steel bar panels carrying the Kuma's bear in rust patina, twenty illuminated light boxes, a rusted steel wall sign, twenty sixteen inch round logo medallions, custom logo planters, and a bespoke patio railing with lighting built into it.",
+        "Because the engineering had been developed for an earlier store, the kit could be reissued and expanded rather than redrawn. The light boxes came in roughly five thousand dollars under the previous year, and the logo medallions were added as a new Vernon Hills element.",
+    ], imgs=local("kumas-vernon-hills", 8)))
+
+P.append(dict(
+    slug="hobson-residence-grilles", title="Hobson Residence Grilles", sub="Cast and machined grilles in satin nickel",
+    year="2018", place="Chicago, IL", cat="Architectural",
+    lead="Eleven decorative grilles with cast and CNC machined spindles, woven bronze mesh, and satin nickel plating.",
+    credits=["Millwork contractor: Imperial Woodworking Co.", "Design: Gibbons Fortman & Associates", "Casting: Meskan Foundry", "Plating: Valley City Plating"],
+    materials="White manganese bronze, machined brass, woven bronze mesh, satin nickel plating",
+    body=[
+        "A residential commission produced for millwork contractor Imperial Woodworking: eleven custom decorative grilles running from an Everest bedroom portal through kitchen, foyer, entry and four master bathroom openings.",
+        "The drawings arrived as millwork gaps rather than finished parts, so the work began with 3D modeling. Casting families were built to be reused across assemblies, which kept a large set of unique openings economical.",
+        "Spindles were cast in white manganese bronze and machined, set into custom milled frames with woven bronze mesh, then plated satin nickel. A closet makeup mirror assembly was added to the package as the job developed.",
+    ], imgs=local("hobson-residence-grilles", 9)))
+
+P.append(dict(
+    slug="rick-valicenti-clock", title="The Clock", sub="Rick Valicenti / Thirst",
+    year="2015", place="Chicago, IL", cat="Objects",
+    lead="A cast timepiece developed with designer Rick Valicenti, its face set with cast letterforms and a burst of machined brass rays.",
+    credits=["Designer: Rick Valicenti, Thirst", "Produced at West Supply LLC", "Design engineering: Ben Stagl"],
+    materials="Cast metal, cast glass, machined brass",
+    body=[
+        "The Clock came out of a design competition that Rick Valicenti shepherded into a Chicago internship, and was produced at West Supply with Ben Stagl as design engineering consultant.",
+        "The face carries cast letterforms around a black disc, with machined brass rays radiating from a cast glass center. Pattern preparation, casting and finishing were all handled in house.",
+        "The collaboration continued into Valicenti's 2016 artist in residence exhibition at Loyola University's Ralph Arnold Gallery, where the same team fabricated and installed the show.",
+    ], imgs=local("rick-valicenti-clock", 8)))
+
+P.append(dict(
+    slug="far-side-iss-coin", title="Far Side ISS Coin", sub="Small-edition silver coin for a Space Force mission",
+    year="2026", place="Chicago, IL / International Space Station", cat="Objects",
+    lead="A small-edition hand-cast .999 silver coin that translated a Gary Larson tribute from two-dimensional cartoon language into relief, mold work, and lost-wax casting.",
+    credits=["Client: U.S. Air Force Academy / Space Force mission team", "Mission lead: Major Travis Tubbs", "Original artwork: Gary Larson / FarWorks, Inc."],
+    materials=".999 silver, castable resin, investment mold, lost-wax casting",
+    body=[
+        "The Far Side ISS Coin began as an unusually specific recognition object: a small run of silver coins connected to a Space Force research mission carrying tribute material to the International Space Station.",
+        "ChiLab translated the two-dimensional cartoon reference into a legible relief model at coin scale, then moved the design through 3D printing, mold preparation, investment, and casting in .999 silver.",
+        "At roughly an inch and a half across, the project compressed digital modeling, hand casting, finishing, and copyright-sensitive cultural material into a tiny object with an outsized story.",
+    ], imgs=local("far-side-iss-coin", 7)))
+
+P.append(dict(
+    slug="tower-bridge-at-scale", title="Tower Bridge at Scale", sub="Additive manufacturing study for a Milano showroom",
+    year="2026", place="Milano, Italy", cat="Objects",
+    lead="A rapid production study for a large-scale Tower Bridge replica, breaking landmark architecture into printable, finishable, and shippable components.",
+    credits=["Client team: Acierta Retail", "Showroom context: Burberry Winter 26"],
+    materials="3D printed polymer, modular assembly, painted finish study",
+    body=[
+        "Tower Bridge at Scale was developed as an additive manufacturing and production study for a fashion showroom environment in Milano.",
+        "The problem was not simply to make a recognizable model. The bridge had to be divided into a large number of printable parts, scaled for impact, finished consistently, and planned around a compressed production window.",
+        "Prototype sections tested detail, part breakup, surface quality, and assembly logic before the full build path was priced and scheduled.",
+    ], imgs=local("tower-bridge-at-scale", 7)))
+
+P.append(dict(
+    slug="knoll-design-center", title="Knoll Design Center", sub="Fulton Market showroom rod screen",
+    year="2019", place="Chicago, IL", cat="Architectural",
+    lead="A floor-to-ceiling rod screen for Knoll's Chicago showroom, built from steel tubes and dark-coated segments that resolve into a graphic threshold as viewers move through the space.",
+    credits=["Client: KNOLL", "Architecture and interiors: Gensler", "With CNL Projects"],
+    materials="Steel rods, plated metal, dark-coated metal",
+    body=[
+        "Beyond the marquee sculpture and bronze table, the Knoll Chicago Design Center included a larger family of showroom fabrication.",
+        "This rod screen uses repetition, spacing, and dark-coated interruptions to create a graphic field that changes as the viewer moves. It works as a threshold, a spatial divider, and a brand-scaled material detail.",
+        "The fabrication had to hold a crisp line across many individual members, keeping the screen visually light while preserving the accuracy of the pattern.",
+    ], imgs=local("knoll-design-center", 5)))
+
+P.append(dict(
+    slug="driehaus-museum-palimpsest", title="Palimpsest", sub="Industry of the Ordinary, Driehaus Museum",
+    year="2024", place="Chicago, IL", cat="Objects",
+    lead="A digital-to-ceramic translation of Victorian door hardware for Industry of the Ordinary's Palimpsest project at the Richard H. Driehaus Museum.",
+    credits=["Artists: Industry of the Ordinary", "Venue: Richard H. Driehaus Museum", "Digital fabrication: ChiLab Studio"],
+    materials="3D scan data, 3D printed prototypes, terracotta ceramic, original brass hardware",
+    body=[
+        "For Palimpsest, Industry of the Ordinary looked closely at the decorative hardware embedded in the Driehaus Museum's Gilded Age rooms.",
+        "ChiLab documented original brass door hardware in place, translated that scan data into precise digital models, and produced prototypes that could guide ceramic reproduction.",
+        "The resulting terracotta objects returned those forms to the rooms as artifacts of copying, memory, and material translation.",
+    ], imgs=local("driehaus-museum-palimpsest", 5)))
+
+P.append(dict(
+    slug="renaissance-society-colour-drop", title="Colour Drop Pedestals", sub="Christina Mackie, The Renaissance Society",
+    year="2016", place="Chicago, IL", cat="Objects",
+    lead="Custom painted steel pedestal structures fabricated for Christina Mackie's Colour Drop installation at The Renaissance Society.",
+    credits=["Artist: Christina Mackie", "Venue: The Renaissance Society, University of Chicago", "Fabrication: West Supply LLC / ChiLab Studio"],
+    materials="Painted steel, welded steel frames",
+    body=[
+        "Colour Drop required display structures that could support the artist's glass elements while remaining visually disciplined within the exhibition.",
+        "ChiLab fabricated the steel pedestal system, resolving proportion, weld quality, surface preparation, and paint finish so the supports acted as part of the installation language.",
+        "The work sits in a familiar zone for the studio: precise fabrication in service of an artist's material world.",
+    ], imgs=local("renaissance-society-colour-drop", 5)))
+
+P.append(dict(
+    slug="mayors-office-cast-glass", title="Mayor's Office Cast Glass", sub="Chicago civic glass object",
+    year="Archive", place="Chicago, IL", cat="Glass",
+    lead="A cast-glass civic object for Chicago's Mayor's Office at City Hall, using map relief, star details, texture, and light to carry a sense of place.",
+    credits=["Client context: Chicago Mayor's Office / City Hall", "Glass: ChiLab Studio"],
+    materials="Cast glass, relief texture, edge-lit presentation study",
+    body=[
+        "This Mayor's Office project brought together cast glass, civic iconography, and light in a compact architectural object.",
+        "The piece uses a map-like relief, star references, and the thickness of glass to hold information without flattening it into signage.",
+        "Process images from the pour show the physical intensity behind the quieter finished object: heat, mold work, annealing, finishing, and the final edge-lit read.",
+    ], imgs=local("mayors-office-cast-glass", 5)))
+
+P.append(dict(
+    slug="stained-glass-for-kumas", title="Stained Glass for Kuma's", sub="Custom stained glass panels",
+    year="2020", place="Chicago, IL", cat="Glass",
+    lead="Custom stained glass panels for Kuma's Corner, translating the restaurant's heavy graphic language into lead, color, and transmitted light.",
+    credits=["Client: Kuma's Corner", "Collaborators: Adam Schadenfroh and Steven Krejcik"],
+    materials="Stained glass, lead came, solder, patina",
+    body=[
+        "The stained glass for Kuma's turns the restaurant's visual culture into something slower, heavier, and more architectural.",
+        "Lead came, colored glass, solder lines, and backlighting give the imagery a physical presence that changes through the day.",
+        "The project extends the studio's restaurant fabrication work into a more traditional craft vocabulary while keeping the attitude of the space intact.",
+    ], imgs=local("stained-glass-for-kumas", 5)))
+
 out = {"projects": P}
 os.makedirs(os.path.dirname(__file__), exist_ok=True)
 json.dump(out, open(os.path.join(os.path.dirname(__file__), "projects.json"), "w"), indent=1)

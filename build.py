@@ -360,6 +360,9 @@ def build_project(p, prev, nxt):
     if p["credits"]:
         rail += rail_block("Credits", "<ul>" + "".join(
             f'<li>{e(c)}</li>' for c in p["credits"]) + "</ul>")
+    pdf_file = os.path.join(ROOT, "pdf", p["slug"] + ".pdf")
+    if os.path.exists(pdf_file):
+        rail += rail_block("Download", f'<p><a href="{rel(depth, "pdf/" + p["slug"] + ".pdf")}">Project PDF</a></p>')
     rail += rail_block("Index", f'<p><a href="index.html">All work</a></p>')
 
     body = "".join(f"<p>{e(t)}</p>" for t in p["body"])

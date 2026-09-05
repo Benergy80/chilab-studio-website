@@ -1040,5 +1040,392 @@
    "w": 1800,
    "h": 1200
   }
+ ],
+ "litowitz-family-office": [
+  {
+   "src": "assets/img/litowitz-family-office/01.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/02.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/03.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/04.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/05.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/06.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/07.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/08.jpg",
+   "w": 1800,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/litowitz-family-office/09.jpg",
+   "w": 1800,
+   "h": 1200
+  }
+ ],
+ "kumas-vernon-hills": [
+  {
+   "src": "assets/img/kumas-vernon-hills/01.jpg",
+   "w": 1800,
+   "h": 1012
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/02.jpg",
+   "w": 1800,
+   "h": 1012
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/03.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/04.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/05.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/06.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/07.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/kumas-vernon-hills/08.jpg",
+   "w": 1800,
+   "h": 3200
+  }
+ ],
+ "hobson-residence-grilles": [
+  {
+   "src": "assets/img/hobson-residence-grilles/01.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/02.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/03.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/04.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/06.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/07.jpg",
+   "w": 1800,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/08.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/hobson-residence-grilles/09.jpg",
+   "w": 1800,
+   "h": 1350
+  }
+ ],
+ "rick-valicenti-clock": [
+  {
+   "src": "assets/img/rick-valicenti-clock/01.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/02.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/03.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/04.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/05.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/06.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/07.jpg",
+   "w": 1800,
+   "h": 2400
+  },
+  {
+   "src": "assets/img/rick-valicenti-clock/08.jpg",
+   "w": 1800,
+   "h": 2400
+  }
+ ],
+ "far-side-iss-coin": [
+  {
+   "src": "assets/img/far-side-iss-coin/01.jpg",
+   "w": 1800,
+   "h": 1013
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/02.jpg",
+   "w": 1350,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/03.jpg",
+   "w": 1350,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/04.jpg",
+   "w": 1350,
+   "h": 1800
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/05.jpg",
+   "w": 1800,
+   "h": 1350
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/06.jpg",
+   "w": 1008,
+   "h": 756
+  },
+  {
+   "src": "assets/img/far-side-iss-coin/07.jpg",
+   "w": 756,
+   "h": 1008
+  }
+ ],
+ "tower-bridge-at-scale": [
+  {
+   "src": "assets/img/tower-bridge-at-scale/01.jpg",
+   "w": 800,
+   "h": 600
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/02.jpg",
+   "w": 600,
+   "h": 800
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/03.jpg",
+   "w": 600,
+   "h": 800
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/04.jpg",
+   "w": 674,
+   "h": 1200
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/05.jpg",
+   "w": 648,
+   "h": 1400
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/06.jpg",
+   "w": 648,
+   "h": 1400
+  },
+  {
+   "src": "assets/img/tower-bridge-at-scale/07.jpg",
+   "w": 648,
+   "h": 1400
+  }
+ ],
+ "knoll-design-center": [
+  {
+   "src": "assets/img/knoll-design-center/01.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/knoll-design-center/02.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/knoll-design-center/03.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/knoll-design-center/04.jpg",
+   "w": 1080,
+   "h": 810
+  },
+  {
+   "src": "assets/img/knoll-design-center/05.jpg",
+   "w": 1080,
+   "h": 720
+  }
+ ],
+ "driehaus-museum-palimpsest": [
+  {
+   "src": "assets/img/driehaus-museum-palimpsest/01.jpg",
+   "w": 1080,
+   "h": 810
+  },
+  {
+   "src": "assets/img/driehaus-museum-palimpsest/02.jpg",
+   "w": 1080,
+   "h": 810
+  },
+  {
+   "src": "assets/img/driehaus-museum-palimpsest/03.jpg",
+   "w": 653,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/driehaus-museum-palimpsest/04.jpg",
+   "w": 965,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/driehaus-museum-palimpsest/05.jpg",
+   "w": 618,
+   "h": 1120
+  }
+ ],
+ "renaissance-society-colour-drop": [
+  {
+   "src": "assets/img/renaissance-society-colour-drop/01.jpg",
+   "w": 1080,
+   "h": 810
+  },
+  {
+   "src": "assets/img/renaissance-society-colour-drop/02.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/renaissance-society-colour-drop/03.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/renaissance-society-colour-drop/04.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/renaissance-society-colour-drop/05.jpg",
+   "w": 810,
+   "h": 1080
+  }
+ ],
+ "mayors-office-cast-glass": [
+  {
+   "src": "assets/img/mayors-office-cast-glass/01.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/mayors-office-cast-glass/02.jpg",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/mayors-office-cast-glass/03.jpg",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/mayors-office-cast-glass/04.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/mayors-office-cast-glass/05.jpg",
+   "w": 1080,
+   "h": 1080
+  }
+ ],
+ "stained-glass-for-kumas": [
+  {
+   "src": "assets/img/stained-glass-for-kumas/01.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/stained-glass-for-kumas/02.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/stained-glass-for-kumas/03.jpg",
+   "w": 799,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/stained-glass-for-kumas/04.jpg",
+   "w": 810,
+   "h": 1080
+  },
+  {
+   "src": "assets/img/stained-glass-for-kumas/05.jpg",
+   "w": 1080,
+   "h": 732
+  }
  ]
 }
