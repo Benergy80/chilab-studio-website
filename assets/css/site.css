@@ -417,6 +417,54 @@ img { display: block; width: 100%; height: auto; }
 .index-row .p { color: var(--muted); font-size: clamp(14px, 0.9vw, 17px); }
 .index-row .y { text-align: right; font-variant-numeric: tabular-nums; font-size: clamp(14px, 0.9vw, 17px); }
 
+/* ---------- download index (pamphlets) ---------- */
+
+.dl-list { margin-top: var(--row); }
+
+.dl-row {
+  display: grid;
+  grid-template-columns: 3.2rem minmax(0, 2.4fr) minmax(0, 1fr) 5rem 5rem 4rem;
+  column-gap: var(--gap);
+  align-items: baseline;
+  padding: 12px 0;
+  border-top: 1px solid var(--soft-rule);
+}
+.dl-row:first-child { border-top: 1px solid var(--rule); }
+.dl-row:hover { background: var(--oxide-soft); }
+.dl-row .no { color: var(--muted); font-size: clamp(13px, 0.85vw, 16px); }
+.dl-row .t { font-weight: 700; font-size: clamp(18px, 1.35vw, 28px); line-height: 1.04; }
+.dl-row .t a { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.dl-row .t a:hover { color: var(--oxide); }
+.dl-row .t .sub {
+  display: block;
+  margin-top: 3px;
+  font-weight: 400;
+  font-size: clamp(14px, 0.9vw, 17px);
+  color: var(--muted);
+}
+.dl-row .c { color: var(--muted); font-size: clamp(14px, 0.9vw, 17px); }
+.dl-row .y,
+.dl-row .pg {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-size: clamp(14px, 0.9vw, 17px);
+}
+.dl-row .dl { text-align: right; font-size: clamp(14px, 0.9vw, 17px); }
+.dl-row .dl a {
+  color: var(--oxide);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.deck-lede {
+  margin: var(--tight) 0 0;
+  font-size: clamp(18px, 1.35vw, 28px);
+  line-height: 1.12;
+  color: var(--muted);
+  max-width: 42ch;
+}
+
 .filters {
   display: flex;
   flex-wrap: wrap;
@@ -615,6 +663,8 @@ img { display: block; width: 100%; height: auto; }
   .index-preview { display: none; }
   .index-row { grid-template-columns: 2.4rem minmax(0, 2fr) minmax(0, 1fr) 4.5rem; }
   .index-row .p { display: none; }
+  .dl-row { grid-template-columns: 2.4rem minmax(0, 2fr) minmax(0, 1fr) 4.5rem 4rem; }
+  .dl-row .pg { display: none; }
   .site-foot .c2, .site-foot .c3 { margin-top: 6px; }
 }
 
@@ -630,6 +680,8 @@ img { display: block; width: 100%; height: auto; }
   .client-band ul { columns: 1; }
   .index-row { grid-template-columns: 2rem minmax(0, 1fr) 3.5rem; }
   .index-row .c { display: none; }
+  .dl-row { grid-template-columns: 2rem minmax(0, 1fr) 3.5rem; }
+  .dl-row .c, .dl-row .y { display: none; }
   .cap-list li { grid-template-columns: minmax(0, 1fr); row-gap: 2px; }
   .project-title { font-size: clamp(32px, 10vw, 64px); }
 }

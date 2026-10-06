@@ -10,6 +10,8 @@ import json
 import os
 import shutil
 
+import build_pamphlets
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 C = os.path.join(ROOT, "content")
 
@@ -32,8 +34,8 @@ FEATURED = ["ohare-terminal-5", "uber-spiral-stair", "uber-feature-wall",
 HOME_FEATURE = "ohare-terminal-5"
 
 NAV = [("work/index.html", "Work"), ("studio.html", "Studio"),
-       ("capabilities.html", "Capabilities"), ("news.html", "News"),
-       ("contact.html", "Contact")]
+       ("capabilities.html", "Capabilities"), ("pamphlets.html", "Pamphlets"),
+       ("news.html", "News"), ("contact.html", "Contact")]
 
 
 def e(s):
@@ -360,6 +362,10 @@ def build_project(p, prev, nxt):
     if p["credits"]:
         rail += rail_block("Credits", "<ul>" + "".join(
             f'<li>{e(c)}</li>' for c in p["credits"]) + "</ul>")
+    rail += rail_block("Pamphlet", (
+        f'<p><a href="{e(p["slug"])}-pamphlet.html">Read the project pamphlet</a></p>'
+        f'<p><a href="{rel(depth, "assets/pdf/" + p["slug"] + "-pamphlet.pdf")}" download>'
+        f'Download PDF</a></p>'))
     rail += rail_block("Index", f'<p><a href="index.html">All work</a></p>')
 
     body = "".join(f"<p>{e(t)}</p>" for t in p["body"])
@@ -413,6 +419,46 @@ def build_project(p, prev, nxt):
 """
     out += foot(depth)
     open(os.path.join(ROOT, "work", p["slug"] + ".html"), "w").write(out)
+
+
+# ---------------------------------------------------------------- pamphlets
+def build_pamphlets_index(counts):
+    """Download index for the per-project pamphlets."""
+    depth = 0
+    rows = "".join(
+        f'<div class="dl-row" data-cat="{e(p["cat"])}">'
+        f'<span class="no">{i:02d}</span>'
+        f'<span class="t"><a href="work/{e(p["slug"])}-pamphlet.html">{e(p["title"])}</a>'
+        f'<br><span class="sub">{e(p["sub"])}</span></span>'
+        f'<span class="c">{e(p["cat"])}</span>'
+        f'<span class="y">{e(p["year"])}</span>'
+        f'<span class="pg">{counts[p["slug"]]} pp</span>'
+        f'<span class="dl"><a href="assets/pdf/{e(p["slug"])}-pamphlet.pdf" download>PDF</a></span>'
+        f'</div>'
+        for i, p in enumerate(projects, 1))
+
+    out = head(f"Pamphlets / {site['name']}",
+               f"Downloadable project pamphlets for {len(projects)} ChiLab Studio projects.",
+               depth, "pamphlets.html")
+    out += f"""<section class="shell grid hero">
+  <div class="hero-main">
+    <p class="kicker">Downloads &nbsp;/&nbsp; {len(projects)} pamphlets</p>
+    <h1 class="display"><span>Pamphlets</span></h1>
+    <p class="deck-lede">One sheet-set per project: what it is, what it is made of, who
+    built it, and the images. Read it here or take the PDF.</p>
+  </div>
+  <div class="hero-rail rail">{theme_toggle()}
+    <section><h2>Format</h2><p>US Letter, portrait. Print at full size, no scaling.</p></section>
+    <section><h2>Index</h2><p><a href="work/index.html">All work</a></p></section>
+  </div>
+</section>
+
+<section class="shell">
+  <div class="dl-list">{rows}</div>
+</section>
+"""
+    out += foot(depth)
+    open(os.path.join(ROOT, "pamphlets.html"), "w").write(out)
 
 
 # ---------------------------------------------------------------- simple pages
@@ -569,7 +615,9 @@ def main():
     build_capabilities()
     build_news()
     build_contact()
-    pages = 6 + 1 + len(projects)
+    counts = build_pamphlets.main()
+    build_pamphlets_index(counts)
+    pages = 7 + 1 + len(projects)
     print(f"built {pages} pages, {sum(len(v) for v in manifest.values())} images")
 
 

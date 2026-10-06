@@ -4,3 +4,8 @@ __pycache__/
 .env
 .env.*
 
+
+# design canvas working files: fully regenerated from content/projects.json and
+# assets/img by make_canvases.py, then seeded by seed_all.py. Only the index of
+# published canvas URLs is tracked.
+design/canvas/*/

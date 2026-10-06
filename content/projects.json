@@ -1,724 +1,1250 @@
 {
- "projects": [
-  {
-   "slug": "ohare-terminal-5",
-   "title": "a murmuration",
-   "sub": "Public artwork, O'Hare Terminal 5",
-   "year": "2023",
-   "place": "Chicago, IL",
-   "cat": "Public Art",
-   "lead": "Four hundred and fifty feet of wall in Terminal 5, and nearly six hundred convex aluminum discs charting two centuries of immigration to Illinois.",
-   "credits": [
-    "Artist: Jina Valentine",
-    "Commissioned by DCASE and the Chicago Department of Aviation",
-    "Finishing: EH Schwab, Pioneer Metal, Gatto Metal"
-   ],
-   "materials": "Zinc plated steel, anodized aluminum",
-   "body": [
-    "In the corridors of Chicago's O'Hare International Airport, a sweeping narrative of immigration and diversity unfolds across 450 feet of wall. \"a murmuration,\" conceived by artist Jina Valentine and brought to life by ChiLab Studio, is a piece of data visualization built at architectural scale.",
-    "Using census data from 1850 to 2040, the installation translates demographic information into an array of colors and sizes. Nearly 600 convex aluminum discs were crafted, each varying to represent a different immigrant population and period. A color coding system ties each disc's hue to a continent of origin.",
-    "Eighty of the discs carry engraved phrases contributed by community partners, in their own languages, on the themes of home, welcome, and community.",
-    "Material selection was driven by the environment. Zinc plated steel and anodized aluminum were chosen for durability and finish stability in a high traffic terminal, and the install was sequenced around live airport operations."
-   ],
-   "imgs": [
-    "assets/img/ohare-terminal-5/01.jpg",
-    "assets/img/ohare-terminal-5/02.jpg",
-    "assets/img/ohare-terminal-5/03.jpg",
-    "assets/img/ohare-terminal-5/04.jpg",
-    "assets/img/ohare-terminal-5/05.jpg",
-    "assets/img/ohare-terminal-5/06.jpg",
-    "assets/img/ohare-terminal-5/07.jpg",
-    "assets/img/ohare-terminal-5/08.jpg",
-    "assets/img/ohare-terminal-5/09.jpg"
-   ],
-   "cover": "assets/img/ohare-terminal-5/01.jpg",
-   "card": "assets/img/ohare-terminal-5/05.jpg"
-  },
-  {
-   "slug": "uber-spiral-stair",
-   "title": "Grand Spiral Stair",
-   "sub": "Uber Freight HQ, Old Post Office",
-   "year": "2022",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "A sixteen foot diameter stair finished in a custom blue toned patina, inspired by the building's historical spiral mail chutes.",
-   "credits": [
-    "Architect: Gensler Chicago",
-    "Fabrication partner: Parenti & Raffaelli"
-   ],
-   "materials": "Fabricated steel, custom blue patina, mirror",
-   "body": [
-    "In the heart of Chicago's Old Post Office, now home to Uber Freight's headquarters, the Grand Spiral Stair is more than vertical circulation. It is a piece of the building's history returned in contemporary form.",
-    "The geometry takes its cue from the spiral mail chutes that once moved letters through the building. The finish is a custom blue toned patina that reads close to oil rubbed bronze, and an infinity mirror at the top extends the spiral past the ceiling.",
-    "Produced in collaboration with Gensler Chicago, the stair merges art, technology, and function inside a landmark structure."
-   ],
-   "imgs": [
-    "assets/img/uber-spiral-stair/01.jpg",
-    "assets/img/uber-spiral-stair/02.jpg",
-    "assets/img/uber-spiral-stair/03.jpg",
-    "assets/img/uber-spiral-stair/04.jpg",
-    "assets/img/uber-spiral-stair/05.jpg",
-    "assets/img/uber-spiral-stair/06.jpg"
-   ]
-  },
-  {
-   "slug": "uber-feature-wall",
-   "title": "Parametric Feature Wall",
-   "sub": "Uber Freight HQ, Old Post Office",
-   "year": "2021",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "A cast metal wall derived from the bird's eye view of a shipping yard, modeled parametrically and cast component by component.",
-   "credits": [
-    "Architect: Gensler",
-    "Fabrication partner: Parenti & Raffaelli"
-   ],
-   "materials": "Cast aluminum",
-   "body": [
-    "The wall draws from an unexpected source: the view of a shipping yard from space. The reference ties Uber Freight's mission directly to the architecture of its office.",
-    "Using Grasshopper, we built a parametric model tuned to the exact constraints of the space, then sliced the model into individual cast components, each one unique but part of a continuous field.",
-    "Mold creation was automated so the volume of unique parts stayed economical, and the castings were finished and assembled on site into a single continuous surface."
-   ],
-   "imgs": [
-    "assets/img/uber-feature-wall/01.jpg",
-    "assets/img/uber-feature-wall/02.jpg",
-    "assets/img/uber-feature-wall/03.jpg",
-    "assets/img/uber-feature-wall/04.jpg",
-    "assets/img/uber-feature-wall/05.jpg",
-    "assets/img/uber-feature-wall/06.jpg"
-   ]
-  },
-  {
-   "slug": "knoll-marquee",
-   "title": "KNOLL Showroom Marquee",
-   "sub": "811 W Fulton Market",
-   "year": "2019",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "Chrome tubes rising from the sixth floor to the seventh floor skylight, with the KNOLL name in dark bronze.",
-   "credits": [
-    "With CNL Projects, Gensler, and KNOLL"
-   ],
-   "materials": "Chrome plated tube, dark bronze",
-   "body": [
-    "In Chicago's West Loop, ChiLab produced an architectural sculpture that works as both a functional marquee and a brand statement for the KNOLL showroom.",
-    "Chrome tubes arranged in a row soar from the 6th floor to the skylight on the 7th, creating a vertical presence that pulls the eye upward. The KNOLL name is spelled in dark bronze letters mounted to the tubes, tying the screen to the 24 foot bronze table that anchors the showroom floor.",
-    "The chrome and bronze palette was chosen against the warm red marble of the entry, so the sculpture reads as part of the room rather than an object placed in it.",
-    "The design is a nod to Harry Bertoia, whose work for KNOLL in the 1950s still sets the terms for the company's design language."
-   ],
-   "imgs": [
-    "assets/img/knoll-marquee/01.jpg",
-    "assets/img/knoll-marquee/02.jpg",
-    "assets/img/knoll-marquee/03.jpg",
-    "assets/img/knoll-marquee/04.jpg",
-    "assets/img/knoll-marquee/05.jpg",
-    "assets/img/knoll-marquee/06.jpg"
-   ],
-   "card": "assets/img/knoll-marquee/01.jpg"
-  },
-  {
-   "slug": "st-nicholas-crosses",
-   "title": "Glass Crosses",
-   "sub": "St. Nicholas Greek Orthodox Church, National Shrine",
-   "year": "2022",
-   "place": "New York, NY",
-   "cat": "Glass",
-   "lead": "Four hundred and twenty hand cast and polished glass crosses set into Pentelic marble doors at the 9/11 Memorial.",
-   "credits": [
-    "Architect: Santiago Calatrava",
-    "Glass: Ally Reza"
-   ],
-   "materials": "Optically clear leaded glass, Pentelic marble",
-   "body": [
-    "St. Nicholas Greek Orthodox Church sits within the National Shrine at Ground Zero. Taking part in the adornment of a monument with that weight went beyond Chicago or New York and into the national record.",
-    "The crosses are cast from a high quality, optically clear leaded glass chosen to capture and refract light. Each one was cast, cold worked, and polished by hand, then set into CNC machined openings in the Pentelic marble doors.",
-    "The work demanded technical precision and an understanding of what the crosses would mean once installed."
-   ],
-   "imgs": [
-    "assets/img/st-nicholas-crosses/01.jpg",
-    "assets/img/st-nicholas-crosses/02.jpg",
-    "assets/img/st-nicholas-crosses/03.jpg",
-    "assets/img/st-nicholas-crosses/04.jpg",
-    "assets/img/st-nicholas-crosses/05.jpg",
-    "assets/img/st-nicholas-crosses/06.jpg",
-    "assets/img/st-nicholas-crosses/07.jpg",
-    "assets/img/st-nicholas-crosses/08.jpg",
-    "assets/img/st-nicholas-crosses/09.jpg",
-    "assets/img/st-nicholas-crosses/10.jpg",
-    "assets/img/st-nicholas-crosses/11.jpg",
-    "assets/img/st-nicholas-crosses/12.jpg",
-    "assets/img/st-nicholas-crosses/13.jpg",
-    "assets/img/st-nicholas-crosses/14.jpg",
-    "assets/img/st-nicholas-crosses/15.jpg",
-    "assets/img/st-nicholas-crosses/16.jpg",
-    "assets/img/st-nicholas-crosses/17.jpg",
-    "assets/img/st-nicholas-crosses/18.jpg"
-   ]
-  },
-  {
-   "slug": "st-nicholas-icon-stands",
-   "title": "Icon Stands",
-   "sub": "St. Nicholas Greek Orthodox Church, National Shrine",
-   "year": "2022",
-   "place": "New York, NY",
-   "cat": "Architectural",
-   "lead": "Matching pairs of bronze pedestals at the chapel entry, engineered with Santiago Calatrava.",
-   "credits": [
-    "Architect: Santiago Calatrava"
-   ],
-   "materials": "Cast and fabricated bronze, Pentelic marble",
-   "body": [
-    "The gravity defying stature of the pedestal design was an engineering problem as much as a design one, resolved in collaboration with Santiago Calatrava.",
-    "In matching pairs, the bronze pedestals serve the entryway of the chapel, ordained with iconographic tablets. As guests enter, the pedestals function as bases for prayer.",
-    "Contemporary metalworking meets an ancient stone: the pedestals carry Pentelic marble, the same quarry that supplied the Parthenon."
-   ],
-   "imgs": [
-    "assets/img/st-nicholas-icon-stands/01.jpg",
-    "assets/img/st-nicholas-icon-stands/02.jpg",
-    "assets/img/st-nicholas-icon-stands/03.jpg",
-    "assets/img/st-nicholas-icon-stands/04.jpg",
-    "assets/img/st-nicholas-icon-stands/05.jpg",
-    "assets/img/st-nicholas-icon-stands/06.jpg",
-    "assets/img/st-nicholas-icon-stands/07.jpg",
-    "assets/img/st-nicholas-icon-stands/08.jpg"
-   ]
-  },
-  {
-   "slug": "illinois-state-capitol",
-   "title": "Illinois State Capitol Handrails",
-   "sub": "Office of the Architect of the Capitol",
-   "year": "2018",
-   "place": "Springfield, IL",
-   "cat": "Restoration",
-   "lead": "Circa 1870 iron handrails on the fourth floor gallery, restored and brought to ADA compliance without losing their period character.",
-   "credits": [
-    "Office of the Architect of the Capitol"
-   ],
-   "materials": "Cast iron, bronze, milled hardwood",
-   "body": [
-    "After removing layers of failing faux paint and documenting dozens of missing or broken ornamental pieces, we digitally modeled replacement components from archival profiles.",
-    "New upper ornamental details and toe kick elements were developed as 3D models, then translated into match plate sand patterns with engineered gating. Masters were 3D printed directly into the pattern boards, molded in resin bonded sand, and cast in iron to integrate with the originals.",
-    "For repairs to original rail sections, lost wax reproductions of missing details were produced, assembled, and patinated to match the existing finish.",
-    "A custom mill worked wooden handrail cap was fitted atop the ironwork, providing both a crown and the height required for ADA compliance."
-   ],
-   "imgs": [
-    "assets/img/illinois-state-capitol/01.jpg",
-    "assets/img/illinois-state-capitol/02.jpg",
-    "assets/img/illinois-state-capitol/03.jpg",
-    "assets/img/illinois-state-capitol/04.jpg",
-    "assets/img/illinois-state-capitol/05.jpg",
-    "assets/img/illinois-state-capitol/06.jpg",
-    "assets/img/illinois-state-capitol/07.jpg",
-    "assets/img/illinois-state-capitol/08.jpg"
-   ]
-  },
-  {
-   "slug": "flight-of-butterflies",
-   "title": "Flight of Butterflies",
-   "sub": "Peggy Notebaert Nature Museum",
-   "year": "2024",
-   "place": "Chicago, IL",
-   "cat": "Public Art",
-   "lead": "Twenty nine cast aluminum butterfly sculptures installed across Chicago, each finished by a local artist.",
-   "credits": [
-    "Peggy Notebaert Nature Museum",
-    "29 Chicago artists"
-   ],
-   "materials": "Cast aluminum, steel, artist applied finishes",
-   "body": [
-    "Flight of Butterflies features 29 uniquely adorned butterfly sculptures installed across Chicago, from Lakeview to South Shore to Austin. Our team designed and crafted the butterflies, providing the foundation for local artists to embellish and bring them to life.",
-    "Each butterfly was digitally designed in two motifs, the Regal Fritillary and the Black Swallowtail, then 3D rendered to produce molds for the cast aluminum bodies. Custom CNC cut wood served as the positive for the molds, which kept production controlled given the quantity and the schedule.",
-    "Every casting was hand finished to a state that would take paint, so each artist could work directly on the surface.",
-    "Where an artist's work had not been built for the outdoors, we supplied material samples and methods that kept their idea intact while making it survive a Chicago year."
-   ],
-   "imgs": [
-    "assets/img/flight-of-butterflies/01.jpg",
-    "assets/img/flight-of-butterflies/02.jpg",
-    "assets/img/flight-of-butterflies/03.jpg",
-    "assets/img/flight-of-butterflies/04.jpg",
-    "assets/img/flight-of-butterflies/05.jpg",
-    "assets/img/flight-of-butterflies/06.jpg",
-    "assets/img/flight-of-butterflies/07.jpg",
-    "assets/img/flight-of-butterflies/08.jpg",
-    "assets/img/flight-of-butterflies/09.jpg",
-    "assets/img/flight-of-butterflies/10.jpg",
-    "assets/img/flight-of-butterflies/11.jpg",
-    "assets/img/flight-of-butterflies/12.jpg"
-   ],
-   "card": "assets/img/flight-of-butterflies/01.jpg"
-  },
-  {
-   "slug": "magnificent-mile-tulips",
-   "title": "Tulips on The Magnificent Mile",
-   "sub": "The Magnificent Mile Association",
-   "year": "2025",
-   "place": "Chicago, IL",
-   "cat": "Public Art",
-   "lead": "Five oversized tulip sculptures placed along Michigan Avenue for the city's annual spring bloom.",
-   "credits": [
-    "The Magnificent Mile Association",
-    "CNL Projects",
-    "Artist: Aiden Kelley"
-   ],
-   "materials": "Fabricated metal, automotive finish",
-   "body": [
-    "In the spring of 2025, in partnership with The Magnificent Mile Association and CNL Projects, we developed five custom tulip sculptures with artist Aiden Kelley for the city's signature street.",
-    "Chicago's annual tulip bloom blankets the Mile with color. These sculptures were an opportunity to put public sculpture and Chicago's floral tradition in the same frame.",
-    "Each tulip was installed at a different point along the stretch. The sculpture at 625 N. Michigan Avenue shows the Official Magnificent Mile Tulip in brilliant yellow with orange accents, cultivated specifically for Michigan Avenue's displays and bred to hold up in Chicago's unpredictable spring."
-   ],
-   "imgs": [
-    "assets/img/magnificent-mile-tulips/01.jpg",
-    "assets/img/magnificent-mile-tulips/02.jpg",
-    "assets/img/magnificent-mile-tulips/03.jpg",
-    "assets/img/magnificent-mile-tulips/04.jpg",
-    "assets/img/magnificent-mile-tulips/05.jpg",
-    "assets/img/magnificent-mile-tulips/06.jpg",
-    "assets/img/magnificent-mile-tulips/07.jpg",
-    "assets/img/magnificent-mile-tulips/08.jpg",
-    "assets/img/magnificent-mile-tulips/09.jpg"
-   ],
-   "card": "assets/img/magnificent-mile-tulips/01.jpg"
-  },
-  {
-   "slug": "skims",
-   "title": "SKIMS Storefronts",
-   "sub": "Cast glass window displays",
-   "year": "2024",
-   "place": "Miami, Atlanta, Houston",
-   "cat": "Glass",
-   "lead": "Cast glass logo displays engineered for the brand's first brick and mortar storefronts.",
-   "credits": [
-    "Design: Willo Perron, Perron-Roettinger Studio",
-    "Glass: Ally Reza",
-    "Lamination and install: AGNORA"
-   ],
-   "materials": "Cast glass, laminated architectural glass",
-   "body": [
-    "In 2024 we developed storefront displays for SKIMS locations across the US. The project was a union of artistic vision and large scale engineering, and it pushed the limits of architectural glass fabrication.",
-    "Designed by Willo Perron of Perron-Roettinger Studio, the logo appears to emerge from the storefront window, a sleek effect in keeping with the brand.",
-    "Bringing it to life took the combined expertise of Perron-Roettinger Studio, ChiLab Studio, and AGNORA, North America's leader in large format glass. Traditional casting technique met contemporary lamination and structural glazing."
-   ],
-   "imgs": [
-    "assets/img/skims/01.jpg",
-    "assets/img/skims/02.jpg",
-    "assets/img/skims/03.jpg",
-    "assets/img/skims/04.jpg",
-    "assets/img/skims/05.jpg",
-    "assets/img/skims/06.jpg"
-   ]
-  },
-  {
-   "slug": "jardin-de-gargolas",
-   "title": "Jardin de Gargolas",
-   "sub": "YolloCalli Arts Reach",
-   "year": "2024",
-   "place": "Chicago, IL",
-   "cat": "Public Art",
-   "lead": "Student designed garden gargoyles taken from 3D model to cast aluminum sculpture.",
-   "credits": [
-    "YolloCalli Arts Reach",
-    "Artist educator: Secret of Manna"
-   ],
-   "materials": "Cast aluminum, dark patina",
-   "body": [
-    "In collaboration with YolloCalli Arts Reach and artist educator Secret of Manna, we helped bring students' 3D digital garden gargoyle designs into the physical world.",
-    "Starting in fall 2023, students conceptualized their creations in design software. By spring the project had become a fabrication and exhibition class. We printed the sculptures in house and prepared them for casting.",
-    "The 3D printed sculptures became the positive for a resin sand mold system, a lost PLA process that gives a direct translation between the digital design and its metal duplicate.",
-    "Once cast, the gargoyle pieces were welded together and finished with a dark patina."
-   ],
-   "imgs": [
-    "assets/img/jardin-de-gargolas/01.jpg",
-    "assets/img/jardin-de-gargolas/02.jpg",
-    "assets/img/jardin-de-gargolas/03.jpg",
-    "assets/img/jardin-de-gargolas/04.jpg",
-    "assets/img/jardin-de-gargolas/05.jpg",
-    "assets/img/jardin-de-gargolas/06.jpg",
-    "assets/img/jardin-de-gargolas/07.jpg",
-    "assets/img/jardin-de-gargolas/08.jpg",
-    "assets/img/jardin-de-gargolas/09.jpg",
-    "assets/img/jardin-de-gargolas/10.jpg"
-   ]
-  },
-  {
-   "slug": "homebound",
-   "title": "Homebound",
-   "sub": "Leonard Suryajaya, E(art)h Chicago",
-   "year": "2023",
-   "place": "Chicago, IL",
-   "cat": "Public Art",
-   "lead": "A CNC cut aluminum collage in Grant Park, built to survive a Chicago spring.",
-   "credits": [
-    "Artist: Leonard Suryajaya",
-    "E(art)h Chicago"
-   ],
-   "materials": "CNC cut aluminum, printed finish",
-   "body": [
-    "In the spring of 2023 we collaborated with Chicago based photographer Leonard Suryajaya on Homebound, a public land art installation at the northern end of the Grant Park waterfront trail. Homebound was one of twelve pieces supported by the E(art)h Chicago collective and installed in neighborhoods across the city.",
-    "Mirroring the collage language of Suryajaya's photographs, we used CNC cut aluminum panels pieced together as a three dimensional puzzle, translating work he had previously made in wrapped and layered materials into something that could live outdoors.",
-    "The formation takes the shape of a Maneki-Neko, the lucky cat, surrounded by silhouettes of fruit, reading as a dismantled fruit stand and referencing the artist's upbringing in Indonesia."
-   ],
-   "imgs": [
-    "assets/img/homebound/01.jpg",
-    "assets/img/homebound/02.jpg",
-    "assets/img/homebound/03.jpg",
-    "assets/img/homebound/04.jpg",
-    "assets/img/homebound/05.jpg",
-    "assets/img/homebound/06.jpg"
-   ]
-  },
-  {
-   "slug": "st-alfred",
-   "title": "St. Alfred",
-   "sub": "Wicker Park storefront",
-   "year": "2023",
-   "place": "Chicago, IL",
-   "cat": "Retail",
-   "lead": "Storefront redesign for the Wicker Park location, produced with Chelsea Lombardo.",
-   "credits": [
-    "With Chelsea Lombardo"
-   ],
-   "materials": "Metal, glass, millwork",
-   "body": [
-    "Wicker Park storefront redesign produced in collaboration with Chelsea Lombardo."
-   ],
-   "imgs": [
-    "assets/img/st-alfred/01.jpg",
-    "assets/img/st-alfred/02.jpg",
-    "assets/img/st-alfred/03.jpg",
-    "assets/img/st-alfred/04.jpg",
-    "assets/img/st-alfred/05.jpg",
-    "assets/img/st-alfred/06.jpg"
-   ]
-  },
-  {
-   "slug": "methodology-table",
-   "title": "Methodology Table",
-   "sub": "Solid cast glass end table, ongoing since 2016",
-   "year": "2016",
-   "place": "Private client",
-   "cat": "Furniture",
-   "lead": "A solid cast glass end table, produced in an ongoing series for a private client.",
-   "credits": [
-    "Glass: Ally Reza"
-   ],
-   "materials": "Solid cast glass",
-   "body": [
-    "Solid cast glass end table for a private client. An ongoing fabrication relationship running from 2016 to the present."
-   ],
-   "imgs": [
-    "assets/img/methodology-table/01.jpg",
-    "assets/img/methodology-table/02.jpg",
-    "assets/img/methodology-table/03.jpg",
-    "assets/img/methodology-table/04.jpg",
-    "assets/img/methodology-table/05.jpg",
-    "assets/img/methodology-table/06.jpg"
-   ]
-  },
-  {
-   "slug": "360-n-green",
-   "title": "360 N Green Reception",
-   "sub": "Sterling Bay",
-   "year": "2024",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "Reception desk for Sterling Bay at 360 N Green.",
-   "credits": [
-    "Sterling Bay"
-   ],
-   "materials": "Metal, stone, millwork",
-   "body": [
-    "Reception desk at 360 N Green for Sterling Bay. Industrial design, architecture, and interior detailing carried through a single fabricated element."
-   ],
-   "imgs": [
-    "assets/img/360-n-green/01.jpg",
-    "assets/img/360-n-green/02.jpg",
-    "assets/img/360-n-green/03.jpg",
-    "assets/img/360-n-green/04.jpg",
-    "assets/img/360-n-green/05.jpg",
-    "assets/img/360-n-green/06.jpg",
-    "assets/img/360-n-green/07.jpg",
-    "assets/img/360-n-green/08.jpg",
-    "assets/img/360-n-green/09.jpg"
-   ]
-  },
-  {
-   "slug": "pritzker-reception-desk",
-   "title": "Pritzker Group Reception Desk",
-   "sub": "Bronze clad desk and credenza",
-   "year": "2020",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "Bronze clad reception desk and bronze framed credenza for the Pritzker Group offices.",
-   "credits": [
-    "Direction: Gensler",
-    "With Imperial Woodworking and Lazuli Studio"
-   ],
-   "materials": "Bronze, patina, hardwood",
-   "body": [
-    "Bronze clad reception desk and bronze framed credenza created for the Pritzker Group offices in Chicago. Developed and executed by ChiLab in collaboration with Imperial Woodworking and Lazuli Studio at the direction of Gensler."
-   ],
-   "imgs": [
-    "assets/img/pritzker-reception-desk/01.jpg",
-    "assets/img/pritzker-reception-desk/02.jpg",
-    "assets/img/pritzker-reception-desk/03.jpg",
-    "assets/img/pritzker-reception-desk/04.jpg",
-    "assets/img/pritzker-reception-desk/05.jpg",
-    "assets/img/pritzker-reception-desk/06.jpg",
-    "assets/img/pritzker-reception-desk/07.jpg",
-    "assets/img/pritzker-reception-desk/08.jpg"
-   ]
-  },
-  {
-   "slug": "unfolding-chair",
-   "title": "Solid Cast Bronze Unfolding Chair",
-   "sub": "One hundred pounds of solid bronze",
-   "year": "2013",
-   "place": "WANTED DESIGN, New York",
-   "cat": "Furniture",
-   "lead": "The 1941 Krueger steel folding chair, cast solid in bronze and stripped of its ability to fold.",
-   "credits": [
-    "With Bo Rodda, Jason Gillette, Max Davis, Kuan Wen Chiu"
-   ],
-   "materials": "Solid cast bronze",
-   "body": [
-    "The Unfolding Chair takes a second look at what might be the most common chair ever made. The 1941 steel folding chair by Krueger Metal Products was designed for utility and economy, made from excess metal from steel companies, light enough to fold and nest, and commonly sold for two dollars.",
-    "By producing the image of that chair in solid bronze and removing its ability to fold and nest, the design trades functional value for material value, thus unfolding the design.",
-    "Exhibited at WANTED DESIGN NYC in the Chicagoland presentation."
-   ],
-   "imgs": [
-    "assets/img/unfolding-chair/01.jpg",
-    "assets/img/unfolding-chair/02.jpg",
-    "assets/img/unfolding-chair/03.jpg",
-    "assets/img/unfolding-chair/04.jpg",
-    "assets/img/unfolding-chair/05.jpg",
-    "assets/img/unfolding-chair/06.jpg",
-    "assets/img/unfolding-chair/08.jpg"
-   ]
-  },
-  {
-   "slug": "boolean-lamp",
-   "title": "The Boolean Lamp and Pendant",
-   "sub": "Industrial design, product design",
-   "year": "2014",
-   "place": "Chicago, IL",
-   "cat": "Lighting",
-   "lead": "A hand blown pendant and table lamp built from a boolean intersection of two primitive forms.",
-   "credits": [],
-   "materials": "Hand blown glass, metal",
-   "body": [
-    "A lamp and pendant family developed in house, taking its geometry from the boolean intersection of two primitive volumes. Produced in hand blown glass and later scaled into the Kuma's West Loop interior."
-   ],
-   "imgs": [
-    "assets/img/boolean-lamp/01.jpg",
-    "assets/img/boolean-lamp/02.jpg",
-    "assets/img/boolean-lamp/04.jpg"
-   ]
-  },
-  {
-   "slug": "architizer-a-award",
-   "title": "Architizer A+ Award",
-   "sub": "Award objects with Snarkitecture",
-   "year": "2015",
-   "place": "Chicago, IL",
-   "cat": "Objects",
-   "lead": "Award objects for the Architizer A+ Awards, developed with Snarkitecture and produced in series.",
-   "credits": [
-    "Design: Snarkitecture",
-    "Produced for Architizer",
-    "Development and production: Ben Stagl"
-   ],
-   "materials": "Cultured marble, anodized aluminum",
-   "body": [
-    "The Architizer A+ Awards trophy, designed by Snarkitecture as a cast block with a torn upper edge and a cross shaped plaque set into the top. The objects were developed with Snarkitecture and produced in series for the 2015 and 2016 programs.",
-    "The job was a tooling and process problem more than a sculpting one: silicone molds that could survive a long production run, a casting mix that held the broken edge cleanly, and the plaques, packing, and labelling for awards shipping to winners worldwide."
-   ],
-   "imgs": [
-    "assets/img/architizer-a-award/01.jpg",
-    "assets/img/architizer-a-award/02.jpg",
-    "assets/img/architizer-a-award/03.jpg",
-    "assets/img/architizer-a-award/04.jpg",
-    "assets/img/architizer-a-award/05.jpg",
-    "assets/img/architizer-a-award/06.jpg",
-    "assets/img/architizer-a-award/07.jpg",
-    "assets/img/architizer-a-award/08.jpg",
-    "assets/img/architizer-a-award/09.jpg",
-    "assets/img/architizer-a-award/10.jpg"
-   ]
-  },
-  {
-   "slug": "tessellation-wall",
-   "title": "Cast Aluminum Tessellation Wall",
-   "sub": "Gary Lee Partners",
-   "year": "2014",
-   "place": "Chicago, IL",
-   "cat": "Architectural",
-   "lead": "A cast aluminum relief wall built from a repeating tile, developed for Gary Lee Partners.",
-   "credits": [
-    "Gary Lee Partners",
-    "Developed and fabricated by Ben Stagl"
-   ],
-   "materials": "Cast aluminum, hand applied patina",
-   "body": [
-    "A relief wall running the length of the counter in a Gary Lee Partners interior, made as a tessellation so that one repeating cast tile could cover the full run without reading as a grid. The tile was modeled digitally, cast in aluminum, then finished and patinated by hand.",
-    "Working from a single repeating unit kept tooling and lead time in check at architectural scale. It is an early version of the approach the studio later brought to the parametric cast feature wall at Uber Freight."
-   ],
-   "imgs": [
-    "assets/img/tessellation-wall/01.jpg",
-    "assets/img/tessellation-wall/02.jpg",
-    "assets/img/tessellation-wall/03.jpg",
-    "assets/img/tessellation-wall/04.jpg",
-    "assets/img/tessellation-wall/05.jpg",
-    "assets/img/tessellation-wall/06.jpg",
-    "assets/img/tessellation-wall/07.jpg",
-    "assets/img/tessellation-wall/08.jpg"
-   ]
-  },
-  {
-   "slug": "kumas-west-loop",
-   "title": "Kuma's Corner West Loop",
-   "sub": "Lighting, metalwork, furnishings",
-   "year": "2018",
-   "place": "Chicago, IL",
-   "cat": "Retail",
-   "lead": "Custom lighting, metalwork, furnishings, and artistic details for the Fulton Market location.",
-   "credits": [],
-   "materials": "Hand blown glass, rusted steel, LED",
-   "body": [
-    "Development and manufacture of custom lighting, metalwork, selected furnishings, and artistic details for the Kuma's Corner West Loop location at Peoria and Fulton Market.",
-    "Hand blown Boolean pendants and custom below bar shadow boxes encircle the bar, with five larger Boolean pendants produced for the west wall portals. The below bar LED shadow boxes carry a rusted steel patina."
-   ],
-   "imgs": [
-    "assets/img/kumas-west-loop/01.jpg",
-    "assets/img/kumas-west-loop/02.jpg",
-    "assets/img/kumas-west-loop/03.jpg"
-   ]
-  },
-  {
-   "slug": "jail-debris",
-   "title": "Jail Debris",
-   "sub": "Maria Gaspar",
-   "year": "2023",
-   "place": "Chicago, IL",
-   "cat": "Glass",
-   "lead": "Twenty three cast lead crystal bars and bricks taken from a demolished Chicago corrections facility.",
-   "credits": [
-    "Artist: Maria Gaspar",
-    "Glass: Ally Reza"
-   ],
-   "materials": "Lead crystal, polished",
-   "body": [
-    "Rubber molds were taken from bars and bricks salvaged from a demolished Chicago corrections facility, then cast in lead crystal and polished on selected faces. Twenty three elements in total, produced for artist Maria Gaspar."
-   ],
-   "imgs": [
-    "assets/img/jail-debris/01.jpg",
-    "assets/img/jail-debris/02.jpg",
-    "assets/img/jail-debris/03.jpg",
-    "assets/img/jail-debris/04.jpg",
-    "assets/img/jail-debris/05.jpg",
-    "assets/img/jail-debris/06.jpg",
-    "assets/img/jail-debris/07.jpg",
-    "assets/img/jail-debris/08.jpg"
-   ]
-  },
-  {
-   "slug": "palimpsest-apple",
-   "title": "Apple",
-   "sub": "Industry of the Ordinary",
-   "year": "2024",
-   "place": "Driehaus Museum, Chicago",
-   "cat": "Glass",
-   "lead": "A cast glass apple, molded from a freshly bitten one.",
-   "credits": [
-    "Industry of the Ordinary",
-    "Glass: Ally Reza"
-   ],
-   "materials": "Cast glass",
-   "body": [
-    "A rubber mold was taken from a freshly bitten apple, capturing the moment and the texture of the bite, then cast in glass for the artist collective Industry of the Ordinary."
-   ],
-   "imgs": [
-    "assets/img/palimpsest-apple/01.jpg",
-    "assets/img/palimpsest-apple/02.jpg",
-    "assets/img/palimpsest-apple/03.jpg",
-    "assets/img/palimpsest-apple/04.jpg"
-   ]
-  },
-  {
-   "slug": "star-award",
-   "title": "Star Award",
-   "sub": "Cast lead crystal trophy",
-   "year": "2022",
-   "place": "Chicago, IL",
-   "cat": "Glass",
-   "lead": "A cast lead crystal star for a national football league MVP, hand polished, masked, and etched.",
-   "credits": [
-    "Glass: Ally Reza"
-   ],
-   "materials": "Lead crystal",
-   "body": [
-    "Cast lead crystal star form produced as an MVP award. Hand polished, masked, and etched."
-   ],
-   "imgs": [
-    "assets/img/star-award/01.jpg",
-    "assets/img/star-award/02.jpg",
-    "assets/img/star-award/03.jpg",
-    "assets/img/star-award/04.jpg",
-    "assets/img/star-award/05.jpg",
-    "assets/img/star-award/06.jpg"
-   ]
-  },
-  {
-   "slug": "woven-vessels",
-   "title": "Woven Vessels",
-   "sub": "Candone Wharton",
-   "year": "2022",
-   "place": "Chicago, IL",
-   "cat": "Glass",
-   "lead": "Cast lead crystal vessels molded from the artist's earthenware originals.",
-   "credits": [
-    "Artist: Candone Wharton",
-    "Glass: Ally Reza"
-   ],
-   "materials": "Lead crystal",
-   "body": [
-    "Rubber molds were taken from Candone Wharton's earthenware sculptures and translated into cast lead crystal, carrying the woven surface of the original into a transparent material."
-   ],
-   "imgs": [
-    "assets/img/woven-vessels/01.jpg",
-    "assets/img/woven-vessels/02.jpg",
-    "assets/img/woven-vessels/03.jpg",
-    "assets/img/woven-vessels/04.jpg",
-    "assets/img/woven-vessels/05.jpg",
-    "assets/img/woven-vessels/06.jpg",
-    "assets/img/woven-vessels/07.jpg",
-    "assets/img/woven-vessels/08.jpg",
-    "assets/img/woven-vessels/09.jpg",
-    "assets/img/woven-vessels/10.jpg",
-    "assets/img/woven-vessels/11.jpg"
-   ]
-  },
-  {
-   "slug": "annular-sconce",
-   "title": "Annular Sconce",
-   "sub": "Fused glass and hammered bronze",
-   "year": "2019",
-   "place": "Chicago, IL",
-   "cat": "Lighting",
-   "lead": "A thirty inch diameter sconce in fused glass and hammered bronze.",
-   "credits": [
-    "Glass: Ally Reza"
-   ],
-   "materials": "Fused glass, hammered bronze",
-   "body": [
-    "Fused glass and hammered bronze sconce, 30 inch diameter by 3 inch deep."
-   ],
-   "imgs": [
-    "assets/img/annular-sconce/01.jpg",
-    "assets/img/annular-sconce/02.jpg",
-    "assets/img/annular-sconce/03.jpg",
-    "assets/img/annular-sconce/04.jpg",
-    "assets/img/annular-sconce/05.jpg"
-   ]
-  }
- ]
+  "projects": [
+    {
+      "slug": "ohare-terminal-5",
+      "title": "a murmuration",
+      "sub": "Public artwork, O'Hare Terminal 5",
+      "year": "2023",
+      "place": "Chicago, IL",
+      "cat": "Public Art",
+      "lead": "Three hundred and thirty feet of wall in Terminal 5, and nearly six hundred convex aluminum discs charting two centuries of immigration to Illinois.",
+      "credits": [
+        "Artist: Jina Valentine",
+        "Commissioned by DCASE and the Chicago Department of Aviation",
+        "Finishing: EH Schwab, Pioneer Metal, Gatto Metal"
+      ],
+      "materials": "Zinc plated steel, anodized aluminum",
+      "body": [
+        "In the corridors of Chicago's O'Hare International Airport, a sweeping narrative of immigration and diversity unfolds across 330 feet of wall. \"a murmuration,\" conceived by artist Jina Valentine and brought to life by ChiLab Studio, is a piece of data visualization built at architectural scale.",
+        "Using census data from 1850 to 2040, the installation translates demographic information into an array of colors and sizes. Nearly 600 convex aluminum discs were crafted, each varying to represent a different immigrant population and period. A color coding system ties each disc's hue to a continent of origin.",
+        "Eighty of the discs carry engraved phrases contributed by community partners, in their own languages, on the themes of home, welcome, and community.",
+        "Material selection was driven by the environment. Zinc plated steel and anodized aluminum were chosen for durability and finish stability in a high traffic terminal, and the install was sequenced around live airport operations."
+      ],
+      "imgs": [
+        "assets/img/ohare-terminal-5/01.jpg",
+        "assets/img/ohare-terminal-5/02.jpg",
+        "assets/img/ohare-terminal-5/03.jpg",
+        "assets/img/ohare-terminal-5/04.jpg",
+        "assets/img/ohare-terminal-5/05.jpg",
+        "assets/img/ohare-terminal-5/06.jpg",
+        "assets/img/ohare-terminal-5/07.jpg",
+        "assets/img/ohare-terminal-5/08.jpg",
+        "assets/img/ohare-terminal-5/09.jpg"
+      ],
+      "cover": "assets/img/ohare-terminal-5/01.jpg",
+      "card": "assets/img/ohare-terminal-5/05.jpg",
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Jina Valentine's a murmuration maps more than two centuries of immigration to the region now called Illinois across 330 feet of Terminal 5. Nearly six hundred discs each stand for an immigrant population by decade, sized to Census data and colored by continent of origin. Their arrangement comes from an adaptation of the BOIDS flocking algorithm, the movement of a starling murmuration, and the armatures follow the region's waterways, drawn from an early map narrated by an Indigenous mapmaker laid against a contemporary one. For all the data behind it, what it says to a traveller is simple: welcome."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Valentine wanted the discs at five different degrees of concavity. A single curvature would have been far cheaper to tool, and it would have flattened the work. The variation was the point, so the tooling had to carry it. Eighty discs also carry phrases of home, welcome, and community, and those had to read the way someone from that place would actually say them, not the way a dictionary would."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Five separate tools, one for each curvature, with production at a volume where every disc still matched its set. Zinc plated steel and anodized aluminum were chosen for durability and finish stability in a high traffic terminal. The engraved phrases came from the artist's team working with embassies around the world to get each language right, down to the informal turns of phrase someone from that land would be used to hearing."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "A permanent installation, sequenced around live airport operations. What Valentine and her team did to bring those voices in was remarkable, and we were proud to give them a surface that will last."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "uber-spiral-stair",
+      "title": "Grand Spiral Stair",
+      "sub": "Uber Freight HQ, Old Post Office",
+      "year": "2022",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "A sixteen foot diameter stair finished in a custom blue toned patina, inspired by the building's historical spiral mail chutes.",
+      "credits": [
+        "Architect: Gensler Chicago",
+        "Fabrication partner: Parenti & Raffaelli"
+      ],
+      "materials": "Fabricated steel, custom blue patina, mirror",
+      "body": [
+        "In the heart of Chicago's Old Post Office, now home to Uber Freight's headquarters, the Grand Spiral Stair is more than vertical circulation. It is a piece of the building's history returned in contemporary form.",
+        "The geometry takes its cue from the spiral mail chutes that once moved letters through the building. The finish is a custom blue toned patina that reads close to oil rubbed bronze, and an infinity mirror at the top extends the spiral past the ceiling.",
+        "Produced in collaboration with Gensler Chicago, the stair merges art, technology, and function inside a landmark structure."
+      ],
+      "imgs": [
+        "assets/img/uber-spiral-stair/01.jpg",
+        "assets/img/uber-spiral-stair/02.jpg",
+        "assets/img/uber-spiral-stair/03.jpg",
+        "assets/img/uber-spiral-stair/04.jpg",
+        "assets/img/uber-spiral-stair/05.jpg",
+        "assets/img/uber-spiral-stair/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The Old Post Office once moved letters through spiral mail chutes. The Grand Spiral Stair, at the center of Uber Freight's headquarters, takes its geometry from them. Next to a photograph of the original chutes the reference is obvious. On its own it reads as one spiraling band moving through the building, and that is how most people meet it."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A sixteen foot helix inside a landmark had to be structure, circulation, and finish at once, and the finish had to belong to a century-old interior rather than sit on top of it."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Fabricated steel, produced with Gensler Chicago and Parenti & Raffaelli, finished in a custom blue toned patina that reads close to oil rubbed bronze. An infinity mirror at the top carries the spiral on past the ceiling."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "It was ChiLab's first union job and our first large-scale installation in a historic building, one of two pieces we built for Uber Freight's headquarters."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "uber-feature-wall",
+      "title": "Parametric Feature Wall",
+      "sub": "Uber Freight HQ, Old Post Office",
+      "year": "2021",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "A cast metal wall derived from the bird's eye view of a shipping yard, modeled parametrically and cast component by component.",
+      "credits": [
+        "Architect: Gensler",
+        "Fabrication partner: Parenti & Raffaelli"
+      ],
+      "materials": "Cast aluminum",
+      "body": [
+        "The wall draws from an unexpected source: the view of a shipping yard from space. The reference ties Uber Freight's mission directly to the architecture of its office.",
+        "Using Grasshopper, we built a parametric model tuned to the exact constraints of the space, then sliced the model into individual cast components, each one unique but part of a continuous field.",
+        "Mold creation was automated so the volume of unique parts stayed economical, and the castings were finished and assembled on site into a single continuous surface."
+      ],
+      "imgs": [
+        "assets/img/uber-feature-wall/01.jpg",
+        "assets/img/uber-feature-wall/02.jpg",
+        "assets/img/uber-feature-wall/03.jpg",
+        "assets/img/uber-feature-wall/04.jpg",
+        "assets/img/uber-feature-wall/05.jpg",
+        "assets/img/uber-feature-wall/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The idea came from the team at Gensler Chicago: a freight yard seen from above, containers stacked at varied heights, abstracted into a wall. It ties what Uber Freight does to the room where it does it."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A field of unique parts. Every panel different, all of them reading as one continuous surface, and all of them draft-free, which conventional patterns cannot give you."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We built a parametric model in Grasshopper tuned to the space, sliced it into individual cast components, and printed the sand molds straight from the digital files, with no pattern in between. Done conventionally it would easily have cost four times as much and still could not have been draft-free; the design was only possible because that technology had just arrived. It was not clean. About eighteen panels came back scaled wrong: measured on site, they had shrunk in casting more than we had allowed for, and every one had to be reordered. A bummer, and a good lesson."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The castings were finished and assembled on site into a single continuous surface, one of two pieces we built for the building."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "knoll-marquee",
+      "title": "KNOLL Showroom Marquee",
+      "sub": "811 W Fulton Market",
+      "year": "2019",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "Chrome tubes rising from the sixth floor to the seventh floor skylight, with the KNOLL name in dark bronze.",
+      "credits": [
+        "With CNL Projects, Gensler, and KNOLL"
+      ],
+      "materials": "Chrome plated tube, dark bronze",
+      "body": [
+        "In Chicago's West Loop, ChiLab produced an architectural sculpture that works as both a functional marquee and a brand statement for the KNOLL showroom.",
+        "Chrome tubes arranged in a row soar from the 6th floor to the skylight on the 7th, creating a vertical presence that pulls the eye upward. The KNOLL name is spelled in dark bronze letters mounted to the tubes, tying the screen to the 24 foot bronze table that anchors the showroom floor.",
+        "The chrome and bronze palette was chosen against the warm red marble of the entry, so the sculpture reads as part of the room rather than an object placed in it.",
+        "The design is a nod to Harry Bertoia, whose work for KNOLL in the 1950s still sets the terms for the company's design language."
+      ],
+      "imgs": [
+        "assets/img/knoll-marquee/01.jpg",
+        "assets/img/knoll-marquee/02.jpg",
+        "assets/img/knoll-marquee/03.jpg",
+        "assets/img/knoll-marquee/04.jpg",
+        "assets/img/knoll-marquee/05.jpg",
+        "assets/img/knoll-marquee/06.jpg"
+      ],
+      "card": "assets/img/knoll-marquee/01.jpg",
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The marquee for Knoll's Fulton Market flagship rises from the sixth floor to the skylight on the seventh, a row of chrome tubes with the KNOLL name in dark bronze. Its repeating wireframe is a conscious quote of Harry Bertoia, whose work for Knoll in the 1950s still sets the company's design language, and it was a reference shared between us and the architects at Gensler. Getting to quote that history was an honor."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Knoll's architects first proposed black pipe. We proposed chrome plated steel, set against the warm red marble of the entry so the piece reads as part of the room rather than an object placed in it. Knoll's directors latched onto it."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Developed through samples in both steel and bronze before approval: roughly 150 custom components and 300 cut and welded caps, built on a fast track of four to five weeks."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The flagship opened in June 2019 and was later featured in Interior Design. For us the marquee is a standalone work of art we got to design and build."
+          ]
+        },
+        {
+          "label": "Also at Fulton Market",
+          "text": [
+            "Alongside the marquee we worked with the designers of Knoll's Antenna table and their manufacturing studio on a 24 foot solid bronze recreation of the table, and made steel handrail covers for the showroom. That work was a collaboration inside an established design. The marquee was ours."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "st-nicholas-crosses",
+      "title": "Glass Crosses",
+      "sub": "St. Nicholas Greek Orthodox Church, National Shrine",
+      "year": "2022",
+      "place": "New York, NY",
+      "cat": "Glass",
+      "lead": "Four hundred and twenty hand cast and polished glass crosses set into Pentelic marble doors at the 9/11 Memorial.",
+      "credits": [
+        "Architect: Santiago Calatrava",
+        "Glass: Ally Reza"
+      ],
+      "materials": "Optically clear leaded glass, Pentelic marble",
+      "body": [
+        "St. Nicholas Greek Orthodox Church sits within the National Shrine at Ground Zero. Taking part in the adornment of a monument with that weight went beyond Chicago or New York and into the national record.",
+        "The crosses are cast from a high quality, optically clear leaded glass chosen to capture and refract light. Each one was cast, cold worked, and polished by hand, then set into CNC machined openings in the Pentelic marble doors.",
+        "The work demanded technical precision and an understanding of what the crosses would mean once installed."
+      ],
+      "imgs": [
+        "assets/img/st-nicholas-crosses/01.jpg",
+        "assets/img/st-nicholas-crosses/02.jpg",
+        "assets/img/st-nicholas-crosses/03.jpg",
+        "assets/img/st-nicholas-crosses/04.jpg",
+        "assets/img/st-nicholas-crosses/05.jpg",
+        "assets/img/st-nicholas-crosses/06.jpg",
+        "assets/img/st-nicholas-crosses/07.jpg",
+        "assets/img/st-nicholas-crosses/08.jpg",
+        "assets/img/st-nicholas-crosses/09.jpg",
+        "assets/img/st-nicholas-crosses/10.jpg",
+        "assets/img/st-nicholas-crosses/11.jpg",
+        "assets/img/st-nicholas-crosses/12.jpg",
+        "assets/img/st-nicholas-crosses/13.jpg",
+        "assets/img/st-nicholas-crosses/14.jpg",
+        "assets/img/st-nicholas-crosses/15.jpg",
+        "assets/img/st-nicholas-crosses/16.jpg",
+        "assets/img/st-nicholas-crosses/17.jpg",
+        "assets/img/st-nicholas-crosses/18.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "St. Nicholas Greek Orthodox Church and National Shrine stands at the World Trade Center site. Santiago Calatrava's building joins Byzantine tradition with contemporary design, and its doors carry four hundred and twenty clear glass crosses set into marble. Transparency lets light pass through. In a sacred site rebuilt after September 11, that is the meaning."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "The marble is from Mount Pentelicus, the quarry that supplied the Parthenon. It has long been closed, and using it requires sanction from both the Greek government and the church. Permission came because this small church had been the founding site of the Greek Orthodox Church in Manhattan. Every cross had to fit stone that cannot be replaced."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Each cross was cast in optically clear leaded glass, cold worked, and polished by hand. Fit was solved in the model. The CNC cut openings in the marble did not match the drawings we had been sent, so we measured the first machined sample, rebuilt our models from the actual stone, and travelled to the site to confirm the openings there matched it. Only then did we produce the run. They all fit."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "“It was every craftsman's dream to be able to work on pieces that will last a lifetime in a sacred site,” says Ally Reza. There was reverence and care in each one, and it was an honor to be trusted with those materials and to set our glass within them."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "st-nicholas-icon-stands",
+      "title": "Icon Stands",
+      "sub": "St. Nicholas Greek Orthodox Church, National Shrine",
+      "year": "2022",
+      "place": "New York, NY",
+      "cat": "Architectural",
+      "lead": "Matching pairs of bronze pedestals at the chapel entry, engineered with Santiago Calatrava.",
+      "credits": [
+        "Architect: Santiago Calatrava"
+      ],
+      "materials": "Cast and fabricated bronze, Pentelic marble",
+      "body": [
+        "The gravity defying stature of the pedestal design was an engineering problem as much as a design one, resolved in collaboration with Santiago Calatrava.",
+        "In matching pairs, the bronze pedestals serve the entryway of the chapel, ordained with iconographic tablets. As guests enter, the pedestals function as bases for prayer.",
+        "Contemporary metalworking meets an ancient stone: the pedestals carry Pentelic marble, the same quarry that supplied the Parthenon."
+      ],
+      "imgs": [
+        "assets/img/st-nicholas-icon-stands/01.jpg",
+        "assets/img/st-nicholas-icon-stands/02.jpg",
+        "assets/img/st-nicholas-icon-stands/03.jpg",
+        "assets/img/st-nicholas-icon-stands/04.jpg",
+        "assets/img/st-nicholas-icon-stands/05.jpg",
+        "assets/img/st-nicholas-icon-stands/06.jpg",
+        "assets/img/st-nicholas-icon-stands/07.jpg",
+        "assets/img/st-nicholas-icon-stands/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Two pairs of bronze and marble pedestals at the chapel entry, holding icons that are changed through the year with the church's rituals and celebrations. They serve the flow of the service as much as the eye."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Calatrava wanted the cross form uninterrupted, perfect, and balanced: a gravity defying stance that was an engineering problem as much as a design one. And each stand had to carry Pentelic marble."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Cast and fabricated bronze, engineered with Calatrava's office. We were ten times more careful with that marble than with almost any material we have handled."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The crates the marble shipped in are still with us. We keep them like reliquaries."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "illinois-state-capitol",
+      "title": "Illinois State Capitol Handrails",
+      "sub": "Office of the Architect of the Capitol",
+      "year": "2018",
+      "place": "Springfield, IL",
+      "cat": "Restoration",
+      "lead": "Nineteenth century iron handrails on the fourth floor gallery, restored and brought to ADA compliance without losing their period character.",
+      "credits": [
+        "Office of the Architect of the Capitol"
+      ],
+      "materials": "Cast iron, bronze, milled hardwood",
+      "body": [
+        "After removing layers of failing faux paint and documenting dozens of missing or broken ornamental pieces, we digitally modeled replacement components from archival profiles.",
+        "New upper ornamental details and toe kick elements were developed as 3D models, then translated into match plate sand patterns with engineered gating. Masters were 3D printed directly into the pattern boards, molded in resin bonded sand, and cast in iron to integrate with the originals.",
+        "For repairs to original rail sections, lost wax reproductions of missing details were produced, assembled, and patinated to match the existing finish.",
+        "A custom mill worked wooden handrail cap was fitted atop the ironwork, providing both a crown and the height required for ADA compliance."
+      ],
+      "imgs": [
+        "assets/img/illinois-state-capitol/01.jpg",
+        "assets/img/illinois-state-capitol/02.jpg",
+        "assets/img/illinois-state-capitol/03.jpg",
+        "assets/img/illinois-state-capitol/04.jpg",
+        "assets/img/illinois-state-capitol/05.jpg",
+        "assets/img/illinois-state-capitol/06.jpg",
+        "assets/img/illinois-state-capitol/07.jpg",
+        "assets/img/illinois-state-capitol/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The fourth floor gallery outside the Illinois House of Representatives is lined with nineteenth century cast iron handrails, estimated to have been bought from a catalog around 1880 to 1890. Over the decades they had been painted and repainted to look like bronze, then gold, then back again. The job was to return them to what they were, and to make them safe for the people who use the building now."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Restoration means matching what already exists, and much of it was missing. The railing also had to reach ADA height and gain a toe kick, so nothing is kicked from the fourth floor onto the third, without the additions reading as a violation of the original."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We removed the components and stripped them back to bare iron. The railing is modular and its sections repeat, so a detail missing in one panel could almost always be found in another; we molded just that portion and cast the replacements, alongside match plate sand patterns and lost wax reproductions patinated to match. The original top rail had itself been wood, in very poor condition. We replaced it with a cap milled to the same profile used throughout the capitol, which gave the height ADA required."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "For Ben Stagl it was one of the biggest honors of his life. The Architect of the Capitol took him inside the walls and up into the cupola, where they came out at the top with a direct line of sight to Lincoln's tomb. Then he handed Ben a Sharpie and let him sign the inside of the cupola, alongside others who have worked on the building."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "flight-of-butterflies",
+      "title": "Flight of Butterflies",
+      "sub": "Peggy Notebaert Nature Museum",
+      "year": "2024",
+      "place": "Chicago, IL",
+      "cat": "Public Art",
+      "lead": "Twenty nine cast aluminum butterfly sculptures installed across Chicago, each finished by a local artist.",
+      "credits": [
+        "Peggy Notebaert Nature Museum",
+        "29 Chicago artists"
+      ],
+      "materials": "Cast aluminum, steel, artist applied finishes",
+      "body": [
+        "Flight of Butterflies features 29 uniquely adorned butterfly sculptures installed across Chicago, from Lakeview to South Shore to Austin. Our team designed and crafted the butterflies, providing the foundation for local artists to embellish and bring them to life.",
+        "Each butterfly was digitally designed in two motifs, the Regal Fritillary and the Black Swallowtail, then 3D rendered to produce molds for the cast aluminum bodies. Custom CNC cut wood served as the positive for the molds, which kept production controlled given the quantity and the schedule.",
+        "Every casting was hand finished to a state that would take paint, so each artist could work directly on the surface.",
+        "Where an artist's work had not been built for the outdoors, we supplied material samples and methods that kept their idea intact while making it survive a Chicago year."
+      ],
+      "imgs": [
+        "assets/img/flight-of-butterflies/01.jpg",
+        "assets/img/flight-of-butterflies/02.jpg",
+        "assets/img/flight-of-butterflies/03.jpg",
+        "assets/img/flight-of-butterflies/04.jpg",
+        "assets/img/flight-of-butterflies/05.jpg",
+        "assets/img/flight-of-butterflies/06.jpg",
+        "assets/img/flight-of-butterflies/07.jpg",
+        "assets/img/flight-of-butterflies/08.jpg",
+        "assets/img/flight-of-butterflies/09.jpg",
+        "assets/img/flight-of-butterflies/10.jpg",
+        "assets/img/flight-of-butterflies/11.jpg",
+        "assets/img/flight-of-butterflies/12.jpg"
+      ],
+      "card": "assets/img/flight-of-butterflies/01.jpg",
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Twenty nine six-foot butterflies across Chicago, from Lakeview to South Shore to Austin, each finished by a different local artist, for the Peggy Notebaert Nature Museum. Two species, the Regal Fritillary and the Black Swallowtail, carried out of the museum and into neighborhoods across the city."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "One blank, twenty nine artists, and a year outdoors in Chicago. The sculpture had to be a clean canvas any artist could work on, and survive whatever they put on it."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Bodies modeled in both motifs, rendered into molds, and cast in aluminum on steel bases, every casting hand finished to take paint. Then the studio itself changed: we reconfigured the whole shop and opened a new section so the artists could work on site, and spent most of those months getting them information, materials, and room. Where we had concerns about an artist's materials we raised them through Cortney Lederer of CNL Projects, curator and liaison. Mostly the choice was deliberate, and the artist was right."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Most pieces held up and surprised us. A few showed nature overtaking a medium, where an artist had stepped away from what we recommended. In Lederer's words: “Twenty-nine artists participated and all required different logistical needs and material expertise, and ChiLab delivered.”"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "magnificent-mile-tulips",
+      "title": "Tulips on The Magnificent Mile",
+      "sub": "The Magnificent Mile Association",
+      "year": "2025",
+      "place": "Chicago, IL",
+      "cat": "Public Art",
+      "lead": "Five oversized tulip sculptures placed along Michigan Avenue for the city's annual spring bloom.",
+      "credits": [
+        "The Magnificent Mile Association",
+        "CNL Projects",
+        "Artist: Aiden Kelley"
+      ],
+      "materials": "Fabricated metal, automotive finish",
+      "body": [
+        "In the spring of 2025, in partnership with The Magnificent Mile Association and CNL Projects, we developed five custom tulip sculptures with artist Aiden Kelley for the city's signature street.",
+        "Chicago's annual tulip bloom blankets the Mile with color. These sculptures were an opportunity to put public sculpture and Chicago's floral tradition in the same frame.",
+        "Each tulip was installed at a different point along the stretch. The sculpture at 625 N. Michigan Avenue shows the Official Magnificent Mile Tulip in brilliant yellow with orange accents, cultivated specifically for Michigan Avenue's displays and bred to hold up in Chicago's unpredictable spring."
+      ],
+      "imgs": [
+        "assets/img/magnificent-mile-tulips/01.jpg",
+        "assets/img/magnificent-mile-tulips/02.jpg",
+        "assets/img/magnificent-mile-tulips/03.jpg",
+        "assets/img/magnificent-mile-tulips/04.jpg",
+        "assets/img/magnificent-mile-tulips/05.jpg",
+        "assets/img/magnificent-mile-tulips/06.jpg",
+        "assets/img/magnificent-mile-tulips/07.jpg",
+        "assets/img/magnificent-mile-tulips/08.jpg",
+        "assets/img/magnificent-mile-tulips/09.jpg"
+      ],
+      "card": "assets/img/magnificent-mile-tulips/01.jpg"
+    },
+    {
+      "slug": "skims",
+      "title": "SKIMS Storefronts",
+      "sub": "Cast glass window displays",
+      "year": "2024",
+      "place": "Miami, Atlanta, Houston",
+      "cat": "Glass",
+      "lead": "Cast glass logo displays engineered for the brand's first brick and mortar storefronts.",
+      "credits": [
+        "Design: Willo Perron, Perron-Roettinger Studio",
+        "Glass: Ally Reza",
+        "Lamination and install: AGNORA"
+      ],
+      "materials": "Cast glass, laminated architectural glass",
+      "body": [
+        "In 2024 we developed storefront displays for SKIMS locations across the US. The project was a union of artistic vision and large scale engineering, and it pushed the limits of architectural glass fabrication.",
+        "Designed by Willo Perron of Perron-Roettinger Studio, the logo appears to emerge from the storefront window, a sleek effect in keeping with the brand.",
+        "Bringing it to life took the combined expertise of Perron-Roettinger Studio, ChiLab Studio, and AGNORA, North America's leader in large format glass. Traditional casting technique met contemporary lamination and structural glazing."
+      ],
+      "imgs": [
+        "assets/img/skims/01.jpg",
+        "assets/img/skims/02.jpg",
+        "assets/img/skims/03.jpg",
+        "assets/img/skims/04.jpg",
+        "assets/img/skims/05.jpg",
+        "assets/img/skims/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "For SKIMS's first brick and mortar stores, Willo Perron of Perron-Roettinger Studio wanted the logo to emerge from the storefront glass. The first premise followed the store's fabrics: soft, voluminous body forms pushing out of the window."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Soft forms projecting from glass are hard to make and could not hold the fidelity of the logo. So the question became whether thick glass castings could be laminated to oversized architectural windows. As far as anyone knew, it had not been done."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We cast the logo; AGNORA, North America's large format glass specialist, laminated it to the storefront glass. Both sides had a good feeling about it, and until the prototype came through the process we were all holding our breath. We saw it at AGNORA's facility in Canada, beside the largest autoclave we had ever seen and a 32 foot conference table made from a single sheet of glass."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The castings read as prismatic lenses. Walking up, you see into the store as if through a galaxy. A first of its kind, in Miami, Atlanta, and Houston."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jardin-de-gargolas",
+      "title": "Jardin de Gargolas",
+      "sub": "YolloCalli Arts Reach",
+      "year": "2024",
+      "place": "Chicago, IL",
+      "cat": "Public Art",
+      "lead": "Student designed garden gargoyles taken from 3D model to cast aluminum sculpture.",
+      "credits": [
+        "YolloCalli Arts Reach",
+        "Artist educator: Secret of Manna"
+      ],
+      "materials": "Cast aluminum, dark patina",
+      "body": [
+        "In collaboration with YolloCalli Arts Reach and artist educator Secret of Manna, we helped bring students' 3D digital garden gargoyle designs into the physical world.",
+        "Starting in fall 2023, students conceptualized their creations in design software. By spring the project had become a fabrication and exhibition class. We printed the sculptures in house and prepared them for casting.",
+        "The 3D printed sculptures became the positive for a resin sand mold system, a lost PLA process that gives a direct translation between the digital design and its metal duplicate.",
+        "Once cast, the gargoyle pieces were welded together and finished with a dark patina."
+      ],
+      "imgs": [
+        "assets/img/jardin-de-gargolas/01.jpg",
+        "assets/img/jardin-de-gargolas/02.jpg",
+        "assets/img/jardin-de-gargolas/03.jpg",
+        "assets/img/jardin-de-gargolas/04.jpg",
+        "assets/img/jardin-de-gargolas/05.jpg",
+        "assets/img/jardin-de-gargolas/06.jpg",
+        "assets/img/jardin-de-gargolas/07.jpg",
+        "assets/img/jardin-de-gargolas/08.jpg",
+        "assets/img/jardin-de-gargolas/09.jpg",
+        "assets/img/jardin-de-gargolas/10.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Little Village teens with Yollocalli Arts Reach, the youth initiative of the National Museum of Mexican Art, designed their own garden gargoyles in 3D software. The idea grew from a rainwater garden and a bird bath, and the gargoyles are destined for Jardin Malinalli, the museum's youth garden in Pilsen and Little Village."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A file on a screen had to become a permanent metal object, and the translation had to stay true to what each student made."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We printed the sculptures in house and used the prints as positives in a resin bonded sand mold, a lost PLA process that turns a digital design directly into its metal duplicate. Cast in aluminum, welded, finished in a dark patina. With teaching artist Secret of Manna, the class became a fabrication and exhibition class, with professional tools in young artists' hands."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Unveiled in April 2024 in the museum courtyard, as part of the exhibition New Age Grotesque. Each student pulled a one-of-a-kind creature out of the sand."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "homebound",
+      "title": "Homebound",
+      "sub": "Leonard Suryajaya, E(art)h Chicago",
+      "year": "2023",
+      "place": "Chicago, IL",
+      "cat": "Public Art",
+      "lead": "A CNC cut aluminum collage in Grant Park, built to survive a Chicago spring.",
+      "credits": [
+        "Artist: Leonard Suryajaya",
+        "E(art)h Chicago"
+      ],
+      "materials": "CNC cut aluminum, printed finish",
+      "body": [
+        "In the spring of 2023 we collaborated with Chicago based photographer Leonard Suryajaya on Homebound, a public land art installation at the northern end of the Grant Park waterfront trail. Homebound was one of twelve pieces supported by the E(art)h Chicago collective and installed in neighborhoods across the city.",
+        "Mirroring the collage language of Suryajaya's photographs, we used CNC cut aluminum panels pieced together as a three dimensional puzzle, translating work he had previously made in wrapped and layered materials into something that could live outdoors.",
+        "The formation takes the shape of a Maneki-Neko, the lucky cat, surrounded by silhouettes of fruit, reading as a dismantled fruit stand and referencing the artist's upbringing in Indonesia."
+      ],
+      "imgs": [
+        "assets/img/homebound/01.jpg",
+        "assets/img/homebound/02.jpg",
+        "assets/img/homebound/03.jpg",
+        "assets/img/homebound/04.jpg",
+        "assets/img/homebound/05.jpg",
+        "assets/img/homebound/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Leonard Suryajaya called it a memorial to our relationship with earth as home. The piece takes its shape from the Maneki-Neko, the lucky cat, and from the deconstructed forms of roadside fruit stands. Three heads emerge from the ground framing the sun path, the lake, and the river, with fruits in disguise scattered around the base like offerings on an altar. It is adorned with familiar eyes and photographic artifacts from the artist's home in Chicago and his hometown in Indonesia."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Suryajaya's collages are paper, layered and cut. This one had to stand on the lakefront through a Chicago spring and still read as collage: the eyes legible up close, the layering legible at monument scale, the images surviving wind, sun, and weather for a season outdoors. The problem was carrying a paper language into a material that does not behave like paper."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We translated the artist's forms into buildable drawings, then CNC cut aluminum sheet and formed it into the heads and the fruit, pieced together as a three dimensional puzzle. Parts were welded and finished for an outdoor site, and the eyes and photographic artifacts were printed across the aluminum surface so the collage lived in the metal rather than on top of it."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Installed on the lakefront at the north end of the Grant Park waterfront trail, one of twelve pieces supported by E(art)h Chicago across the city. It was an honor to work with a Chicago artist, to build community around this city, and to help bring his work into civic space. We worked with Suryajaya twice over two years, on Homebound and again on Flight of Butterflies."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "st-alfred",
+      "title": "St. Alfred",
+      "sub": "Wicker Park storefront",
+      "year": "2023",
+      "place": "Chicago, IL",
+      "cat": "Retail",
+      "lead": "Storefront redesign for the Wicker Park location, produced with Chelsea Lombardo.",
+      "credits": [
+        "With Chelsea Lombardo"
+      ],
+      "materials": "Metal, glass, millwork",
+      "body": [
+        "Wicker Park storefront redesign produced in collaboration with Chelsea Lombardo."
+      ],
+      "imgs": [
+        "assets/img/st-alfred/01.jpg",
+        "assets/img/st-alfred/02.jpg",
+        "assets/img/st-alfred/03.jpg",
+        "assets/img/st-alfred/04.jpg",
+        "assets/img/st-alfred/05.jpg",
+        "assets/img/st-alfred/06.jpg"
+      ]
+    },
+    {
+      "slug": "methodology-table",
+      "title": "Methodology Table",
+      "sub": "Solid cast glass end table, ongoing since 2016",
+      "year": "2016",
+      "place": "Private client",
+      "cat": "Furniture",
+      "lead": "A solid cast glass end table, produced in an ongoing series for a private client.",
+      "credits": [
+        "Glass: Ally Reza"
+      ],
+      "materials": "Solid cast glass",
+      "body": [
+        "Solid cast glass end table for a private client. An ongoing fabrication relationship running from 2016 to the present."
+      ],
+      "imgs": [
+        "assets/img/methodology-table/01.jpg",
+        "assets/img/methodology-table/02.jpg",
+        "assets/img/methodology-table/03.jpg",
+        "assets/img/methodology-table/04.jpg",
+        "assets/img/methodology-table/05.jpg",
+        "assets/img/methodology-table/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A solid cast glass end table for a private client. We had never seen a solid cast glass table like it, and the reason to make it, for us and for the client, was to do something that seems impossible. That is how people take it when they see it in person."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Glass that thick has to come down in temperature slowly or it cracks. The table runs from thick to thin, two inches at its heaviest, and every section has to cool at the pace of the thickest."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We anneal as if it were twice as thick as it is. Each table spends about ten days in the kiln, nearly a week of that annealing alone. Once the first prototype was dialed in, it rarely fails in the kiln; the risk is in finishing, when it goes back up in temperature for its fine polish."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Ten years on, roughly ten tables. The form stays consistent; the flow of the glass and its bubble pattern are each table's own."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "360-n-green",
+      "title": "360 N Green Reception",
+      "sub": "Sterling Bay",
+      "year": "2024",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "Reception desk for Sterling Bay at 360 N Green.",
+      "credits": [
+        "Sterling Bay"
+      ],
+      "materials": "Metal, stone, millwork",
+      "body": [
+        "Reception desk at 360 N Green for Sterling Bay. Industrial design, architecture, and interior detailing carried through a single fabricated element."
+      ],
+      "imgs": [
+        "assets/img/360-n-green/01.jpg",
+        "assets/img/360-n-green/02.jpg",
+        "assets/img/360-n-green/03.jpg",
+        "assets/img/360-n-green/04.jpg",
+        "assets/img/360-n-green/05.jpg",
+        "assets/img/360-n-green/06.jpg",
+        "assets/img/360-n-green/07.jpg",
+        "assets/img/360-n-green/08.jpg",
+        "assets/img/360-n-green/09.jpg"
+      ]
+    },
+    {
+      "slug": "pritzker-reception-desk",
+      "title": "Pritzker Group Reception Desk",
+      "sub": "Bronze clad desk and credenza",
+      "year": "2020",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "Bronze clad reception desk and bronze framed credenza for the Pritzker Group offices.",
+      "credits": [
+        "Direction: Gensler",
+        "With Imperial Woodworking and Lazuli Studio"
+      ],
+      "materials": "Bronze, patina, hardwood",
+      "body": [
+        "Bronze clad reception desk and bronze framed credenza created for the Pritzker Group offices in Chicago. Developed and executed by ChiLab in collaboration with Imperial Woodworking and Lazuli Studio at the direction of Gensler."
+      ],
+      "imgs": [
+        "assets/img/pritzker-reception-desk/01.jpg",
+        "assets/img/pritzker-reception-desk/02.jpg",
+        "assets/img/pritzker-reception-desk/03.jpg",
+        "assets/img/pritzker-reception-desk/04.jpg",
+        "assets/img/pritzker-reception-desk/05.jpg",
+        "assets/img/pritzker-reception-desk/06.jpg",
+        "assets/img/pritzker-reception-desk/07.jpg",
+        "assets/img/pritzker-reception-desk/08.jpg"
+      ]
+    },
+    {
+      "slug": "unfolding-chair",
+      "title": "Solid Cast Bronze Unfolding Chair",
+      "sub": "One hundred pounds of solid bronze",
+      "year": "2013",
+      "place": "WANTED DESIGN, New York",
+      "cat": "Furniture",
+      "lead": "The 1941 Krueger steel folding chair, cast solid in bronze and stripped of its ability to fold.",
+      "credits": [
+        "With Bo Rodda, Jason Gillette, Max Davis, Kuan Wen Chiu"
+      ],
+      "materials": "Solid cast bronze",
+      "body": [
+        "The Unfolding Chair takes a second look at what might be the most common chair ever made. The 1941 steel folding chair by Krueger Metal Products was designed for utility and economy, made from excess metal from steel companies, light enough to fold and nest, and commonly sold for two dollars.",
+        "By producing the image of that chair in solid bronze and removing its ability to fold and nest, the design trades functional value for material value, thus unfolding the design.",
+        "Exhibited at WANTED DESIGN NYC in the Chicagoland presentation."
+      ],
+      "imgs": [
+        "assets/img/unfolding-chair/01.jpg",
+        "assets/img/unfolding-chair/02.jpg",
+        "assets/img/unfolding-chair/03.jpg",
+        "assets/img/unfolding-chair/04.jpg",
+        "assets/img/unfolding-chair/05.jpg",
+        "assets/img/unfolding-chair/06.jpg",
+        "assets/img/unfolding-chair/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The 1941 Krueger steel folding chair may be the most common chair ever made: a design that cost about two dollars, made from excess steel, built to fold flat and nest by the hundred. The Unfolding Chair takes a second look at it."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "To unfold the design is to undo the mechanism that defined it. Recast in a hundred pounds of solid bronze, the chair trades functional value for material value."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Cast solid, it can no longer fold or nest. Designed and executed by Ben Stagl with Bo Rodda, Jason Gillette, Max Davis, and Kuan Wen Chiu."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "A humble stamped steel object, made a monument to itself. Selected for the Chicagoland exhibit at WANTED DESIGN during New York Design Week, 2013."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "boolean-lamp",
+      "title": "The Boolean Lamp and Pendant",
+      "sub": "Industrial design, product design",
+      "year": "2014",
+      "place": "Chicago, IL",
+      "cat": "Lighting",
+      "lead": "A hand blown pendant and table lamp built from a boolean intersection of two primitive forms.",
+      "credits": [],
+      "materials": "Hand blown glass, metal",
+      "body": [
+        "A lamp and pendant family developed in house, taking its geometry from the boolean intersection of two primitive volumes. Produced in hand blown glass and later scaled into the Kuma's West Loop interior."
+      ],
+      "imgs": [
+        "assets/img/boolean-lamp/01.jpg",
+        "assets/img/boolean-lamp/02.jpg",
+        "assets/img/boolean-lamp/04.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The Boolean Lamp starts from the ubiquitous aluminum clip light, the work light in every shop, and looks for luxury in the everyday."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Its geometry is a boolean intersection of two primitive volumes, a clean digital operation. The question was whether hand blown glass could hold it."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Each one is blown by glass artisans in Chicago, one at a time, the result of an iterative design process. Variations in color, texture, and shape make each lamp its own within a consistent form. Glass in smoke, umber, or light blue, on a base of cast concrete, aluminum, or acrylic, as a pendant or a table lamp."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The pendant later scaled into the Kuma's Corner West Loop interior, circling the bar and filling the west wall portals."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "architizer-a-award",
+      "title": "Architizer A+ Award",
+      "sub": "Award objects with Snarkitecture",
+      "year": "2015",
+      "place": "Chicago, IL",
+      "cat": "Objects",
+      "lead": "Award objects for the best architecture built that year, sculpted with Snarkitecture and produced, precisely, hundreds of times.",
+      "credits": [
+        "Design: Snarkitecture",
+        "Produced for Architizer",
+        "Development and production: Ben Stagl"
+      ],
+      "materials": "Cultured marble, anodized aluminum",
+      "body": [
+        "The Architizer A+ Awards trophy, designed by Snarkitecture as a cast block with a torn upper edge and a cross shaped plaque set into the top. The objects were developed with Snarkitecture and produced in series for the 2015 and 2016 programs.",
+        "The torn upper edge is the whole design, and holding it identical across a long production run was the problem: a master worked until the fracture read right from every angle, silicone molds that would not soften it, a cultured marble mix that filled it cleanly, and the plaques, packing, and labelling for awards shipping to winners worldwide."
+      ],
+      "imgs": [
+        "assets/img/architizer-a-award/01.jpg",
+        "assets/img/architizer-a-award/02.jpg",
+        "assets/img/architizer-a-award/03.jpg",
+        "assets/img/architizer-a-award/04.jpg",
+        "assets/img/architizer-a-award/05.jpg",
+        "assets/img/architizer-a-award/06.jpg",
+        "assets/img/architizer-a-award/07.jpg",
+        "assets/img/architizer-a-award/08.jpg",
+        "assets/img/architizer-a-award/09.jpg",
+        "assets/img/architizer-a-award/10.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Architizer's A+ Awards name the best architecture built that year, worldwide. Snarkitecture designed the trophy as a cast block with a torn upper edge and a cross shaped plaque set into the top. An object that stands for the best work in architecture has to survive the comparison, and every winner takes one home, so each piece ends up in the house of someone who spends their working life judging how things are made. That is a humbling audience, and it set the standard."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "The torn edge carries the whole idea, and a torn edge is a sculptor's problem, not a machinist's. It had to look broken and feel deliberate. It also had to be the same break, in the same place, on every piece, because a fracture that varies reads as a defect rather than a decision. Cultured marble was the material that could hold a fracture that sharp and still cure to a consistent color."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We worked the master until the break read right from every angle, then built the tooling around protecting exactly that: silicone molds that would survive a long production run without softening the edge, a mix that filled the fracture cleanly, and anodized aluminum plaques set flush into the top."
+          ]
+        },
+        {
+          "label": "Doing it hundreds of times",
+          "text": [
+            "Then the daunting part. Precision once is craft; precision hundreds of times is process. Packing and labelling for awards shipping to winners worldwide, so the last one out the door arrived as sharp as the first."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tessellation-wall",
+      "title": "Cast Aluminum Tessellation Wall",
+      "sub": "Gary Lee Partners",
+      "year": "2014",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "A cast aluminum relief wall built from a repeating tile, developed for Gary Lee Partners.",
+      "credits": [
+        "Gary Lee Partners",
+        "Developed and fabricated by Ben Stagl"
+      ],
+      "materials": "Cast aluminum, hand applied patina",
+      "body": [
+        "A relief wall running the length of the counter in a Gary Lee Partners interior, made as a tessellation so that one repeating cast tile could cover the full run without reading as a grid. The tile was modeled digitally, cast in aluminum, then finished and patinated by hand.",
+        "Working from a single repeating unit kept tooling and lead time in check at architectural scale. It is an early version of the approach the studio later brought to the parametric cast feature wall at Uber Freight."
+      ],
+      "imgs": [
+        "assets/img/tessellation-wall/01.jpg",
+        "assets/img/tessellation-wall/02.jpg",
+        "assets/img/tessellation-wall/03.jpg",
+        "assets/img/tessellation-wall/04.jpg",
+        "assets/img/tessellation-wall/05.jpg",
+        "assets/img/tessellation-wall/06.jpg",
+        "assets/img/tessellation-wall/07.jpg",
+        "assets/img/tessellation-wall/08.jpg"
+      ]
+    },
+    {
+      "slug": "kumas-west-loop",
+      "title": "Kuma's Corner West Loop",
+      "sub": "Lighting, metalwork, furnishings",
+      "year": "2018",
+      "place": "Chicago, IL",
+      "cat": "Retail",
+      "lead": "Custom lighting, metalwork, furnishings, and artistic details for the Fulton Market location.",
+      "credits": [],
+      "materials": "Hand blown glass, rusted steel, LED",
+      "body": [
+        "Development and manufacture of custom lighting, metalwork, selected furnishings, and artistic details for the Kuma's Corner West Loop location at Peoria and Fulton Market.",
+        "Hand blown Boolean pendants and custom below bar shadow boxes encircle the bar, with five larger Boolean pendants produced for the west wall portals. The below bar LED shadow boxes carry a rusted steel patina."
+      ],
+      "imgs": [
+        "assets/img/kumas-west-loop/01.jpg",
+        "assets/img/kumas-west-loop/02.jpg",
+        "assets/img/kumas-west-loop/03.jpg"
+      ]
+    },
+    {
+      "slug": "jail-debris",
+      "title": "Jail Debris",
+      "sub": "Maria Gaspar",
+      "year": "2023",
+      "place": "Chicago, IL",
+      "cat": "Glass",
+      "lead": "Twenty three cast lead crystal bars and bricks taken from a demolished Chicago corrections facility.",
+      "credits": [
+        "Artist: Maria Gaspar",
+        "Glass: Ally Reza"
+      ],
+      "materials": "Lead crystal, polished",
+      "body": [
+        "Rubber molds were taken from bars and bricks salvaged from a demolished Chicago corrections facility, then cast in lead crystal and polished on selected faces. Twenty three elements in total, produced for artist Maria Gaspar."
+      ],
+      "imgs": [
+        "assets/img/jail-debris/01.jpg",
+        "assets/img/jail-debris/02.jpg",
+        "assets/img/jail-debris/03.jpg",
+        "assets/img/jail-debris/04.jpg",
+        "assets/img/jail-debris/05.jpg",
+        "assets/img/jail-debris/06.jpg",
+        "assets/img/jail-debris/07.jpg",
+        "assets/img/jail-debris/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Maria Gaspar's work centers on incarceration. When a Chicago corrections facility was demolished, she collected bars and bricks from it and wanted to give them a new life. Cast in clear lead crystal, objects that were dense, opaque, and heavy with their history let light through and tell their story differently."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "The originals were not to be cleaned up. The bars carried years of paint, layered in steps, one coat for each era that passed. The bricks are porous. Both had to be molded without stripping that history away or letting it bond to the rubber."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We sealed every piece with a natural, water-soluble coating that held the paint and patina in place and kept them clear of the mold, took rubber molds, and cast them in lead crystal, polished on selected faces."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "“It was eerie to think of their previous lives, where they were, what they held, who they held,” says Ally Reza. “Because it's not really what they held so much as what humans used them to hold.” The work asked for reverence, and care."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "palimpsest-apple",
+      "title": "Apple",
+      "sub": "Industry of the Ordinary",
+      "year": "2024",
+      "place": "Driehaus Museum, Chicago",
+      "cat": "Glass",
+      "lead": "A cast glass apple, molded from a freshly bitten one.",
+      "credits": [
+        "Industry of the Ordinary",
+        "Glass: Ally Reza"
+      ],
+      "materials": "Cast glass",
+      "body": [
+        "A rubber mold was taken from a freshly bitten apple, capturing the moment and the texture of the bite, then cast in glass for the artist collective Industry of the Ordinary."
+      ],
+      "imgs": [
+        "assets/img/palimpsest-apple/01.jpg",
+        "assets/img/palimpsest-apple/02.jpg",
+        "assets/img/palimpsest-apple/03.jpg",
+        "assets/img/palimpsest-apple/04.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A freshly bitten apple, cast in glass for the artist collective Industry of the Ordinary and a private collector with a personal connection to the artists. It holds a single moment."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "An apple browns in minutes. The bite had to be captured before the moment was gone."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "The day was scheduled like an organ transfer. The bite was taken with the collector, the apple went straight into a bag and across the city to the studio, where a flask sized to it and the rubber were ready to pour. There was almost no browning. The teeth marks look as if they just happened, and the mold smelled of fresh apple."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "We worked with Industry of the Ordinary again a few months later, at the Driehaus Museum."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "star-award",
+      "title": "Star Award",
+      "sub": "Cast lead crystal trophy",
+      "year": "2022",
+      "place": "Chicago, IL",
+      "cat": "Glass",
+      "lead": "A cast lead crystal star for the USFL's season MVP, hand polished, masked, and etched.",
+      "credits": [
+        "Glass: Ally Reza"
+      ],
+      "materials": "Lead crystal",
+      "body": [
+        "Cast lead crystal star form produced as an MVP award. Hand polished, masked, and etched."
+      ],
+      "imgs": [
+        "assets/img/star-award/01.jpg",
+        "assets/img/star-award/02.jpg",
+        "assets/img/star-award/03.jpg",
+        "assets/img/star-award/04.jpg",
+        "assets/img/star-award/05.jpg",
+        "assets/img/star-award/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The MVP award for a season of the USFL. One of the finest awards someone could receive, and it had to look it."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A star in lead crystal, fully polished, with fine etched detail across its faces, on a silver base."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We made two. Polishing every surface of a star form is its own challenge; masking and etching intricate detail across those polished faces is another."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The league sent a driver with a briefcase built to hand carry it to the game. When the case was opened at the other end, the star had shattered. We still have the photographs."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "woven-vessels",
+      "title": "Woven Vessels",
+      "sub": "Candone Wharton",
+      "year": "2022",
+      "place": "Chicago, IL",
+      "cat": "Glass",
+      "lead": "Cast lead crystal vessels molded from the artist's earthenware originals.",
+      "credits": [
+        "Artist: Candone Wharton",
+        "Glass: Ally Reza"
+      ],
+      "materials": "Lead crystal",
+      "body": [
+        "Rubber molds were taken from Candone Wharton's earthenware sculptures and translated into cast lead crystal, carrying the woven surface of the original into a transparent material."
+      ],
+      "imgs": [
+        "assets/img/woven-vessels/01.jpg",
+        "assets/img/woven-vessels/02.jpg",
+        "assets/img/woven-vessels/03.jpg",
+        "assets/img/woven-vessels/04.jpg",
+        "assets/img/woven-vessels/05.jpg",
+        "assets/img/woven-vessels/06.jpg",
+        "assets/img/woven-vessels/07.jpg",
+        "assets/img/woven-vessels/08.jpg",
+        "assets/img/woven-vessels/09.jpg",
+        "assets/img/woven-vessels/10.jpg",
+        "assets/img/woven-vessels/11.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Candone Wharton works in ceramic, black earthenware and sometimes terracotta. Her vessels look woven but are ceramic, and she wanted to see pieces she had loved for a long time come to life in a new material and a new palette: purples, lime greens, jades."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Something woven, made to let light through. Turning an opaque ceramic translucent gives the piece a second life in its shadows and lets it glow from within, but only if the weave survives the mold."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "As mold makers we preserve originals wherever we can. The earthenware got the same natural water-soluble sealer as Maria Gaspar's Jail Debris; we molded it and cast in lead crystal, and the originals came back intact for her to show."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "“There's a lot of optical spice in the combination of something woven and then allowing light to pass through it,” says Ally Reza."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "annular-sconce",
+      "title": "Annular Sconce",
+      "sub": "Fused glass and hammered bronze",
+      "year": "2019",
+      "place": "Chicago, IL",
+      "cat": "Lighting",
+      "lead": "A thirty inch diameter sconce in fused glass and hammered bronze.",
+      "credits": [
+        "Glass: Ally Reza"
+      ],
+      "materials": "Fused glass, hammered bronze",
+      "body": [
+        "Fused glass and hammered bronze sconce, 30 inch diameter by 3 inch deep."
+      ],
+      "imgs": [
+        "assets/img/annular-sconce/01.jpg",
+        "assets/img/annular-sconce/02.jpg",
+        "assets/img/annular-sconce/03.jpg",
+        "assets/img/annular-sconce/04.jpg",
+        "assets/img/annular-sconce/05.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Annular maps the full calendar year of 2019 as the planets of our solar system travel through it. An underlying grid reads as the calendar, and lines of air trace the planets' paths. It is rational and specific, and from a step back it is simply calming: a subtle glow, a slow circular motion, a place to sit."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A year of planetary motion had to read as a map, and as a sky."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "In fused glass, the lines we drew to trap air sit among bubbles already in the glass, a starfield the planetary paths are in dialogue with. The hammered bronze is the sun. It blocks the light source, and the light that escapes around it makes a corona across the field."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "In the studio's collection, a one-off and the first of a series. The map dictates the period, so the series stays open: other years, and smaller periods at smaller scales."
+          ]
+        }
+      ]
+    }
+  ]
 }

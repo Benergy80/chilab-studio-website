@@ -1,0 +1,332 @@
+/* ChiLab Studio project pamphlet.
+   Print-first sheet system built on the site's Neue Grafik editorial tokens.
+   Page: US Letter portrait. Five-column grid, same as the website.
+   Template: design/DESIGN.md */
+
+@import url("../fonts/inter-tight.css");
+
+:root {
+  --page: #f4f3ef;
+  --ink: #20201d;
+  --muted: #77756e;
+  --rule: #2a2a28;
+  --soft-rule: #d6d2c8;
+  --panel: #e8e5dc;
+  --oxide: #9f3f27;
+
+  --sheet-w: 8.5in;
+  --sheet-h: 11in;
+  --pad: 0.5in;
+  --gap: 0.19in;
+
+  --sans: "Inter Tight", "Arial Narrow", Arial, Helvetica, sans-serif;
+
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: #cbc7bc;
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 10pt;
+  line-height: 1.32;
+  font-weight: 400;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+a { color: inherit; text-decoration: none; }
+img { display: block; width: 100%; height: auto; }
+
+/* ---------- sheet ---------- */
+
+.sheet {
+  position: relative;
+  width: var(--sheet-w);
+  height: var(--sheet-h);
+  padding: var(--pad);
+  margin: 0 auto 0.35in;
+  background: var(--page);
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  box-shadow: 0 1px 6px rgba(0,0,0,.28);
+}
+
+.sheet-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  column-gap: var(--gap);
+}
+
+/* ---------- running head and foot ---------- */
+
+.run-head,
+.run-foot {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  column-gap: var(--gap);
+  align-items: baseline;
+  font-size: 7.5pt;
+  line-height: 1.1;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.run-head { border-bottom: 1px solid var(--rule); padding-bottom: 6px; }
+.run-foot { border-top: 1px solid var(--rule); padding-top: 6px; }
+
+.run-head .mark,
+.run-foot .mark { color: var(--ink); font-weight: 700; letter-spacing: 0; text-transform: none; }
+.run-head .c-mid { grid-column: 2 / 5; }
+.run-foot .c-mid { grid-column: 2 / 5; }
+.run-head .c-end,
+.run-foot .c-end { grid-column: 5; text-align: right; }
+
+/* ---------- cover ---------- */
+
+.cover-body {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  min-height: 0;
+  padding: 0.28in 0 0.2in;
+}
+
+.cover-type { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); column-gap: var(--gap); }
+
+.cover-kicker {
+  grid-column: 1 / 6;
+  margin: 0 0 0.14in;
+  font-size: 8pt;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--oxide);
+  font-weight: 600;
+}
+
+.cover-title {
+  grid-column: 1 / 6;
+  margin: 0;
+  font-weight: 900;
+  font-size: 52pt;
+  line-height: 0.92;
+  letter-spacing: -0.015em;
+}
+
+.cover-title.long { font-size: 40pt; }
+.cover-title.xlong { font-size: 31pt; }
+
+.cover-sub {
+  grid-column: 1 / 5;
+  margin: 0.12in 0 0;
+  font-size: 13pt;
+  line-height: 1.14;
+  color: var(--muted);
+  max-width: 34ch;
+}
+
+.cover-shot {
+  margin-top: 0.24in;
+  min-height: 0;
+  overflow: hidden;
+  background: var(--panel);
+}
+
+.cover-shot img { width: 100%; height: 100%; object-fit: cover; }
+
+/* ---------- text sheet ---------- */
+
+.text-body {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  column-gap: var(--gap);
+  align-content: start;
+  padding: 0.3in 0 0;
+  min-height: 0;
+}
+
+.lede {
+  grid-column: 1 / 5;
+  margin: 0 0 0.26in;
+  font-size: 17pt;
+  line-height: 1.12;
+  font-weight: 500;
+  max-width: 32ch;
+}
+
+.prose { grid-column: 1 / 4; margin: 0; }
+
+/* case-study beats: the same small-caps label as the rail headings */
+.prose .beat {
+  margin: 0 0 5px;
+  padding-top: 5px;
+  border-top: 1px solid var(--soft-rule);
+  font-size: 7.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--oxide);
+  font-weight: 600;
+}
+.prose .beat:first-child { padding-top: 0; border-top: 0; }
+.prose .beat + p { margin-top: 0; }
+.prose p { margin: 0 0 0.14in; max-width: 62ch; }
+.prose p:last-child { margin-bottom: 0; }
+
+.rail { grid-column: 4 / 6; font-size: 8.5pt; line-height: 1.2; }
+.rail section { padding-top: 5px; margin-bottom: 0.15in; border-top: 1px solid var(--rule); }
+.rail h2 {
+  margin: 0 0 5px;
+  font-size: 7.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.rail ul { list-style: none; margin: 0; padding: 0; }
+.rail li { margin-bottom: 3px; }
+.rail .val { color: var(--muted); }
+
+.text-band {
+  grid-column: 1 / 6;
+  margin-top: 0.28in;
+  aspect-ratio: 16 / 7;
+  overflow: hidden;
+  background: var(--panel);
+  position: relative;
+}
+.text-band img { width: 100%; height: 100%; object-fit: cover; }
+
+/* ---------- plate sheets ----------
+   Every slot has a fixed aspect ratio and the image fills it with object-fit,
+   so a plate crops predictably instead of stretching. Layout is chosen from
+   the run of image orientations: landscapes stack, portraits sit side by side. */
+
+.plates {
+  display: grid;
+  gap: var(--gap);
+  padding: 0.22in 0;
+  min-height: 0;
+  place-content: center stretch;
+}
+
+.plates.stack-2 { grid-template-rows: 1fr 1fr; height: 100%; }
+.plates.quad { grid-template: 1fr 1fr / 1fr 1fr; height: 100%; }
+.plates.solo-wide .plate { aspect-ratio: 3 / 2; }
+.plates.pair-tall { grid-template-columns: 1fr 1fr; }
+.plates.pair-tall .plate { aspect-ratio: 2 / 3; }
+.plates.solo-tall { justify-content: center; }
+.plates.solo-tall .plate { aspect-ratio: 3 / 4; height: 100%; width: auto; }
+
+.plate { position: relative; min-height: 0; overflow: hidden; background: var(--panel); }
+.plate img { width: 100%; height: 100%; object-fit: cover; }
+
+.plate .no {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 4px 8px;
+  background: var(--page);
+  font-size: 7pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* ---------- closing sheet ---------- */
+
+.close-body {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  column-gap: var(--gap);
+  align-content: end;
+  padding: 0.3in 0 0.25in;
+}
+
+.close-title {
+  grid-column: 1 / 6;
+  margin: 0 0 0.24in;
+  font-weight: 900;
+  font-size: 30pt;
+  line-height: 0.98;
+  letter-spacing: -0.01em;
+}
+
+.close-col { font-size: 9pt; line-height: 1.26; }
+.close-col h2 {
+  margin: 0 0 6px;
+  padding-top: 5px;
+  border-top: 1px solid var(--rule);
+  font-size: 7.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.close-col p { margin: 0 0 0.1in; }
+.close-a { grid-column: 1 / 3; }
+.close-b { grid-column: 3 / 5; }
+.close-c { grid-column: 5 / 6; }
+.close-col ul { list-style: none; margin: 0; padding: 0; }
+.close-col li { margin-bottom: 3px; color: var(--muted); }
+.close-col .oxide { color: var(--oxide); }
+
+/* ---------- screen-only chrome ---------- */
+
+.viewer-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.2em;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 10px 16px;
+  background: var(--ink);
+  color: var(--page);
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.viewer-bar a { text-decoration: underline; text-underline-offset: 3px; }
+.viewer-bar a:hover { color: #e6a58f; }
+.viewer-bar a:focus-visible { outline: 2px solid var(--page); outline-offset: 3px; }
+.viewer-bar .name { font-weight: 700; }
+.viewer-bar nav { display: flex; gap: 1.2em; flex-wrap: wrap; }
+
+.stack { padding: 0.35in 0; }
+
+@media screen and (max-width: 9in) {
+  .stack { padding: 12px; }
+  .sheet {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 8.5 / 11;
+    margin-bottom: 12px;
+  }
+}
+
+/* ---------- print ---------- */
+
+@page { size: letter portrait; margin: 0; }
+
+@media print {
+  body { background: var(--page); }
+  .viewer-bar { display: none; }
+  .stack { padding: 0; }
+  .sheet {
+    margin: 0;
+    box-shadow: none;
+    break-after: page;
+    break-inside: avoid;
+  }
+  .sheet:last-child { break-after: auto; }
+}
