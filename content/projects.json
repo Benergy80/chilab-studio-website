@@ -16,7 +16,7 @@
       "materials": "Zinc plated steel, anodized aluminum",
       "body": [
         "In the corridors of Chicago's O'Hare International Airport, a sweeping narrative of immigration and diversity unfolds across 330 feet of wall. \"a murmuration,\" conceived by artist Jina Valentine and brought to life by ChiLab Studio, is a piece of data visualization built at architectural scale.",
-        "Using census data from 1850 to 2040, the installation translates demographic information into an array of colors and sizes. Nearly 600 convex aluminum discs were crafted, each varying to represent a different immigrant population and period. A color coding system ties each disc's hue to a continent of origin.",
+        "Using Census data from 1850 to 2040, the installation translates demographic information into an array of colors and sizes. Nearly 600 convex aluminum discs were crafted, each varying to represent a different immigrant population and period. A color coding system ties each disc's hue to a continent of origin.",
         "Eighty of the discs carry engraved phrases contributed by community partners, in their own languages, on the themes of home, welcome, and community.",
         "Material selection was driven by the environment. Zinc plated steel and anodized aluminum were chosen for durability and finish stability in a high traffic terminal, and the install was sequenced around live airport operations."
       ],
@@ -37,7 +37,7 @@
         {
           "label": "The work",
           "text": [
-            "Jina Valentine's a murmuration maps more than two centuries of immigration to the region now called Illinois across 330 feet of Terminal 5. Nearly six hundred discs each stand for an immigrant population by decade, sized to Census data and colored by continent of origin. Their arrangement comes from an adaptation of the BOIDS flocking algorithm, the movement of a starling murmuration, and the armatures follow the region's waterways, drawn from an early map narrated by an Indigenous mapmaker laid against a contemporary one. For all the data behind it, what it says to a traveller is simple: welcome."
+            "Jina Valentine's a murmuration maps two centuries of immigration to the region now called Illinois across 330 feet of Terminal 5. Nearly six hundred discs each stand for an immigrant population by decade, sized to Census data and colored by continent of origin. Their arrangement comes from an adaptation of the BOIDS flocking algorithm, the movement of a starling murmuration, and the armatures follow the region's waterways, drawn from an early map narrated by an Indigenous mapmaker laid against a contemporary one. For all the data behind it, what it says to a traveler is simple: welcome."
           ]
         },
         {
@@ -96,7 +96,7 @@
         {
           "label": "The material question",
           "text": [
-            "A sixteen foot helix inside a landmark had to be structure, circulation, and finish at once, and the finish had to belong to a century-old interior rather than sit on top of it."
+            "A sixteen foot helix inside a landmark had to be structure, circulation, and finish at once, and the finish had to belong to a century old interior rather than sit on top of it."
           ]
         },
         {
@@ -108,7 +108,7 @@
         {
           "label": "In place",
           "text": [
-            "It was ChiLab's first union job and our first large-scale installation in a historic building, one of two pieces we built for Uber Freight's headquarters."
+            "It was ChiLab's first union job and our first large scale installation in a historic building, one of two pieces we built for Uber Freight's headquarters."
           ]
         }
       ]
@@ -149,13 +149,13 @@
         {
           "label": "The material question",
           "text": [
-            "A field of unique parts. Every panel different, all of them reading as one continuous surface, and all of them draft-free, which conventional patterns cannot give you."
+            "A field of unique parts. Every panel different, all of them reading as one continuous surface, and all of them draft free, which conventional patterns cannot give you."
           ]
         },
         {
           "label": "The making",
           "text": [
-            "We built a parametric model in Grasshopper tuned to the space, sliced it into individual cast components, and printed the sand molds straight from the digital files, with no pattern in between. Done conventionally it would easily have cost four times as much and still could not have been draft-free; the design was only possible because that technology had just arrived. It was not clean. About eighteen panels came back scaled wrong: measured on site, they had shrunk in casting more than we had allowed for, and every one had to be reordered. A bummer, and a good lesson."
+            "We built a parametric model in Grasshopper tuned to the space, sliced it into individual cast components, and printed the sand molds straight from the digital files, with no pattern in between. Done conventionally it would easily have cost four times as much and still could not have been draft free; the design was only possible because that technology had just arrived. It was not clean. About eighteen panels came back scaled wrong: measured on site, they had shrunk in casting more than we had allowed for, and every one had to be reordered. A bummer, and a good lesson."
           ]
         },
         {
@@ -175,14 +175,14 @@
       "cat": "Architectural",
       "lead": "Chrome tubes rising from the sixth floor to the seventh floor skylight, with the KNOLL name in dark bronze.",
       "credits": [
-        "With CNL Projects, Gensler, and KNOLL"
+        "With CNL Projects, Gensler, and Knoll"
       ],
       "materials": "Chrome plated tube, dark bronze",
       "body": [
-        "In Chicago's West Loop, ChiLab produced an architectural sculpture that works as both a functional marquee and a brand statement for the KNOLL showroom.",
+        "In Chicago's West Loop, ChiLab produced an architectural sculpture that works as both a functional marquee and a brand statement for the Knoll showroom.",
         "Chrome tubes arranged in a row soar from the 6th floor to the skylight on the 7th, creating a vertical presence that pulls the eye upward. The KNOLL name is spelled in dark bronze letters mounted to the tubes, tying the screen to the 24 foot bronze table that anchors the showroom floor.",
         "The chrome and bronze palette was chosen against the warm red marble of the entry, so the sculpture reads as part of the room rather than an object placed in it.",
-        "The design is a nod to Harry Bertoia, whose work for KNOLL in the 1950s still sets the terms for the company's design language."
+        "The design is a nod to Harry Bertoia, whose work for Knoll in the 1950s still sets the terms for the company's design language."
       ],
       "imgs": [
         "assets/img/knoll-marquee/01.jpg",
@@ -280,7 +280,7 @@
         {
           "label": "The making",
           "text": [
-            "Each cross was cast in optically clear leaded glass, cold worked, and polished by hand. Fit was solved in the model. The CNC cut openings in the marble did not match the drawings we had been sent, so we measured the first machined sample, rebuilt our models from the actual stone, and travelled to the site to confirm the openings there matched it. Only then did we produce the run. They all fit."
+            "Each cross was cast in optically clear leaded glass, cold worked, and polished by hand. Fit was solved in the model. The CNC cut openings in the marble did not match the drawings we had been sent, so we measured the first machined sample, rebuilt our models from the actual stone, and traveled to the site to confirm the openings there matched it. Only then did we produce the run. They all fit."
           ]
         },
         {
@@ -304,9 +304,9 @@
       ],
       "materials": "Cast and fabricated bronze, Pentelic marble",
       "body": [
-        "The gravity defying stature of the pedestal design was an engineering problem as much as a design one, resolved in collaboration with Santiago Calatrava.",
-        "In matching pairs, the bronze pedestals serve the entryway of the chapel, ordained with iconographic tablets. As guests enter, the pedestals function as bases for prayer.",
-        "Contemporary metalworking meets an ancient stone: the pedestals carry Pentelic marble, the same quarry that supplied the Parthenon."
+        "The gravity defying stance of the pedestal design was an engineering problem as much as a design one, resolved in collaboration with Santiago Calatrava.",
+        "In matching pairs, the bronze pedestals serve the entryway of the chapel, adorned with iconographic tablets. As guests enter, the pedestals function as bases for prayer.",
+        "Contemporary metalworking meets an ancient stone: the pedestals carry Pentelic marble, from the same quarry that supplied the Parthenon."
       ],
       "imgs": [
         "assets/img/st-nicholas-icon-stands/01.jpg",
@@ -343,6 +343,9 @@
             "The crates the marble shipped in are still with us. We keep them like reliquaries."
           ]
         }
+      ],
+      "pamphlet_exclude": [
+        "assets/img/st-nicholas-icon-stands/07.jpg"
       ]
     },
     {
@@ -378,7 +381,7 @@
         {
           "label": "The work",
           "text": [
-            "The fourth floor gallery outside the Illinois House of Representatives is lined with nineteenth century cast iron handrails, bought from a Sears catalog in the late 1890s. Over the decades they had been painted and repainted to look like bronze, then gold, then back again. The job was to return them to what they were, and to make them safe for the people who use the building now."
+            "The fourth floor gallery outside the Illinois House of Representatives is lined with nineteenth century cast iron handrails, most likely bought from a Sears catalog around 1880 to 1890. Over the decades they had been painted and repainted to look like bronze, then gold, then back again. The job was to return them to what they were, and to make them safe for the people who use the building now."
           ]
         },
         {
@@ -390,7 +393,7 @@
         {
           "label": "The making",
           "text": [
-            "We removed the components and stripped them back to bare iron. The railing is modular and its sections repeat, so a detail missing in one panel could almost always be found in another; we molded just that portion and cast the replacements, alongside match plate sand patterns and lost wax reproductions patinated to match. The original top rail had itself been wood, in very poor condition. We replaced it with a cap milled to the same profile used throughout the capitol, which gave the height ADA required."
+            "We removed the components and stripped them back to bare iron. The railing is modular and its sections repeat, so a detail missing in one panel could almost always be found in another; we molded just that portion and cast the replacements, alongside match plate sand patterns and lost wax reproductions patinated to match. The original top rail had itself been wood, in very poor condition. We replaced it with a cap milled to the same profile used throughout the Capitol, which gave the height ADA required."
           ]
         },
         {
@@ -408,7 +411,7 @@
       "year": "2024",
       "place": "Chicago, IL",
       "cat": "Public Art",
-      "lead": "Twenty nine cast aluminum butterfly sculptures installed across Chicago, each finished by a local artist.",
+      "lead": "Twenty-nine cast aluminum butterfly sculptures installed across Chicago, each finished by a local artist.",
       "credits": [
         "Peggy Notebaert Nature Museum",
         "29 Chicago artists"
@@ -439,13 +442,13 @@
         {
           "label": "The work",
           "text": [
-            "Twenty nine six-foot butterflies across Chicago, from Lakeview to South Shore to Austin, each finished by a different local artist, for the Peggy Notebaert Nature Museum. Two species, the Regal Fritillary and the Black Swallowtail, carried out of the museum and into neighborhoods across the city."
+            "Twenty-nine six foot butterflies across Chicago, from Lakeview to South Shore to Austin, each finished by a different local artist, for the Peggy Notebaert Nature Museum. Two species, the Regal Fritillary and the Black Swallowtail, carried out of the museum and into neighborhoods across the city."
           ]
         },
         {
           "label": "The material question",
           "text": [
-            "One blank, twenty nine artists, and a year outdoors in Chicago. The sculpture had to be a clean canvas any artist could work on, and survive whatever they put on it."
+            "One blank, twenty-nine artists, and a year outdoors in Chicago. The sculpture had to be a clean canvas any artist could work on, and survive whatever they put on it."
           ]
         },
         {
@@ -577,18 +580,18 @@
     {
       "slug": "jardin-de-gargolas",
       "title": "Jardin de Gargolas",
-      "sub": "YolloCalli Arts Reach",
+      "sub": "Yollocalli Arts Reach",
       "year": "2024",
       "place": "Chicago, IL",
       "cat": "Public Art",
       "lead": "Student designed garden gargoyles taken from 3D model to cast aluminum sculpture.",
       "credits": [
-        "YolloCalli Arts Reach",
+        "Yollocalli Arts Reach",
         "Artist educator: Secret of Manna"
       ],
       "materials": "Cast aluminum, dark patina",
       "body": [
-        "In collaboration with YolloCalli Arts Reach and artist educator Secret of Manna, we helped bring students' 3D digital garden gargoyle designs into the physical world.",
+        "In collaboration with Yollocalli Arts Reach and artist educator Secret of Manna, we helped bring students' 3D digital garden gargoyle designs into the physical world.",
         "Starting in fall 2023, students conceptualized their creations in design software. By spring the project had become a fabrication and exhibition class. We printed the sculptures in house and prepared them for casting.",
         "The 3D printed sculptures became the positive for a resin sand mold system, a lost PLA process that gives a direct translation between the digital design and its metal duplicate.",
         "Once cast, the gargoyle pieces were welded together and finished with a dark patina."
@@ -708,7 +711,7 @@
       ],
       "materials": "Powder coated steel, stone, millwork",
       "body": [
-        "A custom retail fixture and display package for Saint Alfred, produced with Chelsea Lombardo of Interiors + Objects.",
+        "A custom retail fixture and display package for St. Alfred, produced with Chelsea Lombardo of Interiors + Objects.",
         "We translated the retail design into a single powder coated steel system: display fixtures, modified industrial shelving, shoe racks, hanger bars, and a modular center display, with a steel clad cash counter topped in stone."
       ],
       "imgs": [
@@ -723,7 +726,7 @@
         {
           "label": "The work",
           "text": [
-            "Saint Alfred is a Chicago streetwear boutique. For its flagship, Chelsea Lombardo designed a store that would read as one room: every fixture part of the same object rather than a collection of furniture."
+            "St. Alfred is a Chicago streetwear boutique. For its flagship, Chelsea Lombardo designed a store that would read as one room: every fixture part of the same object rather than a collection of furniture."
           ]
         },
         {
@@ -794,6 +797,9 @@
             "Ten years on, roughly ten tables. The form stays consistent; the flow of the glass and its bubble pattern are each table's own."
           ]
         }
+      ],
+      "pamphlet_exclude": [
+        "assets/img/methodology-table/04.jpg"
       ]
     },
     {
@@ -905,7 +911,7 @@
       "year": "2024",
       "place": "Evanston, IL",
       "cat": "Architectural",
-      "lead": "Dark patinated, bronze finished steel and reeded glass partitions, shelving and doors across a family office floor, built and installed with union crews.",
+      "lead": "Dark patinated, bronze finished steel and reeded glass partitions, shelving, and doors across a family office floor, built and installed with union crews.",
       "credits": [
         "Client: LFO Management / Litowitz Family Office",
         "General contractor: Clune Construction",
@@ -942,7 +948,7 @@
         {
           "label": "The material question",
           "text": [
-            "Reeded glass is extremely difficult to work with. Every piece was valuable, and one wrong measurement meant a lot of work to make a replacement. The doors were big and heavy enough to demand acute attention to detail. And this was never one wall: it was a system for hanging and mounting walls, which had to land on the millwork, the soffits and the building's pipes without a misaligned line."
+            "Reeded glass is extremely difficult to work with. Every piece was valuable, and one wrong measurement meant a lot of work to make a replacement. The doors were big and heavy enough to demand acute attention to detail. And this was never one wall: it was a system for hanging and mounting walls, which had to land on the millwork, the soffits, and the building's pipes without a misaligned line."
           ]
         },
         {
@@ -1008,7 +1014,7 @@
         {
           "label": "In place",
           "text": [
-            "What no one anticipated was the weight, and how much it would change the experience. On the first day of WANTED DESIGN 2013, in an area curated by Cappellini, he went to move what he thought was a standard folding chair and could not lift it. He stepped back and laughed. The chair went on to the cover of the New York Times' Design Week coverage that year."
+            "What no one anticipated was the weight, and how much it would change the experience. On the first day of WANTED DESIGN 2013, in an area curated by Cappellini, Cappellini himself was walking through straightening things up. He went to move what he thought was a standard folding chair and could not move it at all. He stepped back and laughed. The chair went on to the cover of the New York Times' Design Week coverage that year."
           ]
         }
       ]
@@ -1024,7 +1030,7 @@
       "credits": [],
       "materials": "Hand blown glass, metal",
       "body": [
-        "A lamp and pendant family developed in house, taking its geometry from the boolean intersection of two primitive volumes. Produced in hand blown glass and later scaled into the Kuma's West Loop interior."
+        "A lamp and pendant family developed in house, taking its geometry from a boolean: the aluminum clip light subtracted from a bubble of glass. Produced in hand blown glass and later scaled into the Kuma's West Loop interior."
       ],
       "imgs": [
         "assets/img/boolean-lamp/01.jpg",
@@ -1074,7 +1080,7 @@
       "materials": "Cultured marble, anodized aluminum",
       "body": [
         "The Architizer A+ Awards trophy, designed by Snarkitecture as a cast block with a torn upper edge and a cross shaped plaque set into the top. The objects were developed with Snarkitecture and produced in series for the 2015 and 2016 programs.",
-        "The torn upper edge is the whole design, and holding it identical across a long production run was the problem: a master worked until the fracture read right from every angle, silicone molds that would not soften it, a cultured marble mix that filled it cleanly, and the plaques, packing, and labelling for awards shipping to winners worldwide."
+        "The torn upper edge is the whole design, and holding it identical across a long production run was the problem: a master worked until the fracture read right from every angle, silicone molds that would not soften it, a cultured marble mix that filled it cleanly, and the plaques, packing, and labeling for awards shipping to winners worldwide."
       ],
       "imgs": [
         "assets/img/architizer-a-award/01.jpg",
@@ -1110,7 +1116,7 @@
         {
           "label": "Doing it hundreds of times",
           "text": [
-            "Then the daunting part. Precision once is craft; precision hundreds of times is process. Packing and labelling for awards shipping to winners worldwide, so the last one out the door arrived as sharp as the first."
+            "Then the daunting part. Precision once is craft; precision hundreds of times is process. Packing and labeling for awards shipping to winners worldwide, so the last one out the door arrived as sharp as the first."
           ]
         }
       ]
@@ -1164,7 +1170,7 @@
         {
           "label": "In place",
           "text": [
-            "After nearly two years of permissions, proofs and payload changes, the edition of eight coins launched on May 15, 2026 aboard the Polaris mission, bound for the International Space Station. They have not yet come back to Earth."
+            "After nearly two years of permissions, proofs, and payload changes, the edition of eight coins launched on May 15, 2026 aboard the Polaris mission, bound for the International Space Station. They have not yet come back to Earth."
           ]
         }
       ]
@@ -1278,14 +1284,14 @@
       "year": "2023",
       "place": "Chicago, IL",
       "cat": "Glass",
-      "lead": "Twenty three cast lead crystal bars and bricks taken from a demolished Chicago corrections facility.",
+      "lead": "Twenty-three cast lead crystal bars and bricks taken from a demolished Chicago corrections facility.",
       "credits": [
         "Artist: Maria Gaspar",
         "Glass: Ally Reza"
       ],
       "materials": "Lead crystal, polished",
       "body": [
-        "Rubber molds were taken from bars and bricks salvaged from a demolished Chicago corrections facility, then cast in lead crystal and polished on selected faces. Twenty three elements in total, produced for artist Maria Gaspar."
+        "Rubber molds were taken from bars and bricks salvaged from a demolished Chicago corrections facility, then cast in lead crystal and polished on selected faces. Twenty-three elements in total, produced for artist Maria Gaspar."
       ],
       "imgs": [
         "assets/img/jail-debris/01.jpg",
@@ -1313,7 +1319,7 @@
         {
           "label": "The making",
           "text": [
-            "We sealed every piece with a natural, water-soluble coating that held the paint and patina in place and kept them clear of the mold, took rubber molds, and cast them in lead crystal, polished on selected faces."
+            "We sealed every piece with a natural, water soluble coating that held the paint and patina in place and kept them clear of the mold, took rubber molds, and cast them in lead crystal, polished on selected faces."
           ]
         },
         {
@@ -1362,7 +1368,7 @@
         {
           "label": "The making",
           "text": [
-            "The day was scheduled like an organ transfer. The bite was taken with the collector, the apple went straight into a bag and across the city to the studio, where a flask sized to it and the rubber were ready to pour. There was almost no browning. The teeth marks look as if they just happened, and the mold smelled of fresh apple."
+            "The day was scheduled like an organ transplant. The bite was taken with the collector, the apple went straight into a bag and across the city to the studio, where a flask sized to it and the rubber were ready to pour. There was almost no browning. The teeth marks look as if they just happened, and the mold smelled of fresh apple."
           ]
         },
         {
@@ -1424,7 +1430,7 @@
         {
           "label": "In place",
           "text": [
-            "Shown in Materialities at the Driehaus Museum from February 7 to April 27, 2025. The artists thanked Matthew Groves, H Schenck, Ally Reza and Ben Stagl. It was our second project with Industry of the Ordinary, after the cast glass Apple."
+            "Shown in Materialities at the Driehaus Museum from February 7 to April 27, 2025. The artists thanked Matthew Groves, H Schenck, Ally Reza, and Ben Stagl. It was our second project with Industry of the Ordinary, after the cast glass Apple."
           ]
         }
       ]
@@ -1524,7 +1530,7 @@
         {
           "label": "The making",
           "text": [
-            "As mold makers we preserve originals wherever we can. The earthenware got the same natural water-soluble sealer as Maria Gaspar's Jail Debris; we molded it and cast in lead crystal, and the originals came back intact for her to show."
+            "As mold makers we preserve originals wherever we can. The earthenware got the same natural water soluble sealer as Maria Gaspar's Jail Debris; we molded it and cast in lead crystal, and the originals came back intact for her to show."
           ]
         },
         {
