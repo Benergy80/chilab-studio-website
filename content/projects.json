@@ -656,7 +656,14 @@
         "assets/img/homebound/03.jpg",
         "assets/img/homebound/04.jpg",
         "assets/img/homebound/05.jpg",
-        "assets/img/homebound/06.jpg"
+        "assets/img/homebound/06.jpg",
+        "assets/img/homebound/07.jpg",
+        "assets/img/homebound/08.jpg",
+        "assets/img/homebound/09.jpg",
+        "assets/img/homebound/10.jpg",
+        "assets/img/homebound/11.jpg",
+        "assets/img/homebound/12.jpg",
+        "assets/img/homebound/13.jpg"
       ],
       "story": [
         {
@@ -683,7 +690,8 @@
             "Installed on the lakefront at the north end of the Grant Park waterfront trail, one of twelve pieces supported by E(art)h Chicago across the city. It was an honor to work with a Chicago artist, to build community around this city, and to help bring his work into civic space. We worked with Suryajaya twice over two years, on Homebound and again on Flight of Butterflies."
           ]
         }
-      ]
+      ],
+      "max_plates": 12
     },
     {
       "slug": "st-alfred",
