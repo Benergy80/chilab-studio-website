@@ -7,3 +7,9 @@
 /Users/flex/.playwright-mcp/lfo-02.png
 /Users/flex/.playwright-mcp/lfo-09.png
 /Users/flex/.playwright-mcp/lfo-08.png
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1304_IMG_2936.jpg
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1328_IMG_2946.jpg
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1614_IMG_2957.jpg
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1615_IMG_2964.jpg
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1626_IMG_2974.jpg
+/Users/flex/chilab-projects-2026/Projects/Litowitz Family Office/Final Doc /2024-10-16_1711_IMG_2985.jpg

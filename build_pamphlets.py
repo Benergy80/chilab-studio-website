@@ -221,7 +221,7 @@ def close_sheet(p, site, no, total):
 def build_pamphlet(p, site):
     also_imgs = set(p.get("also", {}).get("imgs", [])) | set(p.get("pamphlet_exclude", []))
     imgs = [x for x in p["plates"]
-            if x["src"] != p["cover"] and x["src"] not in also_imgs][:MAX_PLATES]
+            if x["src"] != p["cover"] and x["src"] not in also_imgs][:p.get("max_plates", MAX_PLATES)]
     # Without a story the first plate rides the text sheet as a wide band, so a
     # short page does not end in white. A story fills the page on its own.
     band = imgs.pop(0) if imgs and not p.get("story") else None

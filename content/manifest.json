@@ -1114,5 +1114,82 @@
       "w": 1280,
       "h": 481
     }
+  ],
+  "litowitz-family-office": [
+    {
+      "src": "assets/img/litowitz-family-office/01.jpg",
+      "w": 1800,
+      "h": 1203
+    },
+    {
+      "src": "assets/img/litowitz-family-office/02.jpg",
+      "w": 1800,
+      "h": 1037
+    },
+    {
+      "src": "assets/img/litowitz-family-office/03.jpg",
+      "w": 1800,
+      "h": 1164
+    },
+    {
+      "src": "assets/img/litowitz-family-office/04.jpg",
+      "w": 1800,
+      "h": 1351
+    },
+    {
+      "src": "assets/img/litowitz-family-office/05.jpg",
+      "w": 1288,
+      "h": 1720
+    },
+    {
+      "src": "assets/img/litowitz-family-office/06.jpg",
+      "w": 1282,
+      "h": 1716
+    },
+    {
+      "src": "assets/img/litowitz-family-office/07.jpg",
+      "w": 1526,
+      "h": 1572
+    },
+    {
+      "src": "assets/img/litowitz-family-office/08.jpg",
+      "w": 1800,
+      "h": 924
+    },
+    {
+      "src": "assets/img/litowitz-family-office/09.jpg",
+      "w": 1270,
+      "h": 1694
+    },
+    {
+      "src": "assets/img/litowitz-family-office/10.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/litowitz-family-office/11.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/litowitz-family-office/12.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/litowitz-family-office/13.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/litowitz-family-office/14.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/litowitz-family-office/15.jpg",
+      "w": 1800,
+      "h": 1350
+    }
   ]
 }

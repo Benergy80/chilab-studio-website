@@ -64,32 +64,29 @@
         {
           "label": "The work",
           "text": [
-            "A sixth floor build out for the Litowitz Family Office at 1616 Orrington in Evanston: demountable steel and glass partitions, boardroom and elevator entry assemblies, library and lounge metalwork, and back bar and column shelving, all in one dark bronze steel and glass language from the elevator lobby through the boardrooms to the lounge."
+            "A sixth floor build out for the Litowitz Family Office at 1616 Orrington in Evanston: demountable steel and glass partitions, boardroom and elevator entry assemblies, library and lounge metalwork, back bar and column shelving, and custom doors, all in one dark bronze steel and reeded glass language from the elevator lobby through the boardrooms to the lounge. The direction came from the client and Gensler together, with the Gensler team, as so often, the creative engine behind it."
           ]
         },
         {
           "label": "The material question",
           "text": [
-            "A whole floor had to read as one room. The steel grid had to land on the millwork, the soffits, and the building's pipes without a single misaligned line, and reeded glass had to soften the office for privacy without closing it off from the light and the view of the city."
+            "Reeded glass is extremely difficult to work with. Every piece was valuable, and one wrong measurement meant a lot of work to make a replacement. The doors were big and heavy enough to demand acute attention to detail. And this was never one wall: it was a system for hanging and mounting walls, which had to land on the millwork, the soffits and the building's pipes without a misaligned line."
           ]
         },
         {
           "label": "The making",
           "text": [
-            "We drew and redrew the grid against the millwork shop drawings, removed a vertical mullion where a pipe could not move, and extended a soffit so the geometry stayed symmetrical from the lobby through the lounge. Back bar and column shelving went in with Houdini GL-02 reeded glass. Details ran down to perforated metal panels in the boardrooms, blackened and bronze thresholds with a floor grip treatment, elevator entry ceiling panels, custom doors and hardware. The steel was patinated dark, then given a bronze finish. We fabricated the system and directed union installers on site."
+            "We surveyed the existing conditions precisely enough that no shim or leveling gap ever had to be too wide, coordinated hardware with custom built doors, and developed methods for the curtain wall mullions and for installing them safely. Where a pipe could not move we removed a vertical mullion, and we extended a soffit to keep the geometry symmetrical from the lobby through the lounge. The steel was patinated dark, then given a bronze finish, a finish that grew out of our cast metal walls. We fabricated the system and directed Caputo's union installers, a stunning team for most of the project."
           ]
         },
         {
           "label": "In place",
           "text": [
-            "[What it was like / what it cost the studio / what you are proudest of. This is the studio's largest architectural package to date: confirm.]"
+            "It was our largest architectural package, and we learned a great deal from it. What we are proudest of is how beautiful the room turned out. Seeing the artwork that now hangs there, in its company, we are acutely aware of how special a place it is. The patina has since opened an entirely new market for the studio: we used the same finish again on the executive floors of Chase Bank Tower in downtown Chicago."
           ]
         }
       ],
-      "_flags": [
-        "I've left out the contract value and the closeout and payment correspondence on purpose.",
-        "The photos are the nine from the Duneland Beach proposal email. Should the man holding the reeded glass panel (08) stay in?"
-      ]
+      "_flags": []
     },
     {
       "slug": "palimpsest-driehaus",
@@ -184,7 +181,7 @@
       "title": "Chase Bank Tower",
       "sub": "[ ]",
       "year": "[ ]",
-      "place": "[Chicago, IL]",
+      "place": "Chicago, IL",
       "cat": "[ ]",
       "lead": "[ ]",
       "credits": [],
@@ -192,6 +189,9 @@
       "story": [],
       "_flags": [
         "Nothing to draft from. The archive folder has only an empty summary document and no photos. Everything is needed: what it was, scope, year, client, images."
+      ],
+      "_known": [
+        "Ben, 2026-10-06: ChiLab used the same dark patina, bronze finished steel developed on LFO on the executive floors of Chase Bank Tower in downtown Chicago."
       ]
     }
   ]
