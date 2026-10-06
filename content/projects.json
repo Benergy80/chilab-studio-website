@@ -934,10 +934,7 @@
         "assets/img/litowitz-family-office/09.jpg",
         "assets/img/litowitz-family-office/10.jpg",
         "assets/img/litowitz-family-office/11.jpg",
-        "assets/img/litowitz-family-office/12.jpg",
-        "assets/img/litowitz-family-office/13.jpg",
-        "assets/img/litowitz-family-office/14.jpg",
-        "assets/img/litowitz-family-office/15.jpg"
+        "assets/img/litowitz-family-office/12.jpg"
       ],
       "story": [
         {
@@ -965,7 +962,7 @@
           ]
         }
       ],
-      "max_plates": 14
+      "max_plates": 11
     },
     {
       "slug": "unfolding-chair",
