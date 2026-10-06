@@ -1,0 +1,132 @@
+{
+  "_note": "DRAFT records for projects not yet on the site. Not read by build.py. Bracketed text is unconfirmed. Sources: archive docs in ~/chilab-projects-2026/Projects, the old Claude Design decks, Ben's 2026-10-06 email, and the Duneland Beach proposal email (LFO photos).",
+  "projects": [
+    {
+      "slug": "far-side-iss-coin",
+      "title": "Far Side ISS Commemorative Coin",
+      "sub": "Cast silver coins for a Space Force research mission",
+      "year": "2026",
+      "place": "U.S. Air Force Academy / International Space Station",
+      "cat": "Objects",
+      "lead": "A small edition of hand cast .999 silver coins carrying a Gary Larson Far Side image to the International Space Station.",
+      "credits": ["Mission coordination: Maj. Travis Tubbs, U.S. Air Force Academy", "Concept: Kyle Melton", "Far Side artwork courtesy FarWorks, Inc."],
+      "materials": ".999 silver, lost wax cast from 3D printed resin",
+      "story": [
+        {"label": "The work", "text": ["A mission team at the U.S. Air Force Academy wanted to honor Gary Larson and the curiosity The Far Side has inspired in a generation of scientists, by flying one of his images to the International Space Station and returning it to him. The image chosen was his Earth as a balloon, “Listen, I think we better keep this quiet,” first published October 4, 1980. The other face carries the mission's Ad Astra imagery."]},
+        {"label": "The material question", "text": ["It could not be a minted challenge coin. A tribute to one artist had to be an object made by hand, in a tiny edition, with no permanent die, every file and mold accountable to the rights holders. And it had to fit a spaceflight payload: small, light, and cleared for flight."]},
+        {"label": "The making", "text": ["We translated Larson's 2D drawing into 3D relief, a conversion the mission lead called amazing work, then printed each coin in castable jewelry resin, burned it out, and poured it in .999 silver, about 1.5 inches across and an eighth of an inch thick. The final geometry needed a much larger cup and sprue than early tests, so each coin took far more silver to pour than it weighs. Files and production materials could be relinquished or destroyed at the end of the run, as the permissions required."]},
+        {"label": "In place", "text": ["After nearly two years of permissions, proofs and payload changes, the coins launched on May 15 [2026], bound for the International Space Station aboard the Polaris 2026 mission. [Docking / return to Gary Larson: confirm status.]"]}
+      ],
+      "_flags": [
+        "RIGHTS: the coin face is Gary Larson's copyrighted art. FarWorks controlled physical production and files tightly. Publishing photos of the coin on chilabstudio.com may need FarWorks' OK. Confirm before this goes live.",
+        "Name: is this the 'Space Force coins' project? Title options: 'Far Side ISS Commemorative Coin' vs 'Space Force Coins'.",
+        "Year and place: 2024 to 2026; launch May 15 [2026]. Where should the place line point?",
+        "Edition size: the docs range from 4 to 8 coins. Final count?",
+        "Mission name: the patch says Polaris 2026; the docs say SOPHIA / NIGHT. Which should the pamphlet use?"
+      ]
+    },
+    {
+      "slug": "litowitz-family-office",
+      "title": "Litowitz Family Office",
+      "sub": "1616 Orrington, Evanston",
+      "year": "2024",
+      "place": "Evanston, IL",
+      "cat": "Architectural",
+      "lead": "Blackened steel and reeded glass partitions, shelving and doors across a family office floor, built and installed with union crews.",
+      "credits": ["Client: LFO Management / Litowitz Family Office", "General contractor: Clune Construction", "Design review: Gensler", "Millwork: Imperial Woodworking", "Union steel and install: Caputo Steel Erectors"],
+      "materials": "Blackened steel, reeded glass, bronze",
+      "story": [
+        {"label": "The work", "text": ["A [6th / 7th] floor build out for the Litowitz Family Office at 1616 Orrington in Evanston: demountable steel and glass partitions, boardroom and elevator entry assemblies, library and lounge metalwork, and back bar and column shelving, all in one blackened metal and glass language from the elevator lobby through the boardrooms to the lounge."]},
+        {"label": "The material question", "text": ["A whole floor had to read as one room. The steel grid had to land on the millwork, the soffits, and the building's pipes without a single misaligned line, and reeded glass had to soften the office for privacy without closing it off from the light and the view of the city."]},
+        {"label": "The making", "text": ["We drew and redrew the grid against the millwork shop drawings, removed a vertical mullion where a pipe could not move, and extended a soffit so the geometry stayed symmetrical from the lobby through the lounge. Back bar and column shelving went in with Houdini GL-02 reeded glass. Details ran down to perforated metal panels in the boardrooms, blackened and bronze thresholds with a floor grip treatment, elevator entry ceiling panels, custom doors and hardware. We fabricated the system and directed union installers on site."]},
+        {"label": "In place", "text": ["[What it was like / what it cost the studio / what you are proudest of. This is the studio's largest architectural package to date: confirm.]"]}
+      ],
+      "_flags": [
+        "Floor: your email says the 7th floor; the project docs and old deck say the 6th. Which is right?",
+        "Your email says 'glass and bronze steel partitions'. Is the steel bronze finished, blackened, or both?",
+        "I've left out the contract value and the closeout and payment correspondence on purpose.",
+        "The photos are the nine from the Duneland Beach proposal email. Should the man holding the reeded glass panel (08) stay in?"
+      ]
+    },
+    {
+      "slug": "palimpsest-driehaus",
+      "title": "Palimpsest",
+      "sub": "Industry of the Ordinary, Driehaus Museum",
+      "year": "2025",
+      "place": "Driehaus Museum, Chicago",
+      "cat": "Objects",
+      "lead": "A Driehaus Museum doorknob, 3D scanned and recast in clay taken from the Chicago River.",
+      "credits": ["Artists: Industry of the Ordinary", "Exhibition: Materialities, curated by Giovanni Aloi", "Driehaus Museum"],
+      "materials": "Chicago River clay, painted wood",
+      "story": [
+        {"label": "The work", "text": ["After the Great Chicago Fire of 1871, new buildings had to be brick or stone, and builders dug clay from the bed of the Chicago River to make the bricks that rebuilt the Nickerson Mansion, now the Driehaus Museum. Industry of the Ordinary took a brass doorknob from one of the doors that separates the family rooms from the servants' quarters and remade it in Chicago River clay, laid on a prone facsimile of its door: a trapdoor between upstairs and downstairs, and a work about the labor that grand houses make invisible."]},
+        {"label": "The material question", "text": ["An exact copy of a museum object, in a material that fights precision. The original could not leave its door, and river clay shrinks and moves as it dries and fires, so the duplicate had to come from data, then survive the kiln still reading as that particular knob."]},
+        {"label": "The making", "text": ["We 3D scanned the knob and its plate in place at the museum, cleaned the scan into a model, and split it into molds for the knob and the backplate. Test pieces were pressed and fired [at more than one temperature] to dial in shrinkage and color. [Confirm the process: scanning, modeling, molds, pressing and firing. Who dug and prepared the clay?]"]},
+        {"label": "In place", "text": ["Shown in Materialities at the Driehaus Museum from February 7 to April 27, 2025. The artists thanked Matthew Groves, H Schenck, Ally Reza and Ben Stagl. It was our second project with Industry of the Ordinary, after the cast glass Apple."]}
+      ],
+      "_flags": [
+        "This changes the existing Apple record. Ally said you worked with Industry of the Ordinary 'again at the Driehaus a few months later', so the Driehaus job was Palimpsest, not the Apple. Should the Apple's place change from 'Driehaus Museum, Chicago' to Chicago?",
+        "Making beat: the photos show the scan, model, a two-part mold sketch and clay tests marked 1708 and 1945F. Please confirm the steps.",
+        "Industry of the Ordinary is Adam Brooks and Mathew Wilson. Name them in the credits?"
+      ]
+    },
+    {
+      "slug": "matcha-bar",
+      "title": "Matcha Bar",
+      "sub": "1857 W Chicago Ave",
+      "year": "[2025 to 2026]",
+      "place": "Chicago, IL",
+      "cat": "Retail",
+      "lead": "[A build out for a matcha bar on West Chicago Avenue: a gabion counter filled with white stone, a built in bench, and the bar's working fixtures.]",
+      "credits": ["[Client]", "[Design]"],
+      "materials": "[Steel mesh gabion, white stone, plywood, stainless steel]",
+      "story": [
+        {"label": "The work", "text": ["[What is the bar, who is it for, and what was the design idea? The gabion counter of white stones is the signature piece.]"]},
+        {"label": "The material question", "text": ["[What the stone counter, bench and fixtures asked of the materials.]"]},
+        {"label": "The making", "text": ["[The archive shows a full build out: plumbing and electrical rough in, plywood carcasses with stainless sinks, a mesh gabion counter filled with white stones, and a curved bench with round seats. What was ChiLab's scope: general contractor, or fixtures only?]"]},
+        {"label": "In place", "text": ["[Opened when? What it became.]"]}
+      ],
+      "_flags": [
+        "No finished photography: every archive image is construction progress. Do finished photos exist? Without them the pamphlet will look unfinished.",
+        "The address is from a 'Coming Soon' image (1857 W Chicago). Confirm, and the bar's real name.",
+        "The summary document in the folder is empty."
+      ]
+    },
+    {
+      "slug": "chase-tower",
+      "title": "Chase Bank Tower",
+      "sub": "[ ]",
+      "year": "[ ]",
+      "place": "[Chicago, IL]",
+      "cat": "[ ]",
+      "lead": "[ ]",
+      "credits": [],
+      "materials": "[ ]",
+      "story": [],
+      "_flags": [
+        "Nothing to draft from. The archive folder has only an empty summary document and no photos. Everything is needed: what it was, scope, year, client, images."
+      ]
+    },
+    {
+      "slug": "capitol-bronze-enclosures",
+      "title": "Illinois State Capitol Bronze Enclosures",
+      "sub": "Office of the Architect of the Capitol",
+      "year": "[2018?]",
+      "place": "Springfield, IL",
+      "cat": "[Restoration / Architectural]",
+      "lead": "[Ornamental bronze enclosures produced for the Illinois State Capitol.]",
+      "credits": ["Office of the Architect of the Capitol"],
+      "materials": "[Cast bronze?]",
+      "story": [
+        {"label": "The work", "text": ["[What the enclosures are, what they hold or conceal, and where in the Capitol they stand.]"]},
+        {"label": "The material question", "text": ["[ ]"]},
+        {"label": "The making", "text": ["[Restored originals or new castings? The pattern matches the period ironwork; how was it made?]"]},
+        {"label": "In place", "text": ["[ ]"]}
+      ],
+      "_flags": [
+        "Your email says the info for the enclosures was there, but I found nothing about them in the reply. Everything still needed.",
+        "Images: 01 to 03 from the archive Final folder, 04 to 05 the two removed from the handrails. Some may be the same shot."
+      ]
+    }
+  ]
+}
