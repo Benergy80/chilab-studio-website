@@ -8,7 +8,7 @@
       "year": "2026",
       "place": "U.S. Air Force Academy / International Space Station",
       "cat": "Objects",
-      "lead": "A small edition of hand cast .999 silver coins carrying a Gary Larson Far Side image to the International Space Station.",
+      "lead": "An edition of eight hand cast .999 silver coins carrying a Gary Larson Far Side image to the International Space Station.",
       "credits": [
         "Mission coordination: Maj. Travis Tubbs, U.S. Air Force Academy",
         "Concept: Kyle Melton",
@@ -37,16 +37,11 @@
         {
           "label": "In place",
           "text": [
-            "After nearly two years of permissions, proofs and payload changes, the coins launched on May 15 [2026], bound for the International Space Station aboard the Polaris 2026 mission. [Docking / return to Gary Larson: confirm status.]"
+            "After nearly two years of permissions, proofs and payload changes, the edition of eight coins launched on May 15, 2026 aboard the Polaris mission, bound for the International Space Station. They have not yet come back to Earth."
           ]
         }
       ],
-      "_flags": [
-        "Name: is this the 'Space Force coins' project? Title options: 'Far Side ISS Commemorative Coin' vs 'Space Force Coins'.",
-        "Year and place: 2024 to 2026; launch May 15 [2026]. Where should the place line point?",
-        "Edition size: the docs range from 4 to 8 coins. Final count?",
-        "Mission name: the patch says Polaris 2026; the docs say SOPHIA / NIGHT. Which should the pamphlet use?"
-      ],
+      "_flags": [],
       "_note_rights": "FarWorks permission granted for using images of the coins; the coins themselves are not to be reproduced (Ben, 2026-10-06)."
     },
     {
@@ -126,7 +121,7 @@
         {
           "label": "The making",
           "text": [
-            "We 3D scanned the knob and its plate in place at the museum, cleaned the scan into a model, and split it into molds for the knob and the backplate. Test pieces were pressed and fired [at more than one temperature] to dial in shrinkage and color. [Confirm the process: scanning, modeling, molds, pressing and firing. Who dug and prepared the clay?]"
+            "We 3D scanned the knob and its plate in place at the museum, cleaned the scan into a model, and split it into two molds, one for the knob and one for the backplate. Test pieces were pressed in the river clay and fired at different temperatures to dial in shrinkage and color before the final piece was made."
           ]
         },
         {
@@ -136,10 +131,7 @@
           ]
         }
       ],
-      "_flags": [
-        "Making beat: the photos show the scan, model, a two-part mold sketch and clay tests marked 1708 and 1945F. Please confirm the steps.",
-        "Industry of the Ordinary is Adam Brooks and Mathew Wilson. Name them in the credits?"
-      ]
+      "_flags": []
     },
     {
       "slug": "matcha-bar",

@@ -1030,5 +1030,89 @@
       "w": 1800,
       "h": 1200
     }
+  ],
+  "far-side-iss-coin": [
+    {
+      "src": "assets/img/far-side-iss-coin/01.jpg",
+      "w": 1800,
+      "h": 1013
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/02.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/03.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/04.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/05.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/06.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/far-side-iss-coin/07.jpg",
+      "w": 1350,
+      "h": 1800
+    }
+  ],
+  "palimpsest-driehaus": [
+    {
+      "src": "assets/img/palimpsest-driehaus/01.jpg",
+      "w": 480,
+      "h": 640
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/02.jpg",
+      "w": 1089,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/03.jpg",
+      "w": 1001,
+      "h": 961
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/04.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/05.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/06.jpg",
+      "w": 1268,
+      "h": 1586
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/07.jpg",
+      "w": 950,
+      "h": 1418
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/08.jpg",
+      "w": 960,
+      "h": 1280
+    },
+    {
+      "src": "assets/img/palimpsest-driehaus/09.jpg",
+      "w": 1280,
+      "h": 481
+    }
   ]
 }

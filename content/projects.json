@@ -1050,6 +1050,60 @@
       ]
     },
     {
+      "slug": "far-side-iss-coin",
+      "title": "Far Side ISS Commemorative Coin",
+      "sub": "Cast silver coins for a Space Force research mission",
+      "year": "2026",
+      "place": "U.S. Air Force Academy / International Space Station",
+      "cat": "Objects",
+      "lead": "An edition of eight hand cast .999 silver coins carrying a Gary Larson Far Side image to the International Space Station.",
+      "credits": [
+        "Mission coordination: Maj. Travis Tubbs, U.S. Air Force Academy",
+        "Concept: Kyle Melton",
+        "Far Side artwork courtesy FarWorks, Inc."
+      ],
+      "materials": ".999 silver, lost wax cast from 3D printed resin",
+      "body": [
+        "An edition of eight cast silver coins made for a U.S. Air Force Academy research mission, honoring Gary Larson by flying his Far Side image to the International Space Station.",
+        "We translated Larson's drawing into 3D relief, printed each coin in castable resin, and cast it by lost wax in .999 silver, about 1.5 inches across. The coins launched aboard the Polaris mission on May 15, 2026."
+      ],
+      "imgs": [
+        "assets/img/far-side-iss-coin/01.jpg",
+        "assets/img/far-side-iss-coin/02.jpg",
+        "assets/img/far-side-iss-coin/03.jpg",
+        "assets/img/far-side-iss-coin/04.jpg",
+        "assets/img/far-side-iss-coin/05.jpg",
+        "assets/img/far-side-iss-coin/06.jpg",
+        "assets/img/far-side-iss-coin/07.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A mission team at the U.S. Air Force Academy wanted to honor Gary Larson and the curiosity The Far Side has inspired in a generation of scientists, by flying one of his images to the International Space Station and returning it to him. The image chosen was his Earth as a balloon, “Listen, I think we better keep this quiet,” first published October 4, 1980. The other face carries the mission's Ad Astra imagery."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "It could not be a minted challenge coin. A tribute to one artist had to be an object made by hand, in a tiny edition, with no permanent die, every file and mold accountable to the rights holders. And it had to fit a spaceflight payload: small, light, and cleared for flight."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We translated Larson's 2D drawing into 3D relief, a conversion the mission lead called amazing work, then printed each coin in castable jewelry resin, burned it out, and poured it in .999 silver, about 1.5 inches across and an eighth of an inch thick. The final geometry needed a much larger cup and sprue than early tests, so each coin took far more silver to pour than it weighs. Files and production materials could be relinquished or destroyed at the end of the run, as the permissions required."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "After nearly two years of permissions, proofs and payload changes, the edition of eight coins launched on May 15, 2026 aboard the Polaris mission, bound for the International Space Station. They have not yet come back to Earth."
+          ]
+        }
+      ]
+    },
+    {
       "slug": "tessellation-wall",
       "title": "Cast Aluminum Tessellation Wall",
       "sub": "Gary Lee Partners",
@@ -1249,6 +1303,62 @@
           "label": "In place",
           "text": [
             "We worked with Industry of the Ordinary again a few months later, on Palimpsest at the Driehaus Museum."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "palimpsest-driehaus",
+      "title": "Palimpsest",
+      "sub": "Industry of the Ordinary, Driehaus Museum",
+      "year": "2025",
+      "place": "Driehaus Museum, Chicago",
+      "cat": "Objects",
+      "lead": "A Driehaus Museum doorknob, 3D scanned and recast in clay taken from the Chicago River.",
+      "credits": [
+        "Artists: Industry of the Ordinary",
+        "Exhibition: Materialities, curated by Giovanni Aloi",
+        "Driehaus Museum"
+      ],
+      "materials": "Chicago River clay, painted wood",
+      "body": [
+        "For the exhibition Materialities at the Driehaus Museum, Industry of the Ordinary remade a brass doorknob from the door between the family rooms and the servants' quarters in clay taken from the Chicago River, the same clay used for the bricks that rebuilt the mansion after the Great Chicago Fire.",
+        "We 3D scanned the original in place, modeled it, made molds, and pressed and fired the clay duplicate."
+      ],
+      "imgs": [
+        "assets/img/palimpsest-driehaus/01.jpg",
+        "assets/img/palimpsest-driehaus/02.jpg",
+        "assets/img/palimpsest-driehaus/03.jpg",
+        "assets/img/palimpsest-driehaus/04.jpg",
+        "assets/img/palimpsest-driehaus/05.jpg",
+        "assets/img/palimpsest-driehaus/06.jpg",
+        "assets/img/palimpsest-driehaus/07.jpg",
+        "assets/img/palimpsest-driehaus/08.jpg",
+        "assets/img/palimpsest-driehaus/09.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "After the Great Chicago Fire of 1871, new buildings had to be brick or stone, and builders dug clay from the bed of the Chicago River to make the bricks that rebuilt the Nickerson Mansion, now the Driehaus Museum. Industry of the Ordinary took a brass doorknob from one of the doors that separates the family rooms from the servants' quarters and remade it in Chicago River clay, laid on a prone facsimile of its door: a trapdoor between upstairs and downstairs, and a work about the labor that grand houses make invisible."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "An exact copy of a museum object, in a material that fights precision. The original could not leave its door, and river clay shrinks and moves as it dries and fires, so the duplicate had to come from data, then survive the kiln still reading as that particular knob."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We 3D scanned the knob and its plate in place at the museum, cleaned the scan into a model, and split it into two molds, one for the knob and one for the backplate. Test pieces were pressed in the river clay and fired at different temperatures to dial in shrinkage and color before the final piece was made."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Shown in Materialities at the Driehaus Museum from February 7 to April 27, 2025. The artists thanked Matthew Groves, H Schenck, Ally Reza and Ben Stagl. It was our second project with Industry of the Ordinary, after the cast glass Apple."
           ]
         }
       ]
