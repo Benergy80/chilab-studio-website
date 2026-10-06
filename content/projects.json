@@ -372,9 +372,7 @@
         "assets/img/illinois-state-capitol/03.jpg",
         "assets/img/illinois-state-capitol/04.jpg",
         "assets/img/illinois-state-capitol/05.jpg",
-        "assets/img/illinois-state-capitol/06.jpg",
-        "assets/img/illinois-state-capitol/07.jpg",
-        "assets/img/illinois-state-capitol/08.jpg"
+        "assets/img/illinois-state-capitol/06.jpg"
       ],
       "story": [
         {
@@ -401,10 +399,6 @@
             "For Ben Stagl it was one of the biggest honors of his life. The Architect of the Capitol took him inside the walls and up into the cupola, where they came out at the top with a direct line of sight to Lincoln's tomb. Then he handed Ben a Sharpie and let him sign the inside of the cupola, alongside others who have worked on the building."
           ]
         }
-      ],
-      "pamphlet_exclude": [
-        "assets/img/illinois-state-capitol/07.jpg",
-        "assets/img/illinois-state-capitol/08.jpg"
       ]
     },
     {
