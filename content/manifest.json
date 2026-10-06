@@ -688,35 +688,15 @@
     {
       "src": "assets/img/pritzker-reception-desk/02.jpg",
       "w": 1800,
-      "h": 1350
+      "h": 1295
     },
     {
       "src": "assets/img/pritzker-reception-desk/03.jpg",
       "w": 1800,
-      "h": 1295
+      "h": 1339
     },
     {
       "src": "assets/img/pritzker-reception-desk/04.jpg",
-      "w": 1800,
-      "h": 1296
-    },
-    {
-      "src": "assets/img/pritzker-reception-desk/05.jpg",
-      "w": 1800,
-      "h": 1339
-    },
-    {
-      "src": "assets/img/pritzker-reception-desk/06.jpg",
-      "w": 1800,
-      "h": 1339
-    },
-    {
-      "src": "assets/img/pritzker-reception-desk/07.jpg",
-      "w": 1800,
-      "h": 2700
-    },
-    {
-      "src": "assets/img/pritzker-reception-desk/08.jpg",
       "w": 1800,
       "h": 2700
     }
