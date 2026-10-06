@@ -402,14 +402,10 @@
           ]
         }
       ],
-      "also": {
-        "label": "Also at the Capitol",
-        "text": "Bronze enclosures, also produced for the Illinois State Capitol.",
-        "imgs": [
-          "assets/img/illinois-state-capitol/07.jpg",
-          "assets/img/illinois-state-capitol/08.jpg"
-        ]
-      }
+      "pamphlet_exclude": [
+        "assets/img/illinois-state-capitol/07.jpg",
+        "assets/img/illinois-state-capitol/08.jpg"
+      ]
     },
     {
       "slug": "flight-of-butterflies",
