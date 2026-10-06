@@ -354,7 +354,10 @@
       "cat": "Restoration",
       "lead": "Nineteenth century iron handrails on the fourth floor gallery, restored and brought to ADA compliance without losing their period character.",
       "credits": [
-        "Office of the Architect of the Capitol"
+        "Office of the Architect of the Capitol",
+        "CJP Architects",
+        "Imperial Woodworking",
+        "Chicago Crucible"
       ],
       "materials": "Cast iron, bronze, milled hardwood",
       "body": [
@@ -377,7 +380,7 @@
         {
           "label": "The work",
           "text": [
-            "The fourth floor gallery outside the Illinois House of Representatives is lined with nineteenth century cast iron handrails, estimated to have been bought from a catalog around 1880 to 1890. Over the decades they had been painted and repainted to look like bronze, then gold, then back again. The job was to return them to what they were, and to make them safe for the people who use the building now."
+            "The fourth floor gallery outside the Illinois House of Representatives is lined with nineteenth century cast iron handrails, bought from a Sears catalog in the late 1890s. Over the decades they had been painted and repainted to look like bronze, then gold, then back again. The job was to return them to what they were, and to make them safe for the people who use the building now."
           ]
         },
         {
@@ -398,7 +401,15 @@
             "For Ben Stagl it was one of the biggest honors of his life. The Architect of the Capitol took him inside the walls and up into the cupola, where they came out at the top with a direct line of sight to Lincoln's tomb. Then he handed Ben a Sharpie and let him sign the inside of the cupola, alongside others who have worked on the building."
           ]
         }
-      ]
+      ],
+      "also": {
+        "label": "Also at the Capitol",
+        "text": "Bronze enclosures, also produced for the Illinois State Capitol.",
+        "imgs": [
+          "assets/img/illinois-state-capitol/07.jpg",
+          "assets/img/illinois-state-capitol/08.jpg"
+        ]
+      }
     },
     {
       "slug": "flight-of-butterflies",

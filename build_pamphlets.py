@@ -170,6 +170,25 @@ def plate_sheet(p, site, layout, imgs, start_no, no, total):
 </section>"""
 
 
+def also_sheet(p, site, no, total, start):
+    """Related work made for the same client that is not part of the story."""
+    also = p["also"]
+    plates = "".join(
+        f'<figure class="plate">'
+        f'<img src="../{e(src)}" alt="{e(also["label"])}, plate {start + n:02d}">'
+        f'<figcaption class="no">{start + n:02d} &nbsp; {e(also["label"])}</figcaption>'
+        f'</figure>'
+        for n, src in enumerate(also["imgs"]))
+    return f"""<section class="sheet">
+{run_head(p, site)}
+<div class="also-body">
+  <div class="also-head"><h2>{e(also["label"])}</h2><p>{e(also["text"])}</p></div>
+  <div class="plates stack-2">{plates}</div>
+</div>
+{run_foot(p, site, no, total)}
+</section>"""
+
+
 def close_sheet(p, site, no, total):
     # capabilities are [name, description] pairs; the pamphlet wants the names.
     caps = "".join(f'<li>{e(c[0])}</li>' for c in site["capabilities"][:8])
@@ -200,18 +219,22 @@ def close_sheet(p, site, no, total):
 # ---------------------------------------------------------------- documents
 
 def build_pamphlet(p, site):
-    imgs = [x for x in p["plates"] if x["src"] != p["cover"]][:MAX_PLATES]
+    also_imgs = set(p.get("also", {}).get("imgs", []))
+    imgs = [x for x in p["plates"]
+            if x["src"] != p["cover"] and x["src"] not in also_imgs][:MAX_PLATES]
     # Without a story the first plate rides the text sheet as a wide band, so a
     # short page does not end in white. A story fills the page on its own.
     band = imgs.pop(0) if imgs and not p.get("story") else None
     pages = plate_pages(imgs)
-    total = 3 + len(pages)
+    total = 3 + len(pages) + (1 if p.get("also") else 0)
     sheets = [cover_sheet(p, site, 1, total),
               text_sheet(p, site, 2, total, band)]
     plate_no = 2 if band else 1
     for n, (layout, imgs) in enumerate(pages):
         sheets.append(plate_sheet(p, site, layout, imgs, plate_no, 3 + n, total))
         plate_no += len(imgs)
+    if p.get("also"):
+        sheets.append(also_sheet(p, site, total - 1, total, plate_no))
     sheets.append(close_sheet(p, site, total, total))
 
     title = f"{p['title']} pamphlet / {site['name']}"
