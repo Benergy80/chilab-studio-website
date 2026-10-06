@@ -492,7 +492,33 @@
         "assets/img/magnificent-mile-tulips/08.jpg",
         "assets/img/magnificent-mile-tulips/09.jpg"
       ],
-      "card": "assets/img/magnificent-mile-tulips/01.jpg"
+      "card": "assets/img/magnificent-mile-tulips/01.jpg",
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "The Apeldoorn tulip was bred in Holland specifically for Chicago's Magnificent Mile, and the Consulate General of the Netherlands took part in baptizing it. For years it could only be found on the Mile. Five oversized tulip sculptures, developed with artist Aiden Kelley, The Magnificent Mile Association, and CNL Projects, put Chicago's signature spring bloom into public sculpture."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A scaled up flower only works if it reads as the flower. Each tulip had to feel organic and pronounced, like a perfectly scaled up version of the real thing, and its color had to belong to its sponsor: the Apeldoorn's own red and yellow at 625 N. Michigan, and for the Driehaus Museum the exact reverse, yellow tips over red petals."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We dissected tulips to study their build, then fabricated the petals and finished them in automotive paint. Colors were chosen by each sponsoring business on the Mile, and as sponsors have picked new tulip varieties in recent years, the flowerbeds around the sculptures have been planted to match."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "A Chicago spring is wet and windy and tests everything left out in it. Every couple of years we collect the petals and repaint them, sometimes just covering dirt, sometimes wear and scratches, so the tulips come back fresh and new looking each season."
+          ]
+        }
+      ]
     },
     {
       "slug": "skims",
@@ -583,25 +609,25 @@
         {
           "label": "The work",
           "text": [
-            "Little Village teens with Yollocalli Arts Reach, the youth initiative of the National Museum of Mexican Art, designed their own garden gargoyles in 3D software. The idea grew from a rainwater garden and a bird bath, and the gargoyles are destined for Jardin Malinalli, the museum's youth garden in Pilsen and Little Village."
+            "Little Village teens with Yollocalli Arts Reach, the youth art program of the National Museum of Mexican Art, designed their own garden gargoyles in 3D software, with artist Secret of Manna. The idea grew from a rainwater garden and a bird bath, and the gargoyles are destined for Jardin Malinalli, the museum's youth garden in Pilsen and Little Village."
           ]
         },
         {
           "label": "The material question",
           "text": [
-            "A file on a screen had to become a permanent metal object, and the translation had to stay true to what each student made."
+            "A file on a screen had to become a permanent metal object, true to what each student made, and the students had to understand the process well enough to design for it."
           ]
         },
         {
           "label": "The making",
           "text": [
-            "We printed the sculptures in house and used the prints as positives in a resin bonded sand mold, a lost PLA process that turns a digital design directly into its metal duplicate. Cast in aluminum, welded, finished in a dark patina. With teaching artist Secret of Manna, the class became a fabrication and exhibition class, with professional tools in young artists' hands."
+            "The class came to the shop first. We showed them how their 3D prints would become molds and how metal would be poured, and poured a tiny demonstration mold that day. What they brought back for the real pour was really impressive. We printed the sculptures in house as positives for a resin bonded sand mold, a lost PLA process, then cast in aluminum, welded, and finished in a dark patina. We cast one early for a big reveal: everyone had seen the prints, but seeing it in metal was something else. The rest took about a week to cast."
           ]
         },
         {
           "label": "In place",
           "text": [
-            "Unveiled in April 2024 in the museum courtyard, as part of the exhibition New Age Grotesque. Each student pulled a one-of-a-kind creature out of the sand."
+            "Unveiled in April 2024 in the museum courtyard, part of the exhibition New Age Grotesque. Each gargoyle sat on its own pedestal in a small garden of flowers, each given its own space and all displayed as equals."
           ]
         }
       ]
@@ -662,17 +688,20 @@
     {
       "slug": "st-alfred",
       "title": "St. Alfred",
-      "sub": "Wicker Park storefront",
-      "year": "2023",
+      "sub": "Chicago flagship retail fixtures",
+      "year": "2022",
       "place": "Chicago, IL",
       "cat": "Retail",
-      "lead": "Storefront redesign for the Wicker Park location, produced with Chelsea Lombardo.",
+      "lead": "A powder coated steel fixture system and stone topped cash counter for the Chicago streetwear boutique.",
       "credits": [
-        "With Chelsea Lombardo"
+        "Design: Chelsea Lombardo, Interiors + Objects",
+        "Lighting: Max Davis",
+        "Millwork: Max CNC"
       ],
-      "materials": "Metal, glass, millwork",
+      "materials": "Powder coated steel, stone, millwork",
       "body": [
-        "Wicker Park storefront redesign produced in collaboration with Chelsea Lombardo."
+        "A custom retail fixture and display package for Saint Alfred, produced with Chelsea Lombardo of Interiors + Objects.",
+        "We translated the retail design into a single powder coated steel system: display fixtures, modified industrial shelving, shoe racks, hanger bars, and a modular center display, with a steel clad cash counter topped in stone."
       ],
       "imgs": [
         "assets/img/st-alfred/01.jpg",
@@ -681,6 +710,32 @@
         "assets/img/st-alfred/04.jpg",
         "assets/img/st-alfred/05.jpg",
         "assets/img/st-alfred/06.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Saint Alfred is a Chicago streetwear boutique. For its flagship, Chelsea Lombardo designed a store that would read as one room: every fixture part of the same object rather than a collection of furniture."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "One language across everything. Custom pieces and bought ones had to become indistinguishable, so the whole room would read as a single, specific monochrome."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "We translated the retail design into shop drawings and a single steel fixture system: display fixtures, modified industrial shelving, custom shoe racks, hanger bars, and a modular center display, with a steel clad cash counter topped in stone as the anchor of the floor. Everything we fabricated was powder coated, and the parts we bought, down to the shelving used for the clothing racks, were sent out for the same powder coat."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Coordinated around an active construction schedule and assembled on site. A fantastic collaboration with Chelsea Lombardo, with lighting designed and built by Max Davis."
+          ]
+        }
       ]
     },
     {
@@ -758,6 +813,32 @@
         "assets/img/360-n-green/07.jpg",
         "assets/img/360-n-green/08.jpg",
         "assets/img/360-n-green/09.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A reception desk for Sterling Bay at 360 N Green, meant to read as smooth, aged, and modern at once. The whole underside of the desk curves inward, so it seems to float: you almost feel the pebble could roll away, and it doesn't. It sits balanced, and tells you the building is intentional and here for a reason."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A form that depends on looking effortless. Any flaw in the surface, any seam or dent, would break the sense of a single smooth stone."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Industrial design, architecture, and interior detailing carried through one fabricated element. End pieces made by another shop came in with pour dents, and we concealed them until they matched the consistency and smoothness of everything else. The patina was applied on site, a finish developed for this desk."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Applying a finish we had made up, in place, with no way to take it back to the shop, took a lot of confidence from the whole team. It is one of the details we are proudest of."
+          ]
+        }
       ]
     },
     {
@@ -785,6 +866,32 @@
         "assets/img/pritzker-reception-desk/06.jpg",
         "assets/img/pritzker-reception-desk/07.jpg",
         "assets/img/pritzker-reception-desk/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A bronze clad reception desk and bronze framed credenza for the Pritzker Group offices. Bronze is a little bit of a power play, a statement of refined sensibility, and for a financial firm it balances old and new: set against the bright red feature wall behind it, the desk asserts value and taste while staying clean, welcoming, even fun."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "Cladding a desk in bronze leaves no room for error. The seams have to be tight and precise, and the metal has to meet a body built by someone else."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Developed with Imperial Woodworking and Lazuli Studio under Gensler's direction. We had the desk body in our shop while we prepared the cladding, and that is the only reason the work could be so precise: shims glued in at every gap so every measurement held, and some bronze pieces hand cut and beveled on the table saw by Ben Stagl to make the fit."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Installing the cladding on a busy union site, as a small specialist team not used to working that way, was its own challenge. The precision done in the shop is what made it go in clean."
+          ]
+        }
       ]
     },
     {
@@ -817,7 +924,7 @@
         {
           "label": "The work",
           "text": [
-            "The 1941 Krueger steel folding chair may be the most common chair ever made: a design that cost about two dollars, made from excess steel, built to fold flat and nest by the hundred. The Unfolding Chair takes a second look at it."
+            "The 1941 Krueger steel folding chair may be the most common chair ever made: about two dollars, made from excess steel, built to fold flat and nest by the hundred, the gym assembly chair kept in high school closets. Its utility made it universal, and it never got the Eames level respect. The Unfolding Chair takes a second look at it."
           ]
         },
         {
@@ -829,13 +936,13 @@
         {
           "label": "The making",
           "text": [
-            "Cast solid, it can no longer fold or nest. Designed and executed by Ben Stagl with Bo Rodda, Jason Gillette, Max Davis, and Kuan Wen Chiu."
+            "The idea came out of a heated debate between Ben Stagl, Bo Rodda, Max Davis, Kuan Wen Chiu, and Jason Gillette about what to take to New York. In a kitchen, someone pointed at a folding chair and said, let's just make that in solid bronze. Who said it is still debated. Ben was running a bronze manufacturing business at the time and saw it immediately: two or three molds, manageable in the time frame."
           ]
         },
         {
           "label": "In place",
           "text": [
-            "A humble stamped steel object, made a monument to itself. Selected for the Chicagoland exhibit at WANTED DESIGN during New York Design Week, 2013."
+            "What no one anticipated was the weight, and how much it would change the experience. On the first day of WANTED DESIGN 2013, in an area curated by Cappellini, he went to move what he thought was a standard folding chair and could not lift it. He stepped back and laughed. The chair went on to the cover of the New York Times' Design Week coverage that year."
           ]
         }
       ]
@@ -847,7 +954,7 @@
       "year": "2014",
       "place": "Chicago, IL",
       "cat": "Lighting",
-      "lead": "A hand blown pendant and table lamp built from a boolean intersection of two primitive forms.",
+      "lead": "A hand blown pendant and table lamp, shaped by subtracting the aluminum clip light from a bubble of glass.",
       "credits": [],
       "materials": "Hand blown glass, metal",
       "body": [
@@ -868,7 +975,7 @@
         {
           "label": "The material question",
           "text": [
-            "Its geometry is a boolean intersection of two primitive volumes, a clean digital operation. The question was whether hand blown glass could hold it."
+            "The name is the method. The lamp's shape is a boolean: the clip light subtracted from a bubble of glass, so the interior of the shade is determined by the exterior of the original aluminum light. The two are connected in lineage, and the glass had to carry that exact geometry."
           ]
         },
         {
@@ -880,7 +987,7 @@
         {
           "label": "In place",
           "text": [
-            "The pendant later scaled into the Kuma's Corner West Loop interior, circling the bar and filling the west wall portals."
+            "Our best selling object to date, sold to businesses overseas and at home and into many luxury kitchens and homes. The pendant also scaled up into the Kuma's Corner West Loop interior, circling the bar."
           ]
         }
       ]
@@ -968,6 +1075,32 @@
         "assets/img/tessellation-wall/06.jpg",
         "assets/img/tessellation-wall/07.jpg",
         "assets/img/tessellation-wall/08.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "A relief wall running the length of the counter in a Gary Lee Partners interior. The design the client had committed to was bronze in the renderings, a rippling surface that should never visibly repeat."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "The price had been promised before the wall was solved. Bronze at that scale, with that many unique pieces, was not possible for it. The question became how to keep the sense of a non-repeating ripple using a limited amount of tooling and a lighter metal."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "The answer was tessellation and edge symmetry: one repeating cast aluminum tile that reads as a continuous ripple rather than a grid. It was also the first time we turned aluminum into an oil rubbed bronze finish, and the hand rubbed patina added to the illusion in the best way. It bridged Ben Stagl's early training in patina at art foundries with his new work in Chicago as a designer and bespoke fabricator."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The patina trick became a studio method. We used it again, years later, on the parametric cast feature wall at Uber Freight's headquarters."
+          ]
+        }
       ]
     },
     {
@@ -978,7 +1111,9 @@
       "place": "Chicago, IL",
       "cat": "Retail",
       "lead": "Custom lighting, metalwork, furnishings, and artistic details for the Fulton Market location.",
-      "credits": [],
+      "credits": [
+        "Stained glass with Steven Krejcik"
+      ],
       "materials": "Hand blown glass, rusted steel, LED",
       "body": [
         "Development and manufacture of custom lighting, metalwork, selected furnishings, and artistic details for the Kuma's Corner West Loop location at Peoria and Fulton Market.",
@@ -988,6 +1123,32 @@
         "assets/img/kumas-west-loop/01.jpg",
         "assets/img/kumas-west-loop/02.jpg",
         "assets/img/kumas-west-loop/03.jpg"
+      ],
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Custom lighting, metalwork, furnishings, and artistic details for Kuma's Corner at Peoria and Fulton Market. Kuma's has a real culture, and the point was to keep it authentic and at the forefront rather than contrive a theme."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "A franchise opening new locations needs coherent signature elements. The risk is that coherence turns into a theme restaurant. The honesty at Kuma's is the people who work there, so their hands had to be in the room."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Employees contributed their own illustrations and panels, which we built into the bar itself. With one of the cooks, an incredible filigree illustrator, we developed stained glass windows from his drawings, made with our friend Steven Krejcik. Hand blown Boolean pendants circle the bar, with larger ones in the west wall portals, and below bar lights and a stage truss for the hanging bar shelves give the location its signature look."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "The coherent pieces carry from location to location. What makes it Kuma's is the culture itself, and the layers the people working there added over the top of it."
+          ]
+        }
       ]
     },
     {
