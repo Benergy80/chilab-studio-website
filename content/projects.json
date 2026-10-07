@@ -967,6 +967,65 @@
       "max_plates": 11
     },
     {
+      "slug": "chase-tower-executive-floors",
+      "title": "Chase Tower Executive Floors",
+      "sub": "JPMorgan Chase corporate executive offices, floors 56 and 57",
+      "year": "2026",
+      "place": "Chicago, IL",
+      "cat": "Architectural",
+      "lead": "Dark patinated, bronze finished steel portals, elevator surrounds, shelving and panels for Chase's corporate executive offices at Chase Tower, in the finish developed for the Litowitz Family Office.",
+      "credits": [
+        "Design: Gensler Chicago",
+        "General contractor: ECI",
+        "Millwork and installation: Parenti & Raffaelli",
+        "Metal fabrication: Multimetal Products",
+        "Patina and finish: ChiLab Studio"
+      ],
+      "materials": "Steel, patinated dark and bronze finished",
+      "story": [
+        {
+          "label": "The work",
+          "text": [
+            "Floors 56 and 57 of Chase Tower in downtown Chicago are Chase Bank's corporate executive offices, designed by Gensler Chicago. ChiLab finished the steel that frames them: hallway and conference portals, elevator surrounds and jamb liners, the library, shelving, and the dining room metal."
+          ]
+        },
+        {
+          "label": "The material question",
+          "text": [
+            "The finish was the one we developed for the Litowitz Family Office, patinated dark and then bronze finished. Here it had to hold across hundreds of parts from another fabricator, arriving in batches, and match on site from one floor to the next."
+          ]
+        },
+        {
+          "label": "The making",
+          "text": [
+            "Multimetal fabricated the steel and Parenti & Raffaelli installed it; every portal, plate and angle passed through our shop for patina and finish in the order the site needed them, and we finished on site after install so every surface matched."
+          ]
+        },
+        {
+          "label": "In place",
+          "text": [
+            "Completed in summer 2026. It was awesome to have this finish brought into this job. For a decade we have built this business around the alchemy of patina, making other metals into bronze, and here it frames the executive offices of one of the country's largest banks."
+          ]
+        }
+      ],
+      "imgs": [
+        "assets/img/chase-tower-executive-floors/01.jpg",
+        "assets/img/chase-tower-executive-floors/02.jpg",
+        "assets/img/chase-tower-executive-floors/03.jpg",
+        "assets/img/chase-tower-executive-floors/04.jpg",
+        "assets/img/chase-tower-executive-floors/05.jpg",
+        "assets/img/chase-tower-executive-floors/06.jpg",
+        "assets/img/chase-tower-executive-floors/07.jpg",
+        "assets/img/chase-tower-executive-floors/08.jpg",
+        "assets/img/chase-tower-executive-floors/09.jpg",
+        "assets/img/chase-tower-executive-floors/10.jpg"
+      ],
+      "body": [
+        "Dark patinated, bronze finished steel portals, elevator surrounds and jamb liners, library and shelving metal for Chase Bank's corporate executive offices on floors 56 and 57 of Chase Tower in Chicago. Designed by Gensler Chicago, with ECI as general contractor; Multimetal Products fabricated the steel, Parenti & Raffaelli installed it, and ChiLab carried out the patina and finish developed for the Litowitz Family Office."
+      ],
+      "max_plates": 9
+    },
+    {
       "slug": "unfolding-chair",
       "title": "Solid Cast Bronze Unfolding Chair",
       "sub": "One hundred pounds of solid bronze",

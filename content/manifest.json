@@ -1191,5 +1191,57 @@
       "w": 1800,
       "h": 1350
     }
+  ],
+  "chase-tower-executive-floors": [
+    {
+      "src": "assets/img/chase-tower-executive-floors/01.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/02.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/03.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/04.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/05.jpg",
+      "w": 1800,
+      "h": 1350
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/06.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/07.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/08.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/09.jpg",
+      "w": 1350,
+      "h": 1800
+    },
+    {
+      "src": "assets/img/chase-tower-executive-floors/10.jpg",
+      "w": 1800,
+      "h": 1350
+    }
   ]
 }
